@@ -1,4 +1,7 @@
 <application>
+  <component name="RelativeLineNumbersSettings">
+    <option name="enabled" value="false" />
+  </component>
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
@@ -155,12 +158,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1494592175464">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1494614043180">
         <mark key="'" line="183" column="34" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="110" column="0" />
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="27" />
         <mark key="^" line="115" column="11" />
-        <mark key="." line="436" column="33" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryDao.php" timestamp="1493718810680">
         <mark key="[" line="2" column="47" />
@@ -213,6 +216,12 @@
         <mark key="]" line="73" column="46" />
         <mark key="." line="73" column="46" />
         <mark key="^" line="73" column="46" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f74dedf-ab2b-4f95-8e78-d693c6dbde3b/console.sql" timestamp="1494613743119">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusQuery.php" timestamp="1493714380713">
         <mark key="[" line="14" column="0" />
@@ -342,7 +351,7 @@
         <text>MANAGER</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpJTkZPX1BBR0VfQkxPQ0tfQkFMQU5DRSwKICAgICAgICBzZWxmOjpJTkZPX1BBR0VfQkxPQ0tfVVNFUlMsCiAgICAgICAgc2VsZjo6SU5GT19QQUdFX0JMT0NLX09GRkVSU19SRU5ULAogICAgICAgIHNlbGY6OklORk9fUEFHRV9CTE9DS19PRkZFUlNfU0FMRSwKICAgICAgICBzZWxmOjpJTkZPX1BBR0VfQkxPQ0tfREVNQU5EU19SRU5ULAogICAgICAgIHNlbGY6OklORk9fUEFHRV9CTE9DS19ERU1BTkRTX1NBTEUKIA==</text>
+        <text>_TYPE_DISTR</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RGVsaSBmaXggLS0gZm9sZGVyIHJlbmFtZQo=</text>
@@ -480,6 +489,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
