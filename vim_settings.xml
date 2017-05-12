@@ -1,0 +1,486 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/fullcovers/fullcoversList.php" timestamp="1491378922061">
+        <mark key="[" line="111" column="51" />
+        <mark key="]" line="111" column="51" />
+        <mark key="." line="111" column="51" />
+        <mark key="^" line="111" column="51" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-03/201703211330_MM-2073_insert_default_workflow_status_categories.php" timestamp="1493715098980">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Hypo/Deal/MortgageStaff/BruttoPoints/History/MortgageStaffBruttoPointsHistoryMapper.php" timestamp="1486371106951">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="4" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementsReconstructionController.php" timestamp="1491291922266">
+        <mark key="'" line="265" column="6" />
+        <mark key="[" line="265" column="7" />
+        <mark key="]" line="265" column="8" />
+        <mark key="." line="265" column="8" />
+        <mark key="^" line="265" column="8" />
+      </file>
+      <file name="restClient/response4.txt" timestamp="1491227132952">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Mapper.php" timestamp="1491290212726">
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="29" />
+        <mark key="." line="35" column="29" />
+        <mark key="^" line="35" column="29" />
+      </file>
+      <file name="/a.dummy" timestamp="1491392374923">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementsBrokerCareController.php" timestamp="1487584021497">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="5" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="117" column="5" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/db/migrations/201704101353_MM-2114_alter_balance_table_with_new_money_columns.php" timestamp="1491982556924">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="restClient/response5.json" timestamp="1493709367762">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/build.xml" timestamp="1492207229127">
+        <mark key="'" line="2787" column="0" />
+        <mark key="[" line="2693" column="20" />
+        <mark key="." line="2693" column="22" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl/Response.php" timestamp="1491392829534">
+        <mark key="'" line="27" column="22" />
+        <mark key="[" line="79" column="37" />
+        <mark key="]" line="79" column="42" />
+        <mark key="^" line="79" column="42" />
+        <mark key="." line="79" column="42" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Ftp.php" timestamp="1491284339629">
+        <mark key="[" line="44" column="48" />
+        <mark key="]" line="44" column="57" />
+        <mark key="." line="44" column="57" />
+        <mark key="^" line="44" column="57" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" timestamp="1491274424097">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="711" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryMapper.php" timestamp="1493718813734">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/api-stormm/app/config/parameters.yml" timestamp="1487593472827">
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="29" />
+        <mark key="." line="36" column="29" />
+        <mark key="^" line="36" column="29" />
+      </file>
+      <file name="/PHP Console" timestamp="1492424569394">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="restClient/response1.json" timestamp="1494591265932">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/mmreality/application/default/controllers/SurveyController.php" timestamp="1491232759148">
+        <mark key="[" line="136" column="76" />
+        <mark key="]" line="136" column="83" />
+        <mark key="." line="136" column="83" />
+        <mark key="^" line="136" column="83" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" timestamp="1492413329223">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="47" column="46" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-export/docker/php5/Dockerfile" timestamp="1491206295735">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1494591668149">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusMapper.php" timestamp="1493715839412">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="56" column="37" />
+        <mark key="." line="6" column="41" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1494592005803">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/BusinessIntelligenceController.php" timestamp="1492243099054">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusRepository.php" timestamp="1493714376603">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1485596220870">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1493709332433">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1494592175464">
+        <mark key="'" line="183" column="34" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="^" line="115" column="11" />
+        <mark key="." line="436" column="33" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryDao.php" timestamp="1493718810680">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Fullcover/FullcoverValidate.php" timestamp="1491295077507">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-export/.env" timestamp="1491206229518">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Stormm/Advertising/Server/RealityIdnesCz.php" timestamp="1491390972868">
+        <mark key="'" line="46" column="8" />
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
+      </file>
+      <file name="restClient/response0.json" timestamp="1493709293408">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusDao.php" timestamp="1493714355089">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-export/docker/php5/httpd.conf" timestamp="1491207144334">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Financial/Statistic/FinancialStatisticDao.php" timestamp="1487590166880">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl.php" timestamp="1491392985886">
+        <mark key="'" line="98" column="20" />
+        <mark key="[" line="73" column="42" />
+        <mark key="]" line="73" column="46" />
+        <mark key="." line="73" column="46" />
+        <mark key="^" line="73" column="46" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusQuery.php" timestamp="1493714380713">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="9" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2da7652c-c322-4bd9-9bf6-61e88ec58e37/console_3.sql" />
+      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2da7652c-c322-4bd9-9bf6-61e88ec58e37/console_3.sql" />
+      <jump line="8" column="29" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
+      <jump line="22" column="6" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
+      <jump line="2" column="10" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
+      <jump line="26" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/QualityBonus/QualityBonusAwardRecord/QualityBonusAwardRecordDao.php" />
+      <jump line="25" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Select.php" />
+      <jump line="140" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
+      <jump line="156" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
+      <jump line="167" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
+      <jump line="149" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
+      <jump line="150" column="35" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
+      <jump line="155" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
+      <jump line="37" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
+      <jump line="18" column="50" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
+      <jump line="2" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
+      <jump line="89" column="23" filename="$USER_HOME$/PhpstormProjects/api-stormm/src/DS/ETLBundle/EtlProcess/AbstractEtlProcess.php" />
+      <jump line="61" column="16" filename="$USER_HOME$/PhpstormProjects/api-stormm/src/DS/ETLBundle/EtlProcess/AbstractEtlProcess.php" />
+      <jump line="333" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="348" column="9" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="349" column="56" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="350" column="28" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="368" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="373" column="28" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="423" column="58" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="424" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="504" column="56" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="510" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="691" column="51" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="0" column="4" filename="$USER_HOME$/PhpstormProjects/stormm-export/docker/docker-compose.dev.yml" />
+      <jump line="16" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/docker/docker-compose.dev.yml" />
+      <jump line="18" column="4" filename="$USER_HOME$/PhpstormProjects/stormm-export/docker/docker-compose.dev.yml" />
+      <jump line="16" column="50" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/offer/detail/toolbar.phtml" />
+      <jump line="18" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" />
+      <jump line="4" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" />
+      <jump line="56" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" />
+      <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" />
+      <jump line="683" column="6" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
+      <jump line="24" column="45" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
+      <jump line="29" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
+      <jump line="26" column="59" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
+      <jump line="33" column="15" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
+      <jump line="709" column="27" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
+      <jump line="299" column="4" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
+      <jump line="439" column="40" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Mapper.php" />
+      <jump line="161" column="12" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Mapper.php" />
+      <jump line="266" column="6" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementsReconstructionController.php" />
+      <jump line="30" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Fullcover/FullcoverModule.php" />
+      <jump line="46" column="28" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/db/queries/regionDistrictManagersSalaries.sql" />
+      <jump line="46" column="8" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Stormm/Advertising/Server/RealityIdnesCz.php" />
+      <jump line="27" column="22" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl/Response.php" />
+      <jump line="60" column="97" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl.php" />
+      <jump line="98" column="20" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl.php" />
+      <jump line="103" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/build.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/build.xml" />
+      <jump line="2787" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/build.xml" />
+      <jump line="1213" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="991" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="562" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="464" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="461" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="460" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="457" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="456" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="438" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="267" column="33" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="263" column="33" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="258" column="37" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="255" column="37" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="249" column="37" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="246" column="37" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="929" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="922" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="918" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="916" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="914" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="835" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="829" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="637" column="23" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="644" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="664" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="677" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="752" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="754" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="756" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="760" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="767" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="821" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="823" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="825" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="0" column="0" filename="restClient/response1.json" />
+      <jump line="84" column="0" filename="restClient/response1.json" />
+      <jump line="183" column="34" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="i" type="4">
+        <text>jjjkkk</text>
+      </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text>MANAGER</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBzZWxmOjpJTkZPX1BBR0VfQkxPQ0tfQkFMQU5DRSwKICAgICAgICBzZWxmOjpJTkZPX1BBR0VfQkxPQ0tfVVNFUlMsCiAgICAgICAgc2VsZjo6SU5GT19QQUdFX0JMT0NLX09GRkVSU19SRU5ULAogICAgICAgIHNlbGY6OklORk9fUEFHRV9CTE9DS19PRkZFUlNfU0FMRSwKICAgICAgICBzZWxmOjpJTkZPX1BBR0VfQkxPQ0tfREVNQU5EU19SRU5ULAogICAgICAgIHNlbGY6OklORk9fUEFHRV9CTE9DS19ERU1BTkRTX1NBTEUKIA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">RGVsaSBmaXggLS0gZm9sZGVyIHJlbmFtZQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IExPQURfQ0FURUdPUlkgPSAnbENhdGVnb3J5JzsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPmFkZExvYWRlcihXb3JrZmxvd1N0YXR1c1F1ZXJ5OjpMT0FEX0NBVEVHT1JZKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdvcmtmbG93U3RhdHVzTWFwcGVyOjpDQVRFR09SWV9JRC4iPSIuU3RhdHVzQ2F0ZWdvcnlNYXBwZXI6OklECg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXR1c0NhdGVnb3J5RGFvOjpUQUJMRSwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHNlbGVjdC0+am9pbklubmVyKAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>MANAGER</last-search>
+      <last-offset />
+      <last-pattern>MANAGER</last-pattern>
+      <last-replace>test</last-replace>
+      <last-substitute>MANAGER</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>trigger</entry>
+        <entry>sellers</entry>
+        <entry>getofferid</entry>
+        <entry>payments</entry>
+        <entry>Branch</entry>
+        <entry>BranchRegion</entry>
+        <entry>BranchManager</entry>
+        <entry>REQUIREMENTS_RECONSTRUCTION</entry>
+        <entry>fileNumber</entry>
+        <entry>id_exported</entry>
+        <entry>image</entry>
+        <entry>video</entry>
+        <entry>exportaction</entry>
+        <entry>paren</entry>
+        <entry>setdata</entry>
+        <entry>addOffer</entry>
+        <entry>buyers</entry>
+        <entry encoding="base64">XDxpZlw+</entry>
+        <entry>provide</entry>
+        <entry>MANAGER</entry>
+      </history-search>
+      <history-cmd>
+        <entry>b</entry>
+        <entry encoding="base64">dnMg</entry>
+        <entry>hs</entry>
+        <entry>buffer</entry>
+        <entry>bp</entry>
+        <entry>bn</entry>
+        <entry>buffernext</entry>
+        <entry>! ls -la</entry>
+        <entry>! docker-compose up</entry>
+        <entry>Q</entry>
+        <entry>syntax off</entry>
+        <entry>r</entry>
+        <entry>w</entry>
+        <entry>sp</entry>
+        <entry>vs</entry>
+        <entry>150</entry>
+        <entry>%/MANAGER/test/gc</entry>
+        <entry>s</entry>
+        <entry>%s/MANAGER/test/gc</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

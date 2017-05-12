@@ -1,0 +1,16 @@
+<application>
+  <component name="PhpAutoImport" auto_import_file_scope="true" prepend_global_functions_and_constants="true" />
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration tool_path="phpcs" />
+      <phpcs_by_interpreter interpreter_id="c64fd4d3-f784-4031-93b1-6b2013c75417" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Symfony2;Zend" tool_path="/root/.composer/vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="docker://stormm_php5:latest//usr/bin/php" id="c64fd4d3-f784-4031-93b1-6b2013c75417" name="Remote PHP 5.3" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="stormm_php5:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
+    </interpreters>
+  </component>
+</application>
