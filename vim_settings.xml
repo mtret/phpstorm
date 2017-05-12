@@ -124,7 +124,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1494591668149">
+      <file name="/dummy.sql" timestamp="1494613794612">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusMapper.php" timestamp="1493715839412">
@@ -133,7 +133,7 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494592005803">
+      <file name="/Dummy.txt" timestamp="1494613767581">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -213,6 +213,12 @@
         <mark key="]" line="73" column="46" />
         <mark key="." line="73" column="46" />
         <mark key="^" line="73" column="46" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f74dedf-ab2b-4f95-8e78-d693c6dbde3b/console.sql" timestamp="1494613743119">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusQuery.php" timestamp="1493714380713">
         <mark key="[" line="14" column="0" />
@@ -480,6 +486,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
