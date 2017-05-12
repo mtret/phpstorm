@@ -130,6 +130,12 @@
       <file name="/dummy.sql" timestamp="1494591668149">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/docker/docker-compose.build.yml" timestamp="1494629109110">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusMapper.php" timestamp="1493715839412">
         <mark key="[" line="6" column="41" />
         <mark key="]" line="6" column="41" />
