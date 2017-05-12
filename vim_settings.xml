@@ -340,7 +340,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>MANAGER</text>
+        <text>createrequirements</text>
       </register>
       <register name="0" type="4">
         <text>_TYPE_DISTR</text>
@@ -377,9 +377,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MANAGER</last-search>
+      <last-search>createrequirements</last-search>
       <last-offset />
-      <last-pattern>MANAGER</last-pattern>
+      <last-pattern>createrequirements</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>MANAGER</last-substitute>
       <last-dir>-1</last-dir>
@@ -387,8 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>trigger</entry>
-        <entry>sellers</entry>
         <entry>getofferid</entry>
         <entry>payments</entry>
         <entry>Branch</entry>
@@ -407,6 +405,8 @@
         <entry encoding="base64">XDxpZlw+</entry>
         <entry>provide</entry>
         <entry>MANAGER</entry>
+        <entry>createrequi</entry>
+        <entry>createrequirements</entry>
       </history-search>
       <history-cmd>
         <entry>b</entry>
