@@ -20,13 +20,6 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt numpad7" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad5" />
-  </action>
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="ctrl alt decimal" />
-  </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt 7" />
     <keyboard-shortcut first-keystroke="ctrl alt numpad3" />
