@@ -158,13 +158,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1494630222709">
-        <mark key="'" line="184" column="34" />
-        <mark key="[" line="53" column="12" />
-        <mark key="]" line="53" column="18" />
-        <mark key="^" line="53" column="18" />
-        <mark key="." line="53" column="18" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryDao.php" timestamp="1493718810680">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="47" />
