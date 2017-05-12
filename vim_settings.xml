@@ -64,11 +64,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/build.xml" timestamp="1492207229127">
-        <mark key="'" line="2787" column="0" />
-        <mark key="[" line="2693" column="20" />
-        <mark key="." line="2693" column="22" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl/Response.php" timestamp="1491392829534">
         <mark key="'" line="27" column="22" />
         <mark key="[" line="79" column="37" />
@@ -354,7 +349,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>MANAGER</text>
+        <text>createrequirements</text>
       </register>
       <register name="0" type="4">
         <text>_TYPE_DISTR</text>
@@ -391,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MANAGER</last-search>
+      <last-search>createrequirements</last-search>
       <last-offset />
-      <last-pattern>MANAGER</last-pattern>
+      <last-pattern>createrequirements</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>MANAGER</last-substitute>
       <last-dir>-1</last-dir>
@@ -401,8 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry>trigger</entry>
-        <entry>sellers</entry>
         <entry>getofferid</entry>
         <entry>payments</entry>
         <entry>Branch</entry>
@@ -421,6 +414,8 @@
         <entry encoding="base64">XDxpZlw+</entry>
         <entry>provide</entry>
         <entry>MANAGER</entry>
+        <entry>createrequi</entry>
+        <entry>createrequirements</entry>
       </history-search>
       <history-cmd>
         <entry>b</entry>
