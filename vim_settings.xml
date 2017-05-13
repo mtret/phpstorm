@@ -30,7 +30,10 @@
         <mark key="." line="265" column="8" />
         <mark key="^" line="265" column="8" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1494631999420" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1494635509287">
+        <mark key="[" line="143" column="70" />
+        <mark key="]" line="143" column="70" />
+      </file>
       <file name="restClient/response4.txt" timestamp="1491227132952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -349,7 +352,7 @@
         <text>createrequirements</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEByZXR1cm4gU3Rvcm1tX09mZmVyX01vZHVsZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0T2ZmZXJNb2R1bGUoKSB7CiAgICAgICAgaWYgKCR0aGlzLT5vZmZlck1vZHVsZSA9PSBudWxsKSB7CiAgICAgICAgICAgICR0aGlzLT5vZmZlck1vZHVsZSA9IG5ldyBTdG9ybW1fT2ZmZXJfTW9kdWxlKCR0aGlzLT5nZXRTeXN0ZW0oKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiAkdGhpcy0+b2ZmZXJNb2R1bGU7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGVkaXRBY3Rpb24oKSB7CiAgICAgICAgLy8gRURJVAogICAgICAgICR0aGlzLT5mb3JtQWN0aW9uKG51bGwsbnVsbCwnZWRpdCcpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBjb3B5QWN0aW9uKCkgewogICAgICAgIC8vIENPUFkKICAgICAgICAkdGhpcy0+Zm9ybUFjdGlvbihudWxsLG51bGwsJ2NvcHknKTsKICAgIH0=</text>
+        <text>E</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RGVsaSBmaXggLS0gZm9sZGVyIHJlbmFtZQo=</text>
