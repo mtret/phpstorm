@@ -30,10 +30,7 @@
         <mark key="." line="265" column="8" />
         <mark key="^" line="265" column="8" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1494633732958">
-        <mark key="[" line="872" column="0" />
-        <mark key="]" line="891" column="4" />
-      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1494631999420" />
       <file name="restClient/response4.txt" timestamp="1491227132952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -114,6 +111,9 @@
         <mark key="." line="136" column="83" />
         <mark key="^" line="136" column="83" />
       </file>
+      <file name="colors.scheme.xml" timestamp="1494631390434">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" timestamp="1492413329223">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="30" />
@@ -162,13 +162,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1493709332433">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1494630222709">
-        <mark key="'" line="184" column="34" />
-        <mark key="[" line="53" column="12" />
-        <mark key="]" line="53" column="18" />
-        <mark key="^" line="53" column="18" />
-        <mark key="." line="53" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryDao.php" timestamp="1493718810680">
         <mark key="[" line="2" column="47" />
