@@ -4,7 +4,7 @@
     <property name="created">2017-04-14T23:38:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-05-15T07:22:26</property>
+    <property name="modified">2017-05-15T07:57:27</property>
     <property name="originalScheme">Gruvbox Dark</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="11" />
@@ -661,6 +661,12 @@
         <option name="FOREGROUND" value="f9f5d7" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="233055" />
+        <option name="BACKGROUND" value="ededed" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="83a598" />
@@ -776,7 +782,11 @@
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="83a598" />
+      </value>
+    </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.KEY">
       <value>
