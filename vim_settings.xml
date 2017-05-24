@@ -144,7 +144,7 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494628965793">
+      <file name="/Dummy.txt" timestamp="1495666057414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -171,11 +171,12 @@
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1495666001230">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="^" line="30" column="20" />
-        <mark key="." line="21" column="16" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1495667166484">
+        <mark key="'" line="9" column="47" />
+        <mark key="[" line="36" column="43" />
+        <mark key="]" line="36" column="42" />
+        <mark key="^" line="36" column="42" />
+        <mark key="." line="36" column="42" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Fullcover/FullcoverValidate.php" timestamp="1491295077507">
         <mark key="[" line="22" column="0" />
@@ -195,11 +196,12 @@
         <mark key="." line="20" column="13" />
         <mark key="^" line="20" column="13" />
       </file>
-      <file name="restClient/response0.json" timestamp="1493709293408">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="restClient/response0.json" timestamp="1495666990068">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusDao.php" timestamp="1493714355089">
         <mark key="[" line="43" column="0" />
@@ -237,21 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2da7652c-c322-4bd9-9bf6-61e88ec58e37/console_3.sql" />
-      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2da7652c-c322-4bd9-9bf6-61e88ec58e37/console_3.sql" />
-      <jump line="8" column="29" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
-      <jump line="22" column="6" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
-      <jump line="2" column="10" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
-      <jump line="26" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/QualityBonus/QualityBonusAwardRecord/QualityBonusAwardRecordDao.php" />
-      <jump line="25" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Select.php" />
-      <jump line="140" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
-      <jump line="156" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
-      <jump line="167" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
-      <jump line="149" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
-      <jump line="150" column="35" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
-      <jump line="155" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
-      <jump line="37" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
       <jump line="18" column="50" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
       <jump line="2" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
@@ -337,16 +324,25 @@
       <jump line="0" column="0" filename="restClient/response1.json" />
       <jump line="84" column="0" filename="restClient/response1.json" />
       <jump line="183" column="34" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="41" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="1625" column="4" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="1210" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="138" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="294" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="1691" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="0" column="0" filename="restClient/response0.json" />
+      <jump line="17" column="6" filename="restClient/response0.json" />
+      <jump line="5" column="6" filename="restClient/response0.json" />
+      <jump line="130" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="139" column="30" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="15" column="10" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="1658" column="54" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="36" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="9" column="47" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+        <text>jjjj</text>
       </register>
       <register name="i" type="4">
         <text>jjjkkk</text>
@@ -355,61 +351,56 @@
         <text>BRANCH_</text>
       </register>
       <register name="/" type="4">
-        <text>createrequirements</text>
+        <text encoding="base64">XDxGT19QQUdFX0JMT0NLX1w+</text>
       </register>
       <register name="0" type="4">
-        <text>E</text>
+        <text>INFO_PAGE_BLOCK_DEMANDS_RENT,</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">RGVsaSBmaXggLS0gZm9sZGVyIHJlbmFtZQo=</text>
+      <register name="1" type="8">
+        <text>const MANAGER_TY
+const MANAGER_TY
+const MANAGER_TY
+const MANAGER_TY</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IExPQURfQ0FURUdPUlkgPSAnbENhdGVnb3J5JzsK</text>
+        <text encoding="base64">RGVsaSBmaXggLS0gZm9sZGVyIHJlbmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPmFkZExvYWRlcihXb3JrZmxvd1N0YXR1c1F1ZXJ5OjpMT0FEX0NBVEVHT1JZKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IExPQURfQ0FURUdPUlkgPSAnbENhdGVnb3J5JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPmFkZExvYWRlcihXb3JrZmxvd1N0YXR1c1F1ZXJ5OjpMT0FEX0NBVEVHT1JZKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdvcmtmbG93U3RhdHVzTWFwcGVyOjpDQVRFR09SWV9JRC4iPSIuU3RhdHVzQ2F0ZWdvcnlNYXBwZXI6OklECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXR1c0NhdGVnb3J5RGFvOjpUQUJMRSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdvcmtmbG93U3RhdHVzTWFwcGVyOjpDQVRFR09SWV9JRC4iPSIuU3RhdHVzQ2F0ZWdvcnlNYXBwZXI6OklECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNlbGVjdC0+am9pbklubmVyKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXR1c0NhdGVnb3J5RGFvOjpUQUJMRSwK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>%s/is/has/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>createrequirements</last-search>
+      <last-search encoding="base64">XDxGT19QQUdFX0JMT0NLX1w+</last-search>
       <last-offset />
-      <last-pattern>createrequirements</last-pattern>
-      <last-replace>test</last-replace>
-      <last-substitute>MANAGER</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxGT19QQUdFX0JMT0NLX1w+</last-pattern>
+      <last-replace>has</last-replace>
+      <last-substitute>is</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getofferid</entry>
-        <entry>payments</entry>
-        <entry>Branch</entry>
-        <entry>BranchRegion</entry>
-        <entry>BranchManager</entry>
-        <entry>REQUIREMENTS_RECONSTRUCTION</entry>
-        <entry>fileNumber</entry>
-        <entry>id_exported</entry>
         <entry>image</entry>
         <entry>video</entry>
         <entry>exportaction</entry>
@@ -422,12 +413,16 @@
         <entry>MANAGER</entry>
         <entry>createrequi</entry>
         <entry>createrequirements</entry>
+        <entry encoding="base64">XDxjb25zdFw+</entry>
+        <entry>s</entry>
+        <entry>sfetch</entry>
+        <entry>%s</entry>
+        <entry>get</entry>
+        <entry>is</entry>
+        <entry encoding="base64">XDxJTkZPX1BBR0VfQkxPQ0tfREVNQU5EU19TQUxFXD4=</entry>
+        <entry encoding="base64">XDxGT19QQUdFX0JMT0NLX1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>b</entry>
-        <entry encoding="base64">dnMg</entry>
-        <entry>hs</entry>
-        <entry>buffer</entry>
         <entry>bp</entry>
         <entry>bn</entry>
         <entry>buffernext</entry>
@@ -444,6 +439,10 @@
         <entry>s</entry>
         <entry>%s/MANAGER/test/gc</entry>
         <entry>q</entry>
+        <entry>1211</entry>
+        <entry>%s/get/set</entry>
+        <entry>%s/is/has/g</entry>
+        <entry>%s/is/has/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
