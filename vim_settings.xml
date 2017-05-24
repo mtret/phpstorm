@@ -171,6 +171,12 @@
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1495666001230">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="30" column="20" />
+        <mark key="." line="21" column="16" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Fullcover/FullcoverValidate.php" timestamp="1491295077507">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -346,7 +352,7 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>BRANCH_</text>
       </register>
       <register name="/" type="4">
         <text>createrequirements</text>
