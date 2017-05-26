@@ -166,6 +166,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1495804324193">
+        <mark key="'" line="54" column="18" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryDao.php" timestamp="1493718810680">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="47" />
@@ -231,18 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2da7652c-c322-4bd9-9bf6-61e88ec58e37/console_3.sql" />
-      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2da7652c-c322-4bd9-9bf6-61e88ec58e37/console_3.sql" />
-      <jump line="8" column="29" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
-      <jump line="22" column="6" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
-      <jump line="2" column="10" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-01/201701251303_MM-1804_create_dwh_compute_materialized_paths_function.php" />
-      <jump line="26" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/QualityBonus/QualityBonusAwardRecord/QualityBonusAwardRecordDao.php" />
-      <jump line="25" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Select.php" />
-      <jump line="140" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
-      <jump line="156" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
-      <jump line="167" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
-      <jump line="149" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
       <jump line="150" column="35" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
       <jump line="155" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
       <jump line="37" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
@@ -331,6 +322,18 @@
       <jump line="0" column="0" filename="restClient/response1.json" />
       <jump line="84" column="0" filename="restClient/response1.json" />
       <jump line="183" column="34" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="169" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="126" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="125" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="124" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="57" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="56" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="55" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="127" column="46" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="167" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="52" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="53" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="54" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -349,7 +352,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>createrequirements</text>
+        <text>statistics</text>
       </register>
       <register name="0" type="4">
         <text>E</text>
@@ -386,9 +389,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createrequirements</last-search>
+      <last-search>statistics</last-search>
       <last-offset />
-      <last-pattern>createrequirements</last-pattern>
+      <last-pattern>statistics</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>MANAGER</last-substitute>
       <last-dir>-1</last-dir>
@@ -396,7 +399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getofferid</entry>
         <entry>payments</entry>
         <entry>Branch</entry>
         <entry>BranchRegion</entry>
@@ -416,6 +418,7 @@
         <entry>MANAGER</entry>
         <entry>createrequi</entry>
         <entry>createrequirements</entry>
+        <entry>statistics</entry>
       </history-search>
       <history-cmd>
         <entry>b</entry>
