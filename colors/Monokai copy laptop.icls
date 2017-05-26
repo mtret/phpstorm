@@ -4,11 +4,10 @@
     <property name="created">2017-05-27T01:15:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-27T01:21:39</property>
+    <property name="modified">2017-05-27T01:36:31</property>
     <property name="originalScheme">Monokai copy2</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Hack" />
   <option name="EDITOR_FONT_NAME" value="Terminus (TTF)" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
