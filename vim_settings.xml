@@ -23,13 +23,6 @@
         <mark key="]" line="44" column="4" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementsReconstructionController.php" timestamp="1491291922266">
-        <mark key="'" line="265" column="6" />
-        <mark key="[" line="265" column="7" />
-        <mark key="]" line="265" column="8" />
-        <mark key="." line="265" column="8" />
-        <mark key="^" line="265" column="8" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1494635509287">
         <mark key="[" line="143" column="70" />
         <mark key="]" line="143" column="70" />
@@ -68,25 +61,11 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl/Response.php" timestamp="1491392829534">
-        <mark key="'" line="27" column="22" />
-        <mark key="[" line="79" column="37" />
-        <mark key="]" line="79" column="42" />
-        <mark key="^" line="79" column="42" />
-        <mark key="." line="79" column="42" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Ftp.php" timestamp="1491284339629">
         <mark key="[" line="44" column="48" />
         <mark key="]" line="44" column="57" />
         <mark key="." line="44" column="57" />
         <mark key="^" line="44" column="57" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" timestamp="1491274424097">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="711" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryMapper.php" timestamp="1493718813734">
         <mark key="[" line="2" column="47" />
@@ -117,19 +96,12 @@
       <file name="colors.scheme.xml" timestamp="1494631390434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" timestamp="1492413329223">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="47" column="46" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/docker/php5/Dockerfile" timestamp="1491206295735">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1494591668149">
+      <file name="/dummy.sql" timestamp="1495809099966">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/docker/docker-compose.build.yml" timestamp="1494629109110">
@@ -179,18 +151,17 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="restClient/response3.txt" timestamp="1495809159667">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/.env" timestamp="1491206229518">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Stormm/Advertising/Server/RealityIdnesCz.php" timestamp="1491390972868">
-        <mark key="'" line="46" column="8" />
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="13" />
       </file>
       <file name="restClient/response0.json" timestamp="1493709293408">
         <mark key="[" line="0" column="0" />
@@ -213,13 +184,6 @@
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl.php" timestamp="1491392985886">
-        <mark key="'" line="98" column="20" />
-        <mark key="[" line="73" column="42" />
-        <mark key="]" line="73" column="46" />
-        <mark key="." line="73" column="46" />
-        <mark key="^" line="73" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f74dedf-ab2b-4f95-8e78-d693c6dbde3b/console.sql" timestamp="1494613743119">
         <mark key="[" line="0" column="0" />
