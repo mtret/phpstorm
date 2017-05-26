@@ -23,13 +23,6 @@
         <mark key="]" line="44" column="4" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementsReconstructionController.php" timestamp="1491291922266">
-        <mark key="'" line="265" column="6" />
-        <mark key="[" line="265" column="7" />
-        <mark key="]" line="265" column="8" />
-        <mark key="." line="265" column="8" />
-        <mark key="^" line="265" column="8" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1494635509287">
         <mark key="[" line="143" column="70" />
         <mark key="]" line="143" column="70" />
@@ -68,25 +61,11 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl/Response.php" timestamp="1491392829534">
-        <mark key="'" line="27" column="22" />
-        <mark key="[" line="79" column="37" />
-        <mark key="]" line="79" column="42" />
-        <mark key="^" line="79" column="42" />
-        <mark key="." line="79" column="42" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Ftp.php" timestamp="1491284339629">
         <mark key="[" line="44" column="48" />
         <mark key="]" line="44" column="57" />
         <mark key="." line="44" column="57" />
         <mark key="^" line="44" column="57" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" timestamp="1491274424097">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="711" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryMapper.php" timestamp="1493718813734">
         <mark key="[" line="2" column="47" />
@@ -117,19 +96,12 @@
       <file name="colors.scheme.xml" timestamp="1494631390434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" timestamp="1492413329223">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="47" column="46" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/docker/php5/Dockerfile" timestamp="1491206295735">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1494591668149">
+      <file name="/dummy.sql" timestamp="1495809099966">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/docker/docker-compose.build.yml" timestamp="1494629109110">
@@ -144,7 +116,7 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495666057414">
+      <file name="/Dummy.txt" timestamp="1494628965793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -166,22 +138,24 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1495804324193">
+        <mark key="'" line="54" column="18" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryDao.php" timestamp="1493718810680">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1495667166484">
-        <mark key="'" line="9" column="47" />
-        <mark key="[" line="36" column="43" />
-        <mark key="]" line="36" column="42" />
-        <mark key="^" line="36" column="42" />
-        <mark key="." line="36" column="42" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Fullcover/FullcoverValidate.php" timestamp="1491295077507">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="restClient/response3.txt" timestamp="1495809159667">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/.env" timestamp="1491206229518">
         <mark key="[" line="0" column="21" />
@@ -189,19 +163,11 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Stormm/Advertising/Server/RealityIdnesCz.php" timestamp="1491390972868">
-        <mark key="'" line="46" column="8" />
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="13" />
-      </file>
-      <file name="restClient/response0.json" timestamp="1495666990068">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="33" />
+      <file name="restClient/response0.json" timestamp="1493709293408">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusDao.php" timestamp="1493714355089">
         <mark key="[" line="43" column="0" />
@@ -219,13 +185,6 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl.php" timestamp="1491392985886">
-        <mark key="'" line="98" column="20" />
-        <mark key="[" line="73" column="42" />
-        <mark key="]" line="73" column="46" />
-        <mark key="." line="73" column="46" />
-        <mark key="^" line="73" column="46" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f74dedf-ab2b-4f95-8e78-d693c6dbde3b/console.sql" timestamp="1494613743119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -239,6 +198,9 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="150" column="35" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
+      <jump line="155" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
+      <jump line="37" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
       <jump line="18" column="50" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
       <jump line="2" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
@@ -324,83 +286,90 @@
       <jump line="0" column="0" filename="restClient/response1.json" />
       <jump line="84" column="0" filename="restClient/response1.json" />
       <jump line="183" column="34" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="41" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="1625" column="4" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="1210" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="138" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="294" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="1691" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="0" column="0" filename="restClient/response0.json" />
-      <jump line="17" column="6" filename="restClient/response0.json" />
-      <jump line="5" column="6" filename="restClient/response0.json" />
-      <jump line="130" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="139" column="30" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="15" column="10" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="1658" column="54" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="36" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="9" column="47" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
+      <jump line="169" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="126" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="125" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="124" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="57" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="56" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="55" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="127" column="46" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="167" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="52" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="53" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="54" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>jjjj</text>
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="i" type="4">
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>BRANCH_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGT19QQUdFX0JMT0NLX1w+</text>
+        <text>statistics</text>
       </register>
       <register name="0" type="4">
-        <text>INFO_PAGE_BLOCK_DEMANDS_RENT,</text>
+        <text>E</text>
       </register>
-      <register name="1" type="8">
-        <text>const MANAGER_TY
-const MANAGER_TY
-const MANAGER_TY
-const MANAGER_TY</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">RGVsaSBmaXggLS0gZm9sZGVyIHJlbmFtZQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbnN0IExPQURfQ0FURUdPUlkgPSAnbENhdGVnb3J5JzsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAkcXVlcnktPmFkZExvYWRlcihXb3JrZmxvd1N0YXR1c1F1ZXJ5OjpMT0FEX0NBVEVHT1JZKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFdvcmtmbG93U3RhdHVzTWFwcGVyOjpDQVRFR09SWV9JRC4iPSIuU3RhdHVzQ2F0ZWdvcnlNYXBwZXI6OklECg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXR1c0NhdGVnb3J5RGFvOjpUQUJMRSwK</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHNlbGVjdC0+am9pbklubmVyKAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>%s/is/has/gc</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGT19QQUdFX0JMT0NLX1w+</last-search>
+      <last-search>statistics</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGT19QQUdFX0JMT0NLX1w+</last-pattern>
-      <last-replace>has</last-replace>
-      <last-substitute>is</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>statistics</last-pattern>
+      <last-replace>test</last-replace>
+      <last-substitute>MANAGER</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>payments</entry>
+        <entry>Branch</entry>
+        <entry>BranchRegion</entry>
+        <entry>BranchManager</entry>
+        <entry>REQUIREMENTS_RECONSTRUCTION</entry>
+        <entry>fileNumber</entry>
+        <entry>id_exported</entry>
         <entry>image</entry>
         <entry>video</entry>
         <entry>exportaction</entry>
@@ -413,16 +382,13 @@ const MANAGER_TY</text>
         <entry>MANAGER</entry>
         <entry>createrequi</entry>
         <entry>createrequirements</entry>
-        <entry encoding="base64">XDxjb25zdFw+</entry>
-        <entry>s</entry>
-        <entry>sfetch</entry>
-        <entry>%s</entry>
-        <entry>get</entry>
-        <entry>is</entry>
-        <entry encoding="base64">XDxJTkZPX1BBR0VfQkxPQ0tfREVNQU5EU19TQUxFXD4=</entry>
-        <entry encoding="base64">XDxGT19QQUdFX0JMT0NLX1w+</entry>
+        <entry>statistics</entry>
       </history-search>
       <history-cmd>
+        <entry>b</entry>
+        <entry encoding="base64">dnMg</entry>
+        <entry>hs</entry>
+        <entry>buffer</entry>
         <entry>bp</entry>
         <entry>bn</entry>
         <entry>buffernext</entry>
@@ -439,10 +405,6 @@ const MANAGER_TY</text>
         <entry>s</entry>
         <entry>%s/MANAGER/test/gc</entry>
         <entry>q</entry>
-        <entry>1211</entry>
-        <entry>%s/get/set</entry>
-        <entry>%s/is/has/g</entry>
-        <entry>%s/is/has/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
