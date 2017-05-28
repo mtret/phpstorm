@@ -38,6 +38,12 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="29" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceV2.php" timestamp="1495975784086">
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="54" column="33" />
+        <mark key="^" line="54" column="33" />
+        <mark key="." line="54" column="33" />
+      </file>
       <file name="/a.dummy" timestamp="1491392374923">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -96,12 +102,19 @@
       <file name="colors.scheme.xml" timestamp="1494631390434">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RestController.php" timestamp="1495844322475">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="78" column="73" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="78" column="74" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/docker/php5/Dockerfile" timestamp="1491206295735">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1495809099966">
+      <file name="/dummy.sql" timestamp="1495844328009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/docker/docker-compose.build.yml" timestamp="1494629109110">
@@ -145,6 +158,12 @@
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1495842002749">
+        <mark key="[" line="171" column="23" />
+        <mark key="]" line="171" column="22" />
+        <mark key="^" line="171" column="22" />
+        <mark key="." line="171" column="22" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Fullcover/FullcoverValidate.php" timestamp="1491295077507">
         <mark key="[" line="22" column="0" />
@@ -198,8 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="35" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
-      <jump line="155" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Query.php" />
       <jump line="37" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
       <jump line="18" column="50" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
       <jump line="2" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2012/201201231514_apns-notification-results-trigger.php" />
@@ -298,6 +315,8 @@
       <jump line="52" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
       <jump line="53" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
       <jump line="54" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
+      <jump line="78" column="69" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RestController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RestController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -316,7 +335,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>statistics</text>
+        <text>:grep</text>
       </register>
       <register name="0" type="4">
         <text>E</text>
@@ -349,13 +368,13 @@
         <text encoding="base64">ICAgICAgICAgICAgJHNlbGVjdC0+am9pbklubmVyKAo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>!ls -la</text>
       </register>
     </registers>
     <search>
-      <last-search>statistics</last-search>
+      <last-search>:grep</last-search>
       <last-offset />
-      <last-pattern>statistics</last-pattern>
+      <last-pattern>:grep</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>MANAGER</last-substitute>
       <last-dir>-1</last-dir>
@@ -363,7 +382,6 @@
     </search>
     <history>
       <history-search>
-        <entry>payments</entry>
         <entry>Branch</entry>
         <entry>BranchRegion</entry>
         <entry>BranchManager</entry>
@@ -383,11 +401,9 @@
         <entry>createrequi</entry>
         <entry>createrequirements</entry>
         <entry>statistics</entry>
+        <entry>:grep</entry>
       </history-search>
       <history-cmd>
-        <entry>b</entry>
-        <entry encoding="base64">dnMg</entry>
-        <entry>hs</entry>
         <entry>buffer</entry>
         <entry>bp</entry>
         <entry>bn</entry>
@@ -404,7 +420,10 @@
         <entry>%/MANAGER/test/gc</entry>
         <entry>s</entry>
         <entry>%s/MANAGER/test/gc</entry>
+        <entry>[I</entry>
         <entry>q</entry>
+        <entry encoding="base64">LiFzIC1sYSA=</entry>
+        <entry>!ls -la</entry>
       </history-cmd>
       <history-expr />
       <history-input />
