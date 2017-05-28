@@ -4,7 +4,7 @@
     <property name="created">2017-05-27T01:15:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-27T01:36:31</property>
+    <property name="modified">2017-05-28T15:16:41</property>
     <property name="originalScheme">Monokai copy2</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -378,6 +378,12 @@
     <option name="Clojure Strings">
       <value>
         <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="3d8065" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
