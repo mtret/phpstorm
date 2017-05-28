@@ -1,17 +1,17 @@
 <scheme name="Monokai copy laptop" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.0833334" />
   <metaInfo>
     <property name="created">2017-05-27T01:15:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-28T15:16:41</property>
+    <property name="modified">2017-05-28T21:27:04</property>
     <property name="originalScheme">Monokai copy2</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Terminus (TTF)" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
-    <option name="CARET_ROW_COLOR" value="3e3d32" />
+    <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="3b3a32" />
