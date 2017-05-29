@@ -23,9 +23,11 @@
         <mark key="]" line="44" column="4" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1494635509287">
-        <mark key="[" line="143" column="70" />
-        <mark key="]" line="143" column="70" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1496034594148">
+        <mark key="[" line="2712" column="58" />
+        <mark key="]" line="2712" column="57" />
+        <mark key="^" line="2712" column="57" />
+        <mark key="." line="2712" column="57" />
       </file>
       <file name="restClient/response4.txt" timestamp="1491227132952">
         <mark key="[" line="0" column="0" />
@@ -146,10 +148,6 @@
       </file>
       <file name="/fragment.php" timestamp="1485596220870">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1493709332433">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1495804324193">
         <mark key="'" line="54" column="18" />
