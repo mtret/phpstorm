@@ -4,11 +4,11 @@
     <property name="created">2017-05-27T01:15:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-29T10:39:03</property>
+    <property name="modified">2017-05-29T13:18:21</property>
     <property name="originalScheme">Monokai copy2</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Terminus (TTF)" />
+  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="" />
