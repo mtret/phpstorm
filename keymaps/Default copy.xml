@@ -2,26 +2,31 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="ctrl alt numpad1" />
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="ctrl alt numpad2" />
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
+  <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
   </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad9" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
   </action>
   <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad7" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt numpad5" />
+    <keyboard-shortcut first-keystroke="ctrl alt #1000159" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -29,7 +34,7 @@
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt 7" />
-    <keyboard-shortcut first-keystroke="ctrl alt numpad3" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
