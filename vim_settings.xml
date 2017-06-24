@@ -46,7 +46,10 @@
         <mark key="^" line="54" column="33" />
         <mark key="." line="54" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferPromoteController.php" timestamp="1498337516329" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferPromoteController.php" timestamp="1498339338481">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="139" />
+      </file>
       <file name="/a.dummy" timestamp="1491392374923">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -344,7 +347,7 @@
         <text>notice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbm90aWNlLT5zZXRTb3VyY2UoJHNvdXJjZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlWydodG1sJ10gPSAkdGhpcy0+dmlldy0+cGFydGlhbCgnL29mZmVyLXByb21vdGUvbGlzdC9wcm9tb3RlU3RyaWN0RmllbGQucGh0bWwnLCBhcnJheSgnb2ZmZXInID0+ICRvZmZlcikpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkbW9kdWxlOwo=</text>
