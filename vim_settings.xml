@@ -34,6 +34,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" timestamp="1498421126398">
+        <mark key="'" line="1852" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Mapper.php" timestamp="1491290212726">
         <mark key="[" line="35" column="29" />
         <mark key="]" line="35" column="29" />
@@ -246,8 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="28" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="368" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="373" column="28" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="423" column="58" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="424" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
@@ -346,6 +347,8 @@
       <jump line="218" column="27" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferPromoteController.php" />
       <jump line="287" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferPromoteController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferPromoteController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1852" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
