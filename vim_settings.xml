@@ -436,7 +436,6 @@
         <entry>r</entry>
         <entry>w</entry>
         <entry>sp</entry>
-        <entry>vs</entry>
         <entry>150</entry>
         <entry>%/MANAGER/test/gc</entry>
         <entry>s</entry>
@@ -446,6 +445,7 @@
         <entry>s/notice/noti</entry>
         <entry>s/notice/noti%</entry>
         <entry>!ls -la</entry>
+        <entry>vs</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
