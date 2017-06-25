@@ -23,7 +23,7 @@
         <mark key="]" line="44" column="4" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1498404095710">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1498407304138">
         <mark key="[" line="3497" column="5" />
         <mark key="]" line="3497" column="16" />
         <mark key="^" line="3497" column="16" />
@@ -123,7 +123,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1498405469521">
+      <file name="/dummy.sql" timestamp="1498406407339">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/docker/docker-compose.build.yml" timestamp="1494629109110">
@@ -187,7 +187,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/Construction/OfferConstruction.php" timestamp="1498404239954" />
       <file name="restClient/response3.txt" timestamp="1495809159667">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="4" />
