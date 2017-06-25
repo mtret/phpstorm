@@ -123,7 +123,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1498404508931">
+      <file name="/dummy.sql" timestamp="1498405469521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/docker/docker-compose.build.yml" timestamp="1494629109110">
@@ -163,7 +163,7 @@
         <mark key="^" line="84" column="43" />
         <mark key="." line="65" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498396461391">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498405475819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -392,7 +392,7 @@
         <text encoding="base64">ICogQ2xhc3MgTm90aWNlU2VydmljZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>!ls -la</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -443,11 +443,11 @@
         <entry>s</entry>
         <entry>%s/MANAGER/test/gc</entry>
         <entry>[I</entry>
-        <entry>q</entry>
         <entry encoding="base64">LiFzIC1sYSA=</entry>
         <entry>s/notice/noti</entry>
         <entry>s/notice/noti%</entry>
         <entry>!ls -la</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
