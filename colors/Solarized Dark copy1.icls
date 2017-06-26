@@ -1,9 +1,16 @@
-<scheme name="Solarized Dark" version="142" parent_scheme="Default">
+<scheme name="Solarized Dark copy1" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.25" />
+  <metaInfo>
+    <property name="created">2017-06-25T15:07:41</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.1.4.0.0</property>
+    <property name="modified">2017-06-25T15:08:09</property>
+    <property name="originalScheme">Solarized Dark</property>
+  </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Hack" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
