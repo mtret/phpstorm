@@ -18,7 +18,7 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1498669546860">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1498670374331">
         <mark key="[" line="192" column="36" />
         <mark key="]" line="192" column="35" />
         <mark key="^" line="192" column="35" />
@@ -225,6 +225,7 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/NewsController.php" timestamp="1498670581778" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Financial/Statistic/FinancialStatisticDao.php" timestamp="1487590166880">
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
