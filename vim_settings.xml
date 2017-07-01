@@ -400,7 +400,7 @@
         <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ParameterInfo</text>
+        <text>action EditorSelectWord</text>
       </register>
     </registers>
     <search>
@@ -436,8 +436,6 @@
         <entry>last_update</entry>
       </history-search>
       <history-cmd>
-        <entry>150</entry>
-        <entry>%/MANAGER/test/gc</entry>
         <entry>s</entry>
         <entry>%s/MANAGER/test/gc</entry>
         <entry>[I</entry>
@@ -456,6 +454,8 @@
         <entry>action Replace</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action ParameterInfo</entry>
+        <entry>action GuiDesigner.QuickJavadoc</entry>
+        <entry>action EditorSelectWord</entry>
       </history-cmd>
       <history-expr />
       <history-input />
