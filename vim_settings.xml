@@ -18,7 +18,7 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1498935905416">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1498937615362">
         <mark key="[" line="344" column="12" />
         <mark key="]" line="344" column="11" />
         <mark key="." line="344" column="11" />
@@ -50,6 +50,7 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="241" column="65" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceV2.php" timestamp="1498937610509" />
       <file name="/a.dummy" timestamp="1491392374923">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -213,11 +214,11 @@
         <mark key="^" line="619" column="53" />
         <mark key="." line="619" column="53" />
       </file>
-      <file name="restClient/response0.json" timestamp="1493709293408">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="restClient/response0.json" timestamp="1498937436536">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="93" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/docker/php5/httpd.conf" timestamp="1491207144334">
         <mark key="[" line="8" column="8" />
@@ -370,7 +371,7 @@
         <text>last_update</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PmFjbC0+aXNBbGxvd2VkKCR0aGlzLT5yb2xlSWQsbnVsbCwnbmV3cw==</text>
+        <text>{   &quot;version&quot;:&quot;1.0.0.1&quot; }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkbGF5b3V0LT50ZXN0Owo=</text>
@@ -400,7 +401,7 @@
         <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -436,9 +437,6 @@
         <entry>last_update</entry>
       </history-search>
       <history-cmd>
-        <entry>s</entry>
-        <entry>%s/MANAGER/test/gc</entry>
-        <entry>[I</entry>
         <entry encoding="base64">LiFzIC1sYSA=</entry>
         <entry>s/notice/noti</entry>
         <entry>s/notice/noti%</entry>
@@ -456,6 +454,9 @@
         <entry>action ParameterInfo</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>colorscheme</entry>
+        <entry>action $Paste</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
