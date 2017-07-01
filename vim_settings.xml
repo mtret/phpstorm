@@ -90,6 +90,7 @@
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" timestamp="1498872027999" />
       <file name="$USER_HOME$/PhpstormProjects/api-stormm/app/config/parameters.yml" timestamp="1487593472827">
         <mark key="[" line="36" column="17" />
         <mark key="]" line="36" column="29" />
@@ -225,7 +226,6 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/NewsController.php" timestamp="1498670846649" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Financial/Statistic/FinancialStatisticDao.php" timestamp="1487590166880">
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
@@ -456,7 +456,7 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -471,7 +471,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -483,7 +483,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
