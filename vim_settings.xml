@@ -151,7 +151,7 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499379264620">
+      <file name="/Dummy.txt" timestamp="1499547209028">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -416,7 +416,7 @@
         <text encoding="base64">RWFzdCBFdXJvcGUgcmVhbCBlc3RhdGUK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action EditorSelectWord</text>
       </register>
     </registers>
     <search>
@@ -467,11 +467,11 @@
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>Q</entry>
-        <entry>action EditorSelectWord</entry>
         <entry>vs</entry>
         <entry>bp</entry>
         <entry>bn</entry>
         <entry>q</entry>
+        <entry>action EditorSelectWord</entry>
       </history-cmd>
       <history-expr />
       <history-input />
