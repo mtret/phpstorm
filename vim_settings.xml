@@ -191,6 +191,7 @@
       <file name="/fragment.php" timestamp="1485596220870">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirement/AdditionalService/AdditionalServiceRequirementValidator.php" timestamp="1499666580608" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498405475819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -391,7 +392,7 @@
         <text encoding="base64">RWFzdCBFdXJvcGUgcmVhbCBlc3RhdGUK</text>
       </register>
       <register name=":" type="4">
-        <text>action ParameterInfo</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -427,7 +428,6 @@
         <entry>reques</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>%s/</entry>
         <entry>ls -la</entry>
         <entry>!ls -la</entry>
@@ -447,6 +447,7 @@
         <entry>action $SelectAll</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action ParameterInfo</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
