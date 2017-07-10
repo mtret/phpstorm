@@ -12,7 +12,8 @@
         <mark key="." line="111" column="51" />
         <mark key="^" line="111" column="51" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1498937615362">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1499693261066">
+        <mark key="'" line="2827" column="48" />
         <mark key="[" line="344" column="12" />
         <mark key="]" line="344" column="11" />
         <mark key="." line="344" column="11" />
@@ -138,8 +139,12 @@
         <mark key="^" line="11" column="5" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" timestamp="1499687915801" />
-      <file name="/PHP Console" timestamp="1499688511047">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" timestamp="1499692769621">
+        <mark key="'" line="96" column="24" />
+        <mark key="[" line="231" column="20" />
+        <mark key="]" line="231" column="48" />
+      </file>
+      <file name="/PHP Console" timestamp="1499693232785">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Demand/OneShot/Validate.php" timestamp="1499688464027" />
@@ -191,6 +196,7 @@
       <file name="/fragment.php" timestamp="1485596220870">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferPictures.php" timestamp="1499693040676" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498405475819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -242,35 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="$USER_HOME$/PhpstormProjects/stormm-export/docker/docker-compose.dev.yml" />
-      <jump line="16" column="50" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/offer/detail/toolbar.phtml" />
-      <jump line="18" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" />
-      <jump line="4" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" />
-      <jump line="56" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" />
-      <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/app/configs/server/reality.idnes.cz.ini" />
-      <jump line="683" column="6" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
-      <jump line="24" column="45" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
-      <jump line="29" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
-      <jump line="26" column="59" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
-      <jump line="33" column="15" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
-      <jump line="709" column="27" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
-      <jump line="299" column="4" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Reconstruction/RequirementsReconstruction.php" />
-      <jump line="439" column="40" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Mapper.php" />
-      <jump line="161" column="12" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Mapper.php" />
-      <jump line="266" column="6" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementsReconstructionController.php" />
-      <jump line="30" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Fullcover/FullcoverModule.php" />
-      <jump line="46" column="28" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/db/queries/regionDistrictManagersSalaries.sql" />
-      <jump line="46" column="8" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Stormm/Advertising/Server/RealityIdnesCz.php" />
-      <jump line="27" column="22" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl/Response.php" />
-      <jump line="60" column="97" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl.php" />
-      <jump line="98" column="20" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Curl.php" />
-      <jump line="103" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/build.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/build.xml" />
-      <jump line="2787" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/build.xml" />
-      <jump line="1213" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
       <jump line="991" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
       <jump line="30" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
@@ -342,6 +319,35 @@
       <jump line="334" column="5" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceV2.php" />
       <jump line="206" column="9" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirement/AdditionalService/Persistence/AdditionalServiceRequirementDao.php" />
       <jump line="509" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/LmsdemandController.php" />
+      <jump line="26" column="61" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="98" column="52" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="113" column="28" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="115" column="46" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="152" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="153" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="157" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="158" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="159" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="160" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="164" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="165" column="44" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="173" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="174" column="51" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="176" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="177" column="70" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="179" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="180" column="44" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="196" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="198" column="37" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="208" column="37" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="211" column="37" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="90" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="91" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="93" column="30" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="95" column="27" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="96" column="24" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
+      <jump line="351" column="47" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="2827" column="48" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -360,10 +366,10 @@
         <text>storm.offers.photos</text>
       </register>
       <register name="/" type="4">
-        <text>nemohl</text>
+        <text>saveorupdate</text>
       </register>
       <register name="0" type="4">
-        <text>Záznam se nepodařilo uložit'</text>
+        <text>recreateOffersPicturesAction(</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">am91Ym9ydQo=</text>
@@ -397,9 +403,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nemohl</last-search>
+      <last-search>saveorupdate</last-search>
       <last-offset />
-      <last-pattern>nemohl</last-pattern>
+      <last-pattern>saveorupdate</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>-1</last-dir>
@@ -407,8 +413,6 @@
     </search>
     <history>
       <history-search>
-        <entry>id_exported</entry>
-        <entry>image</entry>
         <entry>video</entry>
         <entry>exportaction</entry>
         <entry>paren</entry>
@@ -427,9 +431,10 @@
         <entry>reques</entry>
         <entry>validate</entry>
         <entry>nemohl</entry>
+        <entry>$data</entry>
+        <entry>saveorupdate</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/</entry>
         <entry>ls -la</entry>
         <entry>!ls -la</entry>
         <entry>vs</entry>
@@ -445,9 +450,10 @@
         <entry>action GotoSuperMethod</entry>
         <entry>101</entry>
         <entry>action $SelectAll</entry>
-        <entry>action EditorSelectWord</entry>
         <entry>action ParameterInfo</entry>
         <entry>q</entry>
+        <entry>data</entry>
+        <entry>action EditorSelectWord</entry>
         <entry>action Find</entry>
       </history-cmd>
       <history-expr />
