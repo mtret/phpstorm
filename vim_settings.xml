@@ -391,7 +391,7 @@
         <text encoding="base64">RWFzdCBFdXJvcGUgcmVhbCBlc3RhdGUK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>action ParameterInfo</text>
       </register>
     </registers>
     <search>
@@ -436,7 +436,6 @@
         <entry>action $Copy</entry>
         <entry>action Find</entry>
         <entry>action TypeHierarchy</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>colorscheme</entry>
         <entry>action $Paste</entry>
@@ -447,6 +446,7 @@
         <entry>101</entry>
         <entry>action $SelectAll</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>action ParameterInfo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
