@@ -58,18 +58,12 @@
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
+      <file name="/AdditionalServiceRequirementDao.php" timestamp="1499665388833" />
       <file name="$USER_HOME$/PhpstormProjects/api-stormm/app/config/parameters.yml" timestamp="1487593472827">
         <mark key="[" line="36" column="17" />
         <mark key="]" line="36" column="29" />
         <mark key="." line="36" column="29" />
         <mark key="^" line="36" column="29" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RestController.php" timestamp="1495844322475">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="73" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="78" column="74" />
       </file>
       <file name="restClient/response3.txt" timestamp="1495809159667">
         <mark key="[" line="0" column="5" />
@@ -135,13 +129,6 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" timestamp="1498607805946">
         <mark key="'" line="2013" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferPromoteController.php" timestamp="1498393231086">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="241" column="65" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsInfoBlock.php" timestamp="1498607779517">
         <mark key="[" line="50" column="24" />
         <mark key="]" line="50" column="26" />
@@ -204,13 +191,6 @@
       <file name="/fragment.php" timestamp="1485596220870">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Notice/NoticeService.php" timestamp="1498332638872">
-        <mark key="'" line="62" column="9" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="36" />
-        <mark key="^" line="84" column="43" />
-        <mark key="." line="65" column="22" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498405475819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -247,7 +227,11 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirement/AdditionalService/Form/AdditionalServiceRequirementDocumentTransformer.php" timestamp="1499664586954" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirement/AdditionalService/Form/AdditionalServiceRequirementDocumentTransformer.php" timestamp="1499664941146">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/NewsController.php" timestamp="1498935705704">
         <mark key="[" line="25" column="43" />
         <mark key="]" line="25" column="42" />
@@ -256,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="4" filename="$USER_HOME$/PhpstormProjects/stormm-export/docker/docker-compose.dev.yml" />
       <jump line="16" column="0" filename="$USER_HOME$/PhpstormProjects/stormm-export/docker/docker-compose.dev.yml" />
       <jump line="18" column="4" filename="$USER_HOME$/PhpstormProjects/stormm-export/docker/docker-compose.dev.yml" />
       <jump line="16" column="50" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/offer/detail/toolbar.phtml" />
@@ -356,6 +339,7 @@
       <jump line="664" column="24" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceV2.php" />
       <jump line="634" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceV2.php" />
       <jump line="334" column="5" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceV2.php" />
+      <jump line="206" column="9" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirement/AdditionalService/Persistence/AdditionalServiceRequirementDao.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -377,7 +361,7 @@
         <text>reques</text>
       </register>
       <register name="0" type="4">
-        <text>statisticsCup</text>
+        <text>isUpload</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">am91Ym9ydQo=</text>
