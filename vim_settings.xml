@@ -12,10 +12,10 @@
         <mark key="." line="111" column="51" />
         <mark key="^" line="111" column="51" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1499693261066">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1499694973868">
         <mark key="'" line="2827" column="48" />
-        <mark key="[" line="344" column="12" />
-        <mark key="]" line="344" column="11" />
+        <mark key="[" line="2605" column="12" />
+        <mark key="]" line="2605" column="33" />
         <mark key="." line="344" column="11" />
         <mark key="^" line="344" column="11" />
       </file>
@@ -144,7 +144,7 @@
         <mark key="[" line="231" column="20" />
         <mark key="]" line="231" column="48" />
       </file>
-      <file name="/PHP Console" timestamp="1499693232785">
+      <file name="/PHP Console" timestamp="1499694750644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Demand/OneShot/Validate.php" timestamp="1499688464027" />
@@ -369,7 +369,7 @@
         <text>saveorupdate</text>
       </register>
       <register name="0" type="4">
-        <text>recreateOffersPicturesAction(</text>
+        <text>$previousPicturesCount</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">am91Ym9ydQo=</text>
@@ -435,7 +435,6 @@
         <entry>saveorupdate</entry>
       </history-search>
       <history-cmd>
-        <entry>ls -la</entry>
         <entry>!ls -la</entry>
         <entry>vs</entry>
         <entry>action EditorDuplicate</entry>
@@ -454,6 +453,7 @@
         <entry>q</entry>
         <entry>data</entry>
         <entry>action EditorSelectWord</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action Find</entry>
       </history-cmd>
       <history-expr />
