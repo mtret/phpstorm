@@ -4,12 +4,12 @@
     <property name="created">2017-06-25T15:07:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-25T15:08:09</property>
+    <property name="modified">2017-07-08T22:52:45</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
