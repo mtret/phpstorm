@@ -369,7 +369,7 @@
         <text>saveorupdate</text>
       </register>
       <register name="0" type="4">
-        <text>EXPORT_LIMIT</text>
+        <text>public function findAllToRaisePriority()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">am91Ym9ydQo=</text>
