@@ -12,11 +12,10 @@
         <mark key="." line="111" column="51" />
         <mark key="^" line="111" column="51" />
       </file>
-      <file name="restClient/response8.html" timestamp="1500033832895" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1500034301197">
         <mark key="'" line="385" column="17" />
-        <mark key="[" line="2605" column="12" />
-        <mark key="]" line="2605" column="33" />
+        <mark key="[" line="2604" column="12" />
+        <mark key="]" line="2604" column="33" />
         <mark key="." line="344" column="11" />
         <mark key="^" line="344" column="11" />
       </file>
@@ -49,7 +48,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Demand/OneShot/Reaction/Resource/Module.php" timestamp="1500030309940" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/File/FileModule.php" timestamp="1500034267416">
         <mark key="[" line="205" column="58" />
         <mark key="]" line="205" column="58" />
@@ -78,11 +76,11 @@
         <mark key="." line="36" column="29" />
         <mark key="^" line="36" column="29" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/SendOfferFilesResource.php" timestamp="1500034389837">
-        <mark key="[" line="161" column="25" />
-        <mark key="]" line="161" column="24" />
-        <mark key="." line="161" column="24" />
-        <mark key="^" line="161" column="24" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/SendOfferFilesResource.php" timestamp="1500039618635">
+        <mark key="[" line="126" column="24" />
+        <mark key="]" line="126" column="23" />
+        <mark key="." line="126" column="23" />
+        <mark key="^" line="126" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/File/Document.php" timestamp="1500033994699">
         <mark key="[" line="12" column="0" />
@@ -194,7 +192,7 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500034304293">
+      <file name="/Dummy.txt" timestamp="1500039178937">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -420,7 +418,7 @@
         <text>1497870252</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -461,7 +459,6 @@
         <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action Replace</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>101</entry>
         <entry>action $SelectAll</entry>
@@ -476,6 +473,7 @@
         <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
