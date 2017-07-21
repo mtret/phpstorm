@@ -12,7 +12,7 @@
         <mark key="." line="111" column="51" />
         <mark key="^" line="111" column="51" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1500668700913">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1500670299574">
         <mark key="'" line="385" column="17" />
         <mark key="[" line="483" column="0" />
         <mark key="]" line="483" column="0" />
@@ -82,7 +82,6 @@
         <mark key="." line="126" column="23" />
         <mark key="^" line="126" column="23" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Tools/Recursive/RecursiveArrayTools.php" timestamp="1500669222965" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/File/Document.php" timestamp="1500033994699">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="26" />
@@ -202,7 +201,7 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500668552956">
+      <file name="/Dummy.txt" timestamp="1500670374087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -232,7 +231,6 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/LmsdemandController.php" timestamp="1500127951379">
         <mark key="'" line="310" column="25" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1500669254729" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryDao.php" timestamp="1493718810680">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="47" />
@@ -442,7 +440,7 @@
         <text encoding="base64">am91Ym9ydQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action EditorSelectWord</text>
       </register>
     </registers>
     <search>
@@ -496,8 +494,8 @@
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>bn</entry>
-        <entry>action EditorSelectWord</entry>
         <entry>q</entry>
+        <entry>action EditorSelectWord</entry>
       </history-cmd>
       <history-expr />
       <history-input />
