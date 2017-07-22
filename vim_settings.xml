@@ -168,6 +168,7 @@
       <file name="/PHP Console" timestamp="1500128194392">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/Api/OfferApiMapper.php" timestamp="1500715255159" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1500128733043">
         <mark key="'" line="61" column="53" />
         <mark key="[" line="202" column="43" />
@@ -452,7 +453,7 @@ t</text>
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Replace</text>
+        <text>action EditorSelectWord</text>
       </register>
     </registers>
     <search>
@@ -490,7 +491,6 @@ t</text>
       <history-cmd>
         <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>101</entry>
         <entry>action $SelectAll</entry>
         <entry>action ParameterInfo</entry>
@@ -499,15 +499,16 @@ t</text>
         <entry>bp</entry>
         <entry>action SaveAll</entry>
         <entry>w</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>!docker-compose up</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>bn</entry>
+        <entry>action Replace</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>q</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
