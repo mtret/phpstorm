@@ -12,12 +12,12 @@
         <mark key="." line="111" column="51" />
         <mark key="^" line="111" column="51" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1500670299574">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1500710391439">
         <mark key="'" line="385" column="17" />
-        <mark key="[" line="483" column="0" />
-        <mark key="]" line="483" column="0" />
-        <mark key="." line="483" column="0" />
-        <mark key="^" line="344" column="11" />
+        <mark key="[" line="107" column="9" />
+        <mark key="]" line="107" column="10" />
+        <mark key="^" line="107" column="10" />
+        <mark key="." line="107" column="10" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/RealityIdnesCz/Mapper.php" timestamp="1491290212726">
         <mark key="[" line="35" column="29" />
@@ -404,7 +404,7 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>getOfferId()</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>calendarresul</text>
@@ -412,35 +412,47 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gYXJyYXkoKTsKICAgICAgICBmb3JlYWNoICgkYXJyYXkgYXMgJGtleSA9PiAkdmFsKSB7CiAgICAgICAgICAgICRyZXN1bHRbaXNfYXJyYXkoJHZhbCkgPyAka2V5IDogJHZhbF0gPSBpc19hcnJheSgkdmFsKSA/IHNlbGY6OmFycmF5RmlsbEtleXNSZWMoJHZhbCwgJHZhbHVlKSA6ICR2YWx1ZTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">eyAgICJjYWxlbmRhclJlc3VsdCI6IHsgICAgICJpZCI6IDUxMywgICAgICJub3RlIjogIk1pbG/FoSBaZW1hbiIgfSwgICAiY2xpZW50IjogeyAgICAgImlkIjogMTI2MjUwMSwgICAgICJmaXJzdE5hbWUiOiAiS2Fqw61uZWsiLCAgICAgInN1cm5hbWUiOiAiSmnFmcOtIiwgICAgICJtb2JpbGUiOiAiNjA2NDU0NDQ1IiwgImVtYWlsIjogImppcmthLmthamluZWtAdm9sbnkuY3oiICAgfSB9IAo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">dGhpcy0+X3Nlc3NfZmlsdGVyID0gbmV3IFplbmRfU2Vzc2lvbl9OYW1lc3BhCnRoaXMtPl9zZXNzX2ZpbHRlcl9jb21iaSA9IG5ldyBaZW5kX1Nlc3Npb25fTgp0aGlzLT5fc2Vzc19maWx0ZXJfaGlzdG9yeSA9IG5ldyBaZW5kX1Nlc3Npb24KdGhpcy0+X3Nlc3NfY29tYmlfc2VuZCA9IG5ldyBaZW5kX1Nlc3Npb25fTmFtCnRoaXMtPl9zZXNzX21lc3NhZ2UgPSBuZXcgWmVuZF9TZXNzaW9uX05hbWVzcA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+X3Nlc3NfbWVzc2FnZSA9IG5ldyBaZW5kX1Nlc3Npb25fTmFtZXNwYWNlKCdvZmZlcl9tZXNzYWdlJyk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgJA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkaGlzLT5fc2Vzc19maWx0ZXJfaGlzdG9yeSA9IG5ldyBaZW5kX1Nlc3Npb25fTmFtZXNwYWNlKCdvZmZlcl9maWx0ZXJfaGlzdG9yeScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W0ZJWF0gRmF0YWwgb24gc2VuZE9mZmVyRmlsZXMK</text>
+        <text encoding="base64">ICAgICAgICAkaGlzLT5fc2Vzc19maWx0ZXJfY29tYmkgPSBuZXcgWmVuZF9TZXNzaW9uX05hbWVzcGFjZSgnb2ZmZXJfZmlsdGVyX2NvbWJpJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1vZHVsZS0+c3luY0ZpbGVGcm9tUzNUb0xvY2FsU3RvcmFnZUJ5UzNGaWxlbmFtZSgkZmlsZS0+Z2V0UzNDbG91ZEZpbGVTM0ZpbGVuYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaGlzLT5fc2Vzc19maWx0ZXIgPSBuZXcgWmVuZF9TZXNzaW9uX05hbWVzcGFjZSgnb2ZmZXJfZmlsdGVyJyk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">eyAgICJpZCI6IDMyMjAzNSAsIm9mZmVyIjp7ICAgICAiaWQiOjM1NTQ0MCAgIH0sICAgImZpbmFuY2luZyI6eyAgICAgImlkIjogMSAgIH0sICAgInJlYWN0aW9uUmVzb3VyY2UiOiB7ICAgICAiaWQiOiAyMDggICB9LCAgICJub3RlIjogeyAgICAgInZhbHVlIjogIkJCQyIgICB9LCAgICJzZW5kRXN0YXRlQWdlbnRTbXMiOiB7ICAgICAidmFsdWUiOiB0cnVlICAgfSwgICAibG1zQ2hhbm5lbFR5cGUiOiB7ICAgICAiaWQiOiAicGhvbmUiICAgfSwgICAiY2FsZW5kYXJSZXN1bHQiOnsgICAgICJpZCI6NTEzLCAgICAgIm5vdGUiOiJNaWxvxaEgWmVtYW4iICAgfSwgICAiY2xpZW50IjogeyAgICJpZCI6ICI3IiwgICAiZWluIjogIjAxNjQxNTczIiwgICAiZW1haWwiOiAiZmlsaXAua2xvdWNla0BnbWFpbC5jb20iLCAgICJmaXJzdE5hbWUiOiAiRmlsaXAiLCAgICJsYXN0TmFtZSI6ICJLbG91xI1layIsICAgImNvbXBhbnlOYW1lIjogIkZpZG92YSBib2hhdMOhIGZpcm1hIHMuci5vLiIsICAgInN1YmplY3RUeXBlIjogeyAgICAgImlkIjogMSAgIH0sICAgInNlbGZFbXBsb3llZCI6IGZhbHNlLCAgICJwaG9uZSI6ICI2MDMyNTg3NDIiLCAgICJhZGRyZXNzIjogeyAgICAgInN0cmVldCI6ICJCb2hhdMOhIiwgICAgICJzdHJlZXROdW1iZXIiOiAiMTQiLCAgICAgImNpdHkiOiAiUGFyZHViaWNlIiwgICAgICJ6aXBOdW1iZXIiOiAiNTMwMDMiICAgfSwgICAiZGF0ZVVwZGF0ZSI6ICIyMDE3LTA3LTEzIDE4OjU0OjA0IiB9fQo=</text>
+      <register name="6" type="8">
+        <text>t
+t
+t
+t
+t</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">eyAgICJpZCI6IDMyMjAzNSAsIm9mZmVyIjp7ICAgICAiaWQiOjM1NTQ0MCAgIH0sICAgImZpbmFuY2luZyI6eyAgICAgImlkIjogMSAgIH0sICAgInJlYWN0aW9uUmVzb3VyY2UiOiB7ICAgICAiaWQiOiAyMDggICB9LCAgICJub3RlIjogeyAgICAgInZhbHVlIjogIkJCQyIgICB9LCAgICJzZW5kRXN0YXRlQWdlbnRTbXMiOiB7ICAgICAidmFsdWUiOiB0cnVlICAgfSwgICAibG1zQ2hhbm5lbFR5cGUiOiB7ICAgICAiaWQiOiAicGhvbmUiICAgfSwgICAiY2FsZW5kYXJSZXN1bHQiOnsgICAgICJpZCI6NTEzLCAgICAgIm5vdGUiOiJNaWxvxaEgWmVtYW4iICAgfSwgICAiY2xpZW50IjogeyAgICJpZCI6ICI3IiwgICAiZWluIjogIjAxNjQxNTczIiwgICAiZW1haWwiOiAiZmlsaXAua2xvdWNla0BnbWFpbC5jb20iLCAgICJmaXJzdE5hbWUiOiAiRmlsaXAiLCAgICJsYXN0TmFtZSI6ICJLbG91xI1layIsICAgImNvbXBhbnlOYW1lIjogIkZpZG92YSBib2hhdMOhIGZpcm1hIHMuci5vLiIsICAgInN1YmplY3RUeXBlIjogeyAgICAgImlkIjogMSAgIH0sICAgInNlbGZFbXBsb3llZCI6IGZhbHNlLCAgICJwaG9uZSI6ICI2MDMyNTg3NDIiLCAgICJhZGRyZXNzIjogeyAgICAgInN0cmVldCI6ICJCb2hhdMOhIiwgICAgICJzdHJlZXROdW1iZXIiOiAiMTQiLCAgICAgImNpdHkiOiAiUGFyZHViaWNlIiwgICAgICJ6aXBOdW1iZXIiOiAiNTMwMDMiICAgfSwgICAiZGF0ZVVwZGF0ZSI6ICIyMDE3LTA3LTEzIDE4OjU0OjA0IiB9fQo=</text>
+      <register name="7" type="8">
+        <text>t
+/
+t
+/
+t
+/
+t
+/
+t</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyAgICJpZCI6IDMyMjAzNSAsIm9mZmVyIjp7ICAgICAiaWQiOjM1NTQ0MCAgIH0sICAgImZpbmFuY2luZyI6eyAgICAgImlkIjogMSAgIH0sICAgInJlYWN0aW9uUmVzb3VyY2UiOiB7ICAgICAiaWQiOiAyMDggICB9LCAgICJub3RlIjogeyAgICAgInZhbHVlIjogIkJCQyIgICB9LCAgICJzZW5kRXN0YXRlQWdlbnRTbXMiOiB7ICAgICAidmFsdWUiOiB0cnVlICAgfSwgICAibG1zQ2hhbm5lbFR5cGUiOiB7ICAgICAiaWQiOiAicGhvbmUiICAgfSwgICAiY2FsZW5kYXJSZXN1bHQiOnsgICAgICJpZCI6NTEzLCAgICAgIm5vdGUiOiJNaWxvxaEgWmVtYW4iICAgfSwgICAiY2xpZW50IjogeyAgICJpZCI6ICI3IiwgICAiZWluIjogIjAxNjQxNTczIiwgICAiZW1haWwiOiAiZmlsaXAua2xvdWNla0BnbWFpbC5jb20iLCAgICJmaXJzdE5hbWUiOiAiRmlsaXAiLCAgICJsYXN0TmFtZSI6ICJLbG91xI1layIsICAgImNvbXBhbnlOYW1lIjogIkZpZG92YSBib2hhdMOhIGZpcm1hIHMuci5vLiIsICAgInN1YmplY3RUeXBlIjogeyAgICAgImlkIjogMSAgIH0sICAgInNlbGZFbXBsb3llZCI6IGZhbHNlLCAgICJwaG9uZSI6ICI2MDMyNTg3NDIiLCAgICJhZGRyZXNzIjogeyAgICAgInN0cmVldCI6ICJCb2hhdMOhIiwgICAgICJzdHJlZXROdW1iZXIiOiAiMTQiLCAgICAgImNpdHkiOiAiUGFyZHViaWNlIiwgICAgICJ6aXBOdW1iZXIiOiAiNTMwMDMiICAgfSwgICAiZGF0ZVVwZGF0ZSI6ICIyMDE3LTA3LTEzIDE4OjU0OjA0IiB9fQo=</text>
+        <text encoding="base64">eyAgICJjYWxlbmRhclJlc3VsdCI6IHsgICAgICJpZCI6IDUxMywgICAgICJub3RlIjogIk1pbG/FoSBaZW1hbiIgfSwgICAiY2xpZW50IjogeyAgICAgImlkIjogMTI2MjUwMSwgICAgICJmaXJzdE5hbWUiOiAiS2Fqw61uZWsiLCAgICAgInN1cm5hbWUiOiAiSmnFmcOtIiwgICAgICJtb2JpbGUiOiAiNjA2NDU0NDQ1IiwgImVtYWlsIjogImppcmthLmthamluZWtAdm9sbnkuY3oiICAgfSB9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">am91Ym9ydQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -478,7 +490,6 @@
       <history-cmd>
         <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
-        <entry>action Replace</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>101</entry>
         <entry>action $SelectAll</entry>
@@ -496,6 +507,7 @@
         <entry>bn</entry>
         <entry>q</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
