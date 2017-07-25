@@ -457,7 +457,7 @@ t</text>
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -511,8 +511,8 @@ t</text>
         <entry>action Replace</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>q</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
