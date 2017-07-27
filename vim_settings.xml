@@ -120,12 +120,6 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f74dedf-ab2b-4f95-8e78-d693c6dbde3b/console.sql" timestamp="1494613743119">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusQuery.php" timestamp="1493714380713">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -171,7 +165,6 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Calendar/Result/Mapper.php" timestamp="1500127494822" />
       <file name="/PHP Console" timestamp="1500128194392">
         <mark key="[" line="0" column="0" />
       </file>
@@ -220,21 +213,23 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/File/Module.php" timestamp="1500034515013">
-        <mark key="'" line="289" column="78" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/File/Module.php" timestamp="1501139135770">
+        <mark key="[" line="415" column="95" />
+        <mark key="]" line="415" column="95" />
+        <mark key="." line="415" column="95" />
       </file>
       <file name="/fragment.php" timestamp="1500128051781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498405475819">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f74dedf-ab2b-4f95-8e78-d693c6dbde3b/console.sql" timestamp="1494613743119">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/LmsdemandController.php" timestamp="1500127951379">
         <mark key="'" line="310" column="25" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Calendar/Module.php" timestamp="1500128397730" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryDao.php" timestamp="1493718810680">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="47" />
@@ -274,6 +269,11 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="8" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498405475819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/NewsController.php" timestamp="1498935705704">
         <mark key="[" line="25" column="43" />
@@ -489,11 +489,11 @@
         <entry>bn</entry>
         <entry>bp</entry>
         <entry>action SaveAll</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>w</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>!docker-compose up</entry>
+        <entry>action Vcs.UpdateProject</entry>
         <entry>action EditorSelectWord</entry>
       </history-cmd>
       <history-expr />
