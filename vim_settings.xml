@@ -48,12 +48,15 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1501163788144">
+        <mark key="[" line="101" column="18" />
+        <mark key="]" line="101" column="38" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryDao.php" timestamp="1493718810680">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Phoning/Module.php" timestamp="1501156265722" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryMapper.php" timestamp="1493718813734">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="47" />
@@ -241,7 +244,7 @@
         <text>calendarresul</text>
       </register>
       <register name="0" type="4">
-        <text>n</text>
+        <text>https://api.stormm.cz</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgICAgJA==</text>
