@@ -61,9 +61,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/DiscussionService.php" timestamp="1501139668871" />
-      <file name="/PHP Console" timestamp="1500128194392">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/detail.phtml" timestamp="1501141582790" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1500128733043">
         <mark key="'" line="61" column="53" />
@@ -97,9 +94,6 @@
         <mark key="[" line="415" column="95" />
         <mark key="]" line="415" column="95" />
         <mark key="." line="415" column="95" />
-      </file>
-      <file name="/fragment.php" timestamp="1500128051781">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/201707240848_MM-2768_add_new_table_contract_service_type.php" timestamp="1501141988442" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Category/Persitence/ZendDb/StatusCategoryDao.php" timestamp="1493718810680">
@@ -288,7 +282,7 @@
         <text encoding="base64">CQkgICAgaWYgKCR0aGlzLT5hY2wtPmlzQWxsb3dlZCgkdGhpcy0+cm9sZUlkLG51bGwsJ25ld3NWaWV3QWxsJykpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -342,8 +336,8 @@
         <entry>action Find</entry>
         <entry>!docker-compose up</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
