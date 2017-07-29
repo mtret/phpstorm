@@ -6,7 +6,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1500127812523">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/Api/OfferApiMapperV3.php" timestamp="1501361510905">
+        <mark key="]" line="40" column="13" />
+        <mark key="^" line="40" column="13" />
+        <mark key="." line="40" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501361620943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -16,7 +21,8 @@
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1501360684005">
+      <file name="restClient/response2.json" timestamp="1501361683250" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1501361360145">
         <mark key="'" line="361" column="17" />
         <mark key="[" line="63" column="42" />
         <mark key="]" line="63" column="42" />
@@ -84,7 +90,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="restClient/response0.json" timestamp="1500127289259">
+      <file name="restClient/response0.json" timestamp="1501361634860">
         <mark key="'" line="0" column="548" />
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="93" />
@@ -388,6 +394,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
