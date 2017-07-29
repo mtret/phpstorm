@@ -16,12 +16,12 @@
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1501156346476">
-        <mark key="'" line="385" column="17" />
-        <mark key="[" line="2604" column="12" />
-        <mark key="]" line="2604" column="33" />
-        <mark key="." line="344" column="11" />
-        <mark key="^" line="344" column="11" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1501360684005">
+        <mark key="'" line="361" column="17" />
+        <mark key="[" line="63" column="42" />
+        <mark key="]" line="63" column="42" />
+        <mark key="." line="63" column="42" />
+        <mark key="^" line="63" column="42" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Hypo/Deal/MortgageStaff/BruttoPoints/History/MortgageStaffBruttoPointsHistoryMapper.php" timestamp="1486371106951">
         <mark key="[" line="44" column="0" />
@@ -123,25 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="823" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="825" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="0" column="0" filename="restClient/response1.json" />
-      <jump line="84" column="0" filename="restClient/response1.json" />
-      <jump line="183" column="34" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" />
-      <jump line="169" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="126" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="125" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="124" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="57" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="56" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="55" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="127" column="46" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="167" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="52" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="53" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="54" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="78" column="69" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RestController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RestController.php" />
       <jump line="66" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Notice/NoticeService.php" />
       <jump line="61" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Notice/NoticeService.php" />
       <jump line="46" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Notice/NoticeService.php" />
@@ -188,7 +169,6 @@
       <jump line="93" column="30" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
       <jump line="95" column="27" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
       <jump line="96" column="24" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ScheduledTaskController.php" />
-      <jump line="351" column="47" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
       <jump line="2827" column="48" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
       <jump line="7" column="6" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
       <jump line="3794" column="44" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
@@ -223,6 +203,26 @@
       <jump line="62" column="55" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" />
       <jump line="60" column="54" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" />
       <jump line="61" column="53" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" />
+      <jump line="69" column="48" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="74" column="52" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="82" column="57" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="92" column="19" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="94" column="23" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="155" column="23" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="167" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="170" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="346" column="58" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="350" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="351" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="352" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="353" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="354" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="355" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="356" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="357" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="359" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="360" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="361" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -241,7 +241,7 @@
         <text>getOfferId()</text>
       </register>
       <register name="/" type="4">
-        <text>calendarresul</text>
+        <text encoding="base64">XDxhZGRKc1w+</text>
       </register>
       <register name="0" type="4">
         <text>https://api.stormm.cz</text>
@@ -278,18 +278,16 @@
       </register>
     </registers>
     <search>
-      <last-search>calendarresul</last-search>
+      <last-search encoding="base64">XDxhZGRKc1w+</last-search>
       <last-offset />
-      <last-pattern>calendarresul</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRKc1w+</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MANAGER</entry>
-        <entry>createrequi</entry>
         <entry>createrequirements</entry>
         <entry>statistics</entry>
         <entry>:grep</entry>
@@ -308,6 +306,8 @@
         <entry>formaction</entry>
         <entry>calendar</entry>
         <entry>calendarresul</entry>
+        <entry encoding="base64">XDxhcnJheVw+</entry>
+        <entry encoding="base64">XDxhZGRKc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>colorscheme</entry>
