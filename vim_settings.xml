@@ -280,7 +280,7 @@
         <text encoding="base64">CQkgICAgaWYgKCR0aGlzLT5hY2wtPmlzQWxsb3dlZCgkdGhpcy0+cm9sZUlkLG51bGwsJ25ld3NWaWV3QWxsJykpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -334,8 +334,8 @@
         <entry>!docker-compose up</entry>
         <entry>action GotoDeclaration</entry>
         <entry>q</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
