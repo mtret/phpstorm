@@ -43,7 +43,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="restClient/response1.json" timestamp="1501362045674" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1500128733043">
         <mark key="'" line="61" column="53" />
         <mark key="[" line="202" column="43" />
@@ -56,7 +55,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501362589594">
+      <file name="/Dummy.txt" timestamp="1501409672582">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -90,6 +89,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/CacheController.php" timestamp="1501409696788" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusDao.php" timestamp="1493714355089">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -280,7 +280,7 @@
         <text encoding="base64">CQkgICAgaWYgKCR0aGlzLT5hY2wtPmlzQWxsb3dlZCgkdGhpcy0+cm9sZUlkLG51bGwsJ25ld3NWaWV3QWxsJykpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action EditorSelectWord</text>
       </register>
     </registers>
     <search>
@@ -333,9 +333,9 @@
         <entry>action Find</entry>
         <entry>!docker-compose up</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action EditorSelectWord</entry>
         <entry>q</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action EditorSelectWord</entry>
       </history-cmd>
       <history-expr />
       <history-input />
