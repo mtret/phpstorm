@@ -4,6 +4,9 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="wallpaperSet" value="false" />
     <option name="useMaterialIcons" value="false" />
+    <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
+    <option name="tabsHeight" value="50" />
+    <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
