@@ -6,18 +6,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/Api/OfferApiMapperV3.php" timestamp="1501363592323">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/Api/OfferApiMapperV3.php" timestamp="1501790759114">
         <mark key="]" line="40" column="13" />
         <mark key="^" line="40" column="13" />
         <mark key="." line="40" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/TestsController.php" timestamp="1501414222280" />
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1501361360145">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1501789706394">
         <mark key="'" line="361" column="17" />
-        <mark key="[" line="63" column="42" />
-        <mark key="]" line="63" column="42" />
-        <mark key="." line="63" column="42" />
-        <mark key="^" line="63" column="42" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Hypo/Deal/MortgageStaff/BruttoPoints/History/MortgageStaffBruttoPointsHistoryMapper.php" timestamp="1486371106951">
         <mark key="[" line="44" column="0" />
@@ -37,6 +35,10 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementsBrokerCareController.php" timestamp="1501414129977">
         <mark key="[" line="165" column="5" />
         <mark key="]" line="165" column="4" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Date/Interval.php" timestamp="1501789657970">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="55" />
       </file>
       <file name="/career.phtml" timestamp="1501411857930">
         <mark key="'" line="261" column="36" />
@@ -70,10 +72,11 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501414215279">
+      <file name="/Dummy.txt" timestamp="1501789463542">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/BusinessIntelligenceController.php" timestamp="1492243099054">
         <mark key="[" line="6" column="4" />
@@ -104,7 +107,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/CacheController.php" timestamp="1501409696788" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" timestamp="1501413855402">
         <mark key="'" line="1249" column="49" />
       </file>
@@ -113,7 +115,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="restClient/response0.json" timestamp="1501361634860">
+      <file name="restClient/response0.json" timestamp="1501789031911">
         <mark key="'" line="0" column="548" />
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="93" />
@@ -267,45 +269,45 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>Požadavky na služby</text>
+        <text>Průměrné zobrazení karty nemovitosti</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
       </register>
-      <register name="0" type="4">
-        <text />
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGVUb1BsdXNPbmUgPSAkZGF0ZVRvLT5hZGQoJGRheUludGVydmFsKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAnYXNvZF9wYWdldmlld19zdW0nID0+ICdab2JyYXplbsOtIGthcnR5IG5lbW92aXRvc3RpJywKICAgICAgICAnYXNvZF9wYWdldmlld19hdmcnID0+ICdQcsWvbcSbcm7DqSB6b2JyYXplbsOtIGthcnR5IG5lbW92aXRvc3RpJywKICAgICAgICAnYXNvZF90aW1lX29uX3BhZ2VfYXZnJyA9PiAnUHLFr23Em3Juw6EgZG9iYSBzdHLDoXZlbsOhIG5hIGthcnTEmycsCiAgICAgICAgJ2Fzb2RfdGltZV9vbl9wYWdlX3N1bScgPT4gJ0RvYmEgc3Ryw6F2ZW7DoSBuYSBrYXJ0xJsnLAogICAgICAgICdhc29kX2NyZWF0ZWRfZGVtYW5kc19zdW0nID0+ICdQb8SNZXQgcG9wdMOhdmVrIHDFmWlqYXTDvWNoIG5hIGNhbGxjZW50cnVtJywKICAgICAgICAnYXNvZF9jcmVhdGVkX2RlbWFuZHNfYXZnJyA9PiAnUHLFr23Em3Juw70gcG/EjWV0IHBvcHTDoXZlayBwxZlpamF0w71jaCBuYSBjYWxsY2VudHJ1bScsCiAgICAgICAgJ29mZmVyX3ByaWNlX2hpc3RvcnknID0+ICdDZW5hIG5lbW92aXRvc3RpJywK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAnYXNvZF9wYWdldmlld19zdW0nID0+ICdab2JyYXplbsOtIGthcnR5IG5lbW92aXRvc3RpJywKICAgICAgICAnYXNvZF9wYWdldmlld19hdmcnID0+ICdQcsWvbcSbcm7DqSB6b2JyYXplbsOtIGthcnR5IG5lbW92aXRvc3RpJywKICAgICAgICAnYXNvZF90aW1lX29uX3BhZ2VfYXZnJyA9PiAnUHLFr23Em3Juw6EgZG9iYSBzdHLDoXZlbsOhIG5hIGthcnTEmycsCiAgICAgICAgJ2Fzb2RfdGltZV9vbl9wYWdlX3N1bScgPT4gJ0RvYmEgc3Ryw6F2ZW7DoSBuYSBrYXJ0xJsnLAogICAgICAgICdhc29kX2NyZWF0ZWRfZGVtYW5kc19zdW0nID0+ICdQb8SNZXQgcG9wdMOhdmVrIHDFmWlqYXTDvWNoIG5hIGNhbGxjZW50cnVtJywKICAgICAgICAnYXNvZF9jcmVhdGVkX2RlbWFuZHNfYXZnJyA9PiAnUHLFr23Em3Juw70gcG/EjWV0IHBvcHTDoXZlayBwxZlpamF0w71jaCBuYSBjYWxsY2VudHJ1bScsCiAgICAgICAgJ29mZmVyX3ByaWNlX2hpc3RvcnknID0+ICdDZW5hIG5lbW92aXRvc3RpJywK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAnYXNvZF9wYWdldmlld19hdmcnID0+ICdQcsWvbcSbcm7DqSB6b2JyYXplbsOtIGthcnR5IG5lbW92aXRvc3RpJywK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1iX3N0cmxlbigkZmlsdGVyWyJmdWxsdGV4dCJdLCJVVEYtOCIpIDwgT2ZmZXJMaXN0OjpNSU5fRlVMTFRFWFRfQ0hBUlMgJiYgIWVtcHR5KCRmaWx0ZXJbImZ1bGx0ZXh0Il0pKSB7CiAgICAgICAgICAgICAgICAkZXJyb3JzWyJmX2Z1bGx0ZXh0Il0gPSAgJHRoaXMtPnRyYW5zbGF0ZS0+Xygib2ZmZXJzRnVsbHRleHRNaW5DaGFycyIpOwogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGZpbHRlclsiZnVsbHRleHQiXSA9ICRzdHJpcFRhZ3MtPmZpbHRlcigkdGhpcy0+X3JlcXVlc3QtPmdldCgiZl9mdWxsdGV4dCIpKTsK</text>
+      </register>
+      <register name="6" type="4">
         <text>public function exportAction() {
 
     }</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgJA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">W0ZJWF0gRmF0YWwgb24gc2VuZE9mZmVyRmlsZXMK</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJG1vZHVsZS0+c3luY0ZpbGVGcm9tUzNUb0xvY2FsU3RvcmFnZUJ5UzNGaWxlbmFtZSgkZmlsZS0+Z2V0UzNDbG91ZEZpbGVTM0ZpbGVuYW1lKCkpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">eyAgICJpZCI6IDMyMjAzNSAsIm9mZmVyIjp7ICAgICAiaWQiOjM1NTQ0MCAgIH0sICAgImZpbmFuY2luZyI6eyAgICAgImlkIjogMSAgIH0sICAgInJlYWN0aW9uUmVzb3VyY2UiOiB7ICAgICAiaWQiOiAyMDggICB9LCAgICJub3RlIjogeyAgICAgInZhbHVlIjogIkJCQyIgICB9LCAgICJzZW5kRXN0YXRlQWdlbnRTbXMiOiB7ICAgICAidmFsdWUiOiB0cnVlICAgfSwgICAibG1zQ2hhbm5lbFR5cGUiOiB7ICAgICAiaWQiOiAicGhvbmUiICAgfSwgICAiY2FsZW5kYXJSZXN1bHQiOnsgICAgICJpZCI6NTEzLCAgICAgIm5vdGUiOiJNaWxvxaEgWmVtYW4iICAgfSwgICAiY2xpZW50IjogeyAgICJpZCI6ICI3IiwgICAiZWluIjogIjAxNjQxNTczIiwgICAiZW1haWwiOiAiZmlsaXAua2xvdWNla0BnbWFpbC5jb20iLCAgICJmaXJzdE5hbWUiOiAiRmlsaXAiLCAgICJsYXN0TmFtZSI6ICJLbG91xI1layIsICAgImNvbXBhbnlOYW1lIjogIkZpZG92YSBib2hhdMOhIGZpcm1hIHMuci5vLiIsICAgInN1YmplY3RUeXBlIjogeyAgICAgImlkIjogMSAgIH0sICAgInNlbGZFbXBsb3llZCI6IGZhbHNlLCAgICJwaG9uZSI6ICI2MDMyNTg3NDIiLCAgICJhZGRyZXNzIjogeyAgICAgInN0cmVldCI6ICJCb2hhdMOhIiwgICAgICJzdHJlZXROdW1iZXIiOiAiMTQiLCAgICAgImNpdHkiOiAiUGFyZHViaWNlIiwgICAgICJ6aXBOdW1iZXIiOiAiNTMwMDMiICAgfSwgICAiZGF0ZVVwZGF0ZSI6ICIyMDE3LTA3LTEzIDE4OjU0OjA0IiB9fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">eyAgICJpZCI6IDMyMjAzNSAsIm9mZmVyIjp7ICAgICAiaWQiOjM1NTQ0MCAgIH0sICAgImZpbmFuY2luZyI6eyAgICAgImlkIjogMSAgIH0sICAgInJlYWN0aW9uUmVzb3VyY2UiOiB7ICAgICAiaWQiOiAyMDggICB9LCAgICJub3RlIjogeyAgICAgInZhbHVlIjogIkJCQyIgICB9LCAgICJzZW5kRXN0YXRlQWdlbnRTbXMiOiB7ICAgICAidmFsdWUiOiB0cnVlICAgfSwgICAibG1zQ2hhbm5lbFR5cGUiOiB7ICAgICAiaWQiOiAicGhvbmUiICAgfSwgICAiY2FsZW5kYXJSZXN1bHQiOnsgICAgICJpZCI6NTEzLCAgICAgIm5vdGUiOiJNaWxvxaEgWmVtYW4iICAgfSwgICAiY2xpZW50IjogeyAgICJpZCI6ICI3IiwgICAiZWluIjogIjAxNjQxNTczIiwgICAiZW1haWwiOiAiZmlsaXAua2xvdWNla0BnbWFpbC5jb20iLCAgICJmaXJzdE5hbWUiOiAiRmlsaXAiLCAgICJsYXN0TmFtZSI6ICJLbG91xI1layIsICAgImNvbXBhbnlOYW1lIjogIkZpZG92YSBib2hhdMOhIGZpcm1hIHMuci5vLiIsICAgInN1YmplY3RUeXBlIjogeyAgICAgImlkIjogMSAgIH0sICAgInNlbGZFbXBsb3llZCI6IGZhbHNlLCAgICJwaG9uZSI6ICI2MDMyNTg3NDIiLCAgICJhZGRyZXNzIjogeyAgICAgInN0cmVldCI6ICJCb2hhdMOhIiwgICAgICJzdHJlZXROdW1iZXIiOiAiMTQiLCAgICAgImNpdHkiOiAiUGFyZHViaWNlIiwgICAgICJ6aXBOdW1iZXIiOiAiNTMwMDMiICAgfSwgICAiZGF0ZVVwZGF0ZSI6ICIyMDE3LTA3LTEzIDE4OjU0OjA0IiB9fQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">eyAgICJpZCI6IDMyMjAzNSAsIm9mZmVyIjp7ICAgICAiaWQiOjM1NTQ0MCAgIH0sICAgImZpbmFuY2luZyI6eyAgICAgImlkIjogMSAgIH0sICAgInJlYWN0aW9uUmVzb3VyY2UiOiB7ICAgICAiaWQiOiAyMDggICB9LCAgICJub3RlIjogeyAgICAgInZhbHVlIjogIkJCQyIgICB9LCAgICJzZW5kRXN0YXRlQWdlbnRTbXMiOiB7ICAgICAidmFsdWUiOiB0cnVlICAgfSwgICAibG1zQ2hhbm5lbFR5cGUiOiB7ICAgICAiaWQiOiAicGhvbmUiICAgfSwgICAiY2FsZW5kYXJSZXN1bHQiOnsgICAgICJpZCI6NTEzLCAgICAgIm5vdGUiOiJNaWxvxaEgWmVtYW4iICAgfSwgICAiY2xpZW50IjogeyAgICJpZCI6ICI3IiwgICAiZWluIjogIjAxNjQxNTczIiwgICAiZW1haWwiOiAiZmlsaXAua2xvdWNla0BnbWFpbC5jb20iLCAgICJmaXJzdE5hbWUiOiAiRmlsaXAiLCAgICJsYXN0TmFtZSI6ICJLbG91xI1layIsICAgImNvbXBhbnlOYW1lIjogIkZpZG92YSBib2hhdMOhIGZpcm1hIHMuci5vLiIsICAgInN1YmplY3RUeXBlIjogeyAgICAgImlkIjogMSAgIH0sICAgInNlbGZFbXBsb3llZCI6IGZhbHNlLCAgICJwaG9uZSI6ICI2MDMyNTg3NDIiLCAgICJhZGRyZXNzIjogeyAgICAgInN0cmVldCI6ICJCb2hhdMOhIiwgICAgICJzdHJlZXROdW1iZXIiOiAiMTQiLCAgICAgImNpdHkiOiAiUGFyZHViaWNlIiwgICAgICJ6aXBOdW1iZXIiOiAiNTMwMDMiICAgfSwgICAiZGF0ZVVwZGF0ZSI6ICIyMDE3LTA3LTEzIDE4OjU0OjA0IiB9fQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">am91Ym9ydQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbGF5b3V0LT50ZXN0Owo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -341,9 +343,6 @@
         <entry>export</entry>
       </history-search>
       <history-cmd>
-        <entry>colorscheme</entry>
-        <entry>action $Paste</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action Replace</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>101</entry>
@@ -352,15 +351,18 @@
         <entry>data</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>bn</entry>
-        <entry>bp</entry>
         <entry>action SaveAll</entry>
         <entry>action Find</entry>
         <entry>!docker-compose up</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>q</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
+        <entry>ls -la</entry>
+        <entry>vs</entry>
+        <entry>bp</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
