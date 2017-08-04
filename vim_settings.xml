@@ -85,7 +85,7 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" timestamp="1501832915283">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" timestamp="1501833009430">
         <mark key="'" line="384" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/File/Module.php" timestamp="1501139135770">
@@ -93,13 +93,19 @@
         <mark key="]" line="415" column="95" />
         <mark key="." line="415" column="95" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Task.php" timestamp="1501832697666" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" timestamp="1501832801627">
         <mark key="'" line="199" column="12" />
         <mark key="[" line="357" column="53" />
         <mark key="]" line="357" column="53" />
         <mark key="^" line="357" column="53" />
         <mark key="." line="357" column="53" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" timestamp="1501833265311">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="354" column="69" />
+        <mark key="]" line="354" column="69" />
+        <mark key="^" line="354" column="69" />
+        <mark key="." line="354" column="69" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1501163788144">
         <mark key="[" line="101" column="18" />
@@ -150,7 +156,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="45" />
       </file>
-      <file name="/201708040910_MM-2900_fix_acl_possibilities_for_asset_categories.php" timestamp="1501831890326" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusQuery.php" timestamp="1493714380713">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -163,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="32" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/LmsdemandController.php" />
       <jump line="361" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/LmsdemandController.php" />
       <jump line="360" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/LmsdemandController.php" />
       <jump line="353" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/LmsdemandController.php" />
@@ -263,6 +267,7 @@
       <jump line="65" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="555" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="384" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -281,7 +286,7 @@
         <text>Průměrné zobrazení karty nemovitosti</text>
       </register>
       <register name="/" type="4">
-        <text>formaction</text>
+        <text>tasks</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGRhdGVUb1BsdXNPbmUgPSAkZGF0ZVRvLT5hZGQoJGRheUludGVydmFsKTsK</text>
@@ -320,9 +325,9 @@
       </register>
     </registers>
     <search>
-      <last-search>formaction</last-search>
+      <last-search>tasks</last-search>
       <last-offset />
-      <last-pattern>formaction</last-pattern>
+      <last-pattern>tasks</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>-1</last-dir>
@@ -330,7 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validate</entry>
         <entry>nemohl</entry>
         <entry>$data</entry>
         <entry>saveorupdate</entry>
@@ -350,6 +354,7 @@
         <entry>detailac</entry>
         <entry>editaction</entry>
         <entry>formaction</entry>
+        <entry>tasks</entry>
       </history-search>
       <history-cmd>
         <entry>action Replace</entry>
