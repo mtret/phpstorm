@@ -139,6 +139,7 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="45" />
       </file>
+      <file name="/201708040910_MM-2900_fix_acl_possibilities_for_asset_categories.php" timestamp="1501831890326" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Workflow/Status/Persitence/ZendDb/WorkflowStatusQuery.php" timestamp="1493714380713">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -304,7 +305,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJG1vZHVsZS0+c3luY0ZpbGVGcm9tUzNUb0xvY2FsU3RvcmFnZUJ5UzNGaWxlbmFtZSgkZmlsZS0+Z2V0UzNDbG91ZEZpbGVTM0ZpbGVuYW1lKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -357,9 +358,9 @@
         <entry>bp</entry>
         <entry>action RecentFiles</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>q</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
