@@ -307,7 +307,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJG1vZHVsZS0+c3luY0ZpbGVGcm9tUzNUb0xvY2FsU3RvcmFnZUJ5UzNGaWxlbmFtZSgkZmlsZS0+Z2V0UzNDbG91ZEZpbGVTM0ZpbGVuYW1lKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action EditorSelectWord</text>
       </register>
     </registers>
     <search>
@@ -355,7 +355,6 @@
         <entry>action Find</entry>
         <entry>!docker-compose up</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action EditorSelectWord</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>w</entry>
         <entry>ls -la</entry>
@@ -363,6 +362,7 @@
         <entry>bp</entry>
         <entry>q</entry>
         <entry>action RecentFiles</entry>
+        <entry>action EditorSelectWord</entry>
       </history-cmd>
       <history-expr />
       <history-input />
