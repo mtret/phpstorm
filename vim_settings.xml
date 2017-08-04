@@ -1,7 +1,4 @@
 <application>
-  <component name="RelativeLineNumbersSettings">
-    <option name="enabled" value="false" />
-  </component>
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
@@ -60,7 +57,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/Api/OfferApiMapper.php" timestamp="1501829914615" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1500128733043">
         <mark key="'" line="61" column="53" />
         <mark key="[" line="202" column="43" />
@@ -103,7 +99,6 @@
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1501828717386" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Fullcover/FullcoverValidate.php" timestamp="1491295077507">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
