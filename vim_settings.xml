@@ -53,7 +53,7 @@
         <mark key="." line="3" column="115" />
         <mark key="^" line="3" column="115" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501846727406">
+      <file name="/Dummy.txt" timestamp="1501851142567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -253,7 +253,7 @@
         <text encoding="base64">W0ZJWF0gRmF0YWwgb24gc2VuZE9mZmVyRmlsZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action EditorSelectWord</text>
       </register>
     </registers>
     <search>
@@ -301,7 +301,6 @@
         <entry>bp</entry>
         <entry>q</entry>
         <entry>action Vcs.UpdateProject</entry>
-        <entry>action EditorSelectWord</entry>
         <entry>action RecentFiles</entry>
         <entry>12</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
@@ -309,6 +308,7 @@
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action EditorSelectWord</entry>
       </history-cmd>
       <history-expr />
       <history-input />
