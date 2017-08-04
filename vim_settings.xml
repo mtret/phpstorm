@@ -60,6 +60,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/Api/OfferApiMapper.php" timestamp="1501829077635" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1500128733043">
         <mark key="'" line="61" column="53" />
         <mark key="[" line="202" column="43" />
@@ -102,6 +103,7 @@
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsService.php" timestamp="1501828717386" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Fullcover/FullcoverValidate.php" timestamp="1491295077507">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -307,7 +309,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJG1vZHVsZS0+c3luY0ZpbGVGcm9tUzNUb0xvY2FsU3RvcmFnZUJ5UzNGaWxlbmFtZSgkZmlsZS0+Z2V0UzNDbG91ZEZpbGVTM0ZpbGVuYW1lKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -354,15 +356,15 @@
         <entry>action SaveAll</entry>
         <entry>action Find</entry>
         <entry>!docker-compose up</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>w</entry>
         <entry>ls -la</entry>
         <entry>vs</entry>
         <entry>bp</entry>
-        <entry>q</entry>
         <entry>action RecentFiles</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>q</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
