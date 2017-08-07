@@ -8,7 +8,7 @@
         <mark key="^" line="40" column="13" />
         <mark key="." line="40" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501852613520">
+      <file name="/Dummy.txt" timestamp="1502084548111">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -23,12 +23,21 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" timestamp="1501833009430">
         <mark key="'" line="384" column="20" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Competition/Summer2017.php" timestamp="1502084535471">
+        <mark key="[" line="261" column="37" />
+        <mark key="]" line="261" column="37" />
+        <mark key="^" line="261" column="37" />
+        <mark key="." line="261" column="37" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" timestamp="1501846799942">
         <mark key="'" line="555" column="21" />
         <mark key="[" line="523" column="47" />
         <mark key="]" line="523" column="52" />
         <mark key="^" line="523" column="52" />
         <mark key="." line="523" column="52" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Schema/AddView/CompetitionSummerForMonth.php" timestamp="1502084160188">
+        <mark key="'" line="103" column="66" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskDao.php" timestamp="1501846517649">
         <mark key="[" line="6" column="0" />
@@ -100,8 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
-      <jump line="352" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
       <jump line="353" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
       <jump line="354" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
       <jump line="355" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
@@ -200,6 +207,8 @@
       <jump line="190" column="13" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
       <jump line="194" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
       <jump line="555" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
+      <jump line="108" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Schema/AddView/CompetitionSummerForMonth.php" />
+      <jump line="103" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Schema/AddView/CompetitionSummerForMonth.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -218,7 +227,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>body produkce</text>
       </register>
       <register name="0" type="4">
         <text>Stormm_Requirements_Advance_Return_Assessment_Operation_Module</text>
@@ -253,21 +262,20 @@
         <text encoding="base64">W0ZJWF0gRmF0YWwgb24gc2VuZE9mZmVyRmlsZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>body produkce</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>body produkce</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>calendarre</entry>
         <entry>saveorupdateaction</entry>
         <entry>calendar</entry>
         <entry>calendarresul</entry>
@@ -287,6 +295,7 @@
         <entry encoding="base64">XDxvcGVyYXRpb25zXD4=</entry>
         <entry>saveaction</entry>
         <entry>save</entry>
+        <entry>body produkce</entry>
       </history-search>
       <history-cmd>
         <entry>101</entry>
@@ -306,9 +315,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Find</entry>
-        <entry>w</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
