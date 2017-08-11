@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Schema/AddView/CompetitionSummerForMonth.php" timestamp="1502084160188">
-        <mark key="'" line="103" column="66" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskDao.php" timestamp="1501846517649">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="9" column="78" />
@@ -25,9 +22,6 @@
         <mark key="^" line="18" column="77" />
         <mark key="." line="18" column="77" />
       </file>
-      <file name="/career.phtml" timestamp="1501411857930">
-        <mark key="'" line="261" column="36" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/tools/controllers/AccessController.php" timestamp="1501414234330">
         <mark key="'" line="8" column="43" />
         <mark key="[" line="63" column="7" />
@@ -42,6 +36,7 @@
       <file name="/PHP Console" timestamp="1502170070041">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/Api/OfferApiMapper.php" timestamp="1502440613019" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1502092256506">
         <mark key="'" line="61" column="53" />
         <mark key="[" line="78" column="0" />
@@ -59,7 +54,7 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="43" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502109972672">
+      <file name="/Dummy.txt" timestamp="1502441526892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -121,9 +116,6 @@
         <mark key="^" line="58" column="34" />
         <mark key="." line="58" column="34" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" timestamp="1501836368462">
-        <mark key="'" line="1249" column="49" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskMapper.php" timestamp="1501847749952">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="44" />
@@ -140,10 +132,10 @@
         <mark key="[" line="258" column="0" />
         <mark key="]" line="265" column="5" />
       </file>
-      <file name="restClient/response0.json" timestamp="1502090185604">
+      <file name="restClient/response0.json" timestamp="1502441387466">
         <mark key="'" line="0" column="548" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="1" />
+        <mark key="]" line="18" column="1" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="24" />
       </file>
@@ -273,31 +265,31 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGFycmF5ICRkYXRhCiAgICAgKiBAcGFyYW0gU3Rvcm1tX1JlcXVpcmVtZW50c19UYXh8bnVsbCAkZW50aXR5CiAgICAgKiBAcmV0dXJuIFN0b3JtbV9SZXF1aXJlbWVudHNfVGF4CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRFbnRpdHlGcm9tRGF0YShhcnJheSAkZGF0YSwgU3Rvcm1tX1JlcXVpcmVtZW50c19UYXggJGVudGl0eSA9IG51bGwpIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmdldE1hcHBlcigpLT5tYXBEYXRhVG9FbnRpdHkoJGRhdGEsICRlbnRpdHkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVkaXJlY3QoIi9hZGRpdGlvbmFsLXNlcnZpY2UtcmVxdWlyZW1lbnQvbmV3Iik7Cg==</text>
+        <text encoding="base64">eyAgICJvbmVTaG90RGVtYW5kIjogeyAgICAgImlkIjogIiIgICB9LCAgICJyZWNvbW1lbmRhdGlvbiI6IHsgICAgICJ0eXBlIjogeyAgICAgICAiaWQiOiAxICAgICB9LCAgICAgInJlY29tbWVuZGVyU3RhZmYiOiB7ICAgICAgICJpZCI6IDExNzcyICAgICB9ICAgfSB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">OwoKICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">eyAgICJvbmVTaG90RGVtYW5kIjogeyAgICAgImlkIjogIiIgICB9LCAgICJyZWNvbW1lbmRhdGlvbiI6IHsgICAgICJ0eXBlIjogeyAgICAgICAiaWQiOiAxICAgICB9LCAgICAgInJlY29tbWVuZGVyU3RhZmYiOiB7ICAgICAgICJpZCI6IDExNzcyICAgICB9ICAgfSB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYnVpbGRlci0+c2V0QWN0aW9uKCcvaGFoYWhhaGFoYScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVkaXJlY3QoIi9hZGRpdGlvbmFsLXNlcnZpY2UtcmVxdWlyZW1lbnQvbmV3Iik7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIFN0b3JtbVxUYXNrXEZvcm1cVGFza3NGb3JtOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">OwoKICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbnRyeV90eXBlJyA9PiBUYXNrc0Zvcm06OmNsYXNzUmVmZXJlbmNlKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAkYnVpbGRlci0+c2V0QWN0aW9uKCcvaGFoYWhhaGFoYScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFN0b3JtbVxUYXNrXEZvcm1cVGFza3NGb3JtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbnRyeV90eXBlJyA9PiBUYXNrc0Zvcm06OmNsYXNzUmVmZXJlbmNlKCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogVGltZTogMTQ6NDYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogRGF0ZTogNy44LjE3Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
