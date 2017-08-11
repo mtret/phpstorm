@@ -29,7 +29,7 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="63" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1502442857812">
+      <file name="/PHP Console" timestamp="1502454511558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1502443124416">
@@ -70,6 +70,13 @@
         <mark key="^" line="301" column="62" />
         <mark key="." line="301" column="62" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" timestamp="1502454513970">
+        <mark key="'" line="604" column="74" />
+        <mark key="[" line="381" column="0" />
+        <mark key="]" line="381" column="85" />
+        <mark key="^" line="381" column="85" />
+        <mark key="." line="381" column="85" />
+      </file>
       <file name="/fragment.php" timestamp="1502170088119">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,6 +93,7 @@
         <mark key="." line="14" column="55" />
         <mark key="^" line="14" column="55" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1502453816123" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementadvancereturnassessment/index.phtml" timestamp="1502445302376">
         <mark key="'" line="98" column="121" />
         <mark key="[" line="164" column="83" />
@@ -112,10 +120,9 @@
         <mark key="^" line="0" column="24" />
       </file>
       <file name="/RequirementResource.php" timestamp="1502446766621" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Module/Indexed.php" timestamp="1502454569334" />
     </filemarks>
     <jumps>
-      <jump line="452" column="29" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="453" column="52" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="873" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="874" column="9" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="875" column="55" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
@@ -140,7 +147,6 @@
       <jump line="208" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/AdditionalServiceRequirementController.php" />
       <jump line="275" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/AdditionalServiceRequirementController.php" />
       <jump line="8" column="43" filename="$USER_HOME$/PhpstormProjects/stormm/app/tools/controllers/AccessController.php" />
-      <jump line="199" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
       <jump line="65" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="555" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="384" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
@@ -214,6 +220,9 @@
       <jump line="14" column="91" filename="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" />
       <jump line="84" column="26" filename="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" />
       <jump line="8" column="31" filename="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" />
+      <jump line="199" column="4" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
+      <jump line="372" column="74" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
+      <jump line="604" column="74" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -232,10 +241,10 @@
         <text>getDb()</text>
       </register>
       <register name="/" type="4">
-        <text>drop</text>
+        <text>tasks</text>
       </register>
-      <register name="0" type="4">
-        <text>DROP FUNCTION IF EXISTS getMaxNumberOfDaysOfferIsExportedToSrealityInMonth&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGZvcm1EYXRhW1JlcXVpcmVtZW50c0FkdmFuY2VSZXR1cm5Bc3Nlc3NtZW50Rm9ybTo6UEFSVElDSVBBTlRTXSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkY2xpZW50RnJvbVN0b3JtbSA9ICR0aGlzLT5sb2FkQ2xpZW50KCRjbGllbnRGcm9tQXBpKTsK</text>
@@ -265,13 +274,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdlbnRyeV90eXBlJyA9PiBUYXNrc0Zvcm06OmNsYXNzUmVmZXJlbmNlKCksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>drop</last-search>
+      <last-search>tasks</last-search>
       <last-offset />
-      <last-pattern>drop</last-pattern>
+      <last-pattern>tasks</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -279,8 +288,6 @@
     </search>
     <history>
       <history-search>
-        <entry>editaction</entry>
-        <entry>saveall</entry>
         <entry encoding="base64">XDxPUEVSQVRJT05TXD4=</entry>
         <entry encoding="base64">XDxvcGVyYXRpb25zXD4=</entry>
         <entry>saveaction</entry>
@@ -290,15 +297,17 @@
         <entry>tabs</entry>
         <entry>newaction</entry>
         <entry encoding="base64">XDxwb3N0VGV4dFw+</entry>
-        <entry>tasks</entry>
         <entry>task</entry>
         <entry>saveorupdateac</entry>
-        <entry>saveorupdate</entry>
         <entry>formaction</entry>
         <entry>form</entry>
         <entry>save</entry>
         <entry>průvo</entry>
         <entry>drop</entry>
+        <entry>form_data</entry>
+        <entry>formdata</entry>
+        <entry>saveorupdate</entry>
+        <entry>tasks</entry>
       </history-search>
       <history-cmd>
         <entry>data</entry>
@@ -319,8 +328,8 @@
         <entry>q</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
