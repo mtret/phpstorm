@@ -3,8 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Provider/MultiDb.php" timestamp="1502447163930" />
-      <file name="/Summer2017.php" timestamp="1502449514513" />
       <file name="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" timestamp="1502451686588">
         <mark key="'" line="8" column="31" />
         <mark key="[" line="8" column="31" />
@@ -93,7 +91,6 @@
         <mark key="." line="14" column="55" />
         <mark key="^" line="14" column="55" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1502453816123" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementadvancereturnassessment/index.phtml" timestamp="1502445302376">
         <mark key="'" line="98" column="121" />
         <mark key="[" line="164" column="83" />
@@ -122,8 +119,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/RequirementResource.php" timestamp="1502446766621" />
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Module/Indexed.php" timestamp="1502454569334" />
     </filemarks>
     <jumps>
       <jump line="876" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
@@ -277,7 +272,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdlbnRyeV90eXBlJyA9PiBUYXNrc0Zvcm06OmNsYXNzUmVmZXJlbmNlKCksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ParameterInfo</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -326,13 +321,13 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Find</entry>
         <entry>W</entry>
-        <entry>action EditorSelectWord</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>w</entry>
         <entry>action ParameterInfo</entry>
+        <entry>action EditorSelectWord</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
