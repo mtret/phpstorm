@@ -1,14 +1,14 @@
 <application>
-  <component name="RelativeLineNumbersSettings">
-    <option name="enabled" value="false" />
-  </component>
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/Api/OfferApiMapperV3.php" timestamp="1502528105630" />
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Schema/AddView/CompetitionSummerForMonth.php" timestamp="1502084160188">
-        <mark key="'" line="103" column="66" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Provider/MultiDb.php" timestamp="1502447163930" />
+      <file name="/Summer2017.php" timestamp="1502449514513" />
+      <file name="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" timestamp="1502451686588">
+        <mark key="'" line="8" column="31" />
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="105" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskDao.php" timestamp="1501846517649">
         <mark key="[" line="6" column="0" />
@@ -16,21 +16,11 @@
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="78" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Form/Form.php" timestamp="1502110300993">
-        <mark key="u" line="4" column="8" />
-        <mark key="[" line="37" column="29" />
-        <mark key="]" line="37" column="51" />
-        <mark key="." line="37" column="51" />
-        <mark key="^" line="37" column="51" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskRepository.php" timestamp="1501845144135">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="77" />
         <mark key="^" line="18" column="77" />
         <mark key="." line="18" column="77" />
-      </file>
-      <file name="/career.phtml" timestamp="1501411857930">
-        <mark key="'" line="261" column="36" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/tools/controllers/AccessController.php" timestamp="1501414234330">
         <mark key="'" line="8" column="43" />
@@ -39,18 +29,14 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="63" column="7" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Advance/Return/Assessment/Operation/Module.php" timestamp="1501846726510">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="67" />
-      </file>
-      <file name="/PHP Console" timestamp="1502170070041">
+      <file name="/PHP Console" timestamp="1502455776064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1502092256506">
-        <mark key="'" line="61" column="53" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1502443124416">
+        <mark key="'" line="314" column="49" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
         <mark key="^" line="78" column="11" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/db/schema_updates/2017/08/201708041252_MM-2472_create_table_requirement_advance_return_assessment_tasks.php" timestamp="1501847755834">
@@ -59,11 +45,7 @@
         <mark key="." line="3" column="115" />
         <mark key="^" line="3" column="115" />
       </file>
-      <file name="/RequirementsTaxForm.php" timestamp="1502110131448">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="43" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1502109972672">
+      <file name="/Dummy.txt" timestamp="1502449641031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -76,24 +58,24 @@
         <mark key="." line="911" column="23" />
         <mark key="^" line="911" column="23" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV1.php" timestamp="1502092246680">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV1.php" timestamp="1502442566200">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="89" />
         <mark key="." line="53" column="96" />
         <mark key="^" line="53" column="96" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Competition/Summer2017.php" timestamp="1502084535471">
-        <mark key="[" line="261" column="37" />
-        <mark key="]" line="261" column="37" />
-        <mark key="^" line="261" column="37" />
-        <mark key="." line="261" column="37" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Competition/Summer2017.php" timestamp="1502451520568">
+        <mark key="[" line="301" column="29" />
+        <mark key="]" line="301" column="62" />
+        <mark key="^" line="301" column="62" />
+        <mark key="." line="301" column="62" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" timestamp="1502171444529">
-        <mark key="'" line="532" column="20" />
-        <mark key="[" line="539" column="38" />
-        <mark key="]" line="539" column="52" />
-        <mark key="^" line="539" column="52" />
-        <mark key="." line="539" column="52" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" timestamp="1502454513970">
+        <mark key="'" line="604" column="74" />
+        <mark key="[" line="381" column="0" />
+        <mark key="]" line="381" column="85" />
+        <mark key="^" line="381" column="85" />
+        <mark key="." line="381" column="85" />
       </file>
       <file name="/fragment.php" timestamp="1502170088119">
         <mark key="[" line="0" column="0" />
@@ -111,16 +93,12 @@
         <mark key="." line="14" column="55" />
         <mark key="^" line="14" column="55" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Tax/Form/RequirementsTaxForm.php" timestamp="1502110188968">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="58" />
-      </file>
-      <file name="/form.phtml" timestamp="1502109026068">
-        <mark key="[" line="27" column="105" />
-        <mark key="]" line="27" column="134" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" timestamp="1501836368462">
-        <mark key="'" line="1249" column="49" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1502453816123" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementadvancereturnassessment/index.phtml" timestamp="1502445302376">
+        <mark key="'" line="98" column="121" />
+        <mark key="[" line="164" column="83" />
+        <mark key="]" line="164" column="83" />
+        <mark key="." line="164" column="83" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskMapper.php" timestamp="1501847749952">
         <mark key="[" line="14" column="41" />
@@ -134,29 +112,20 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/Tax/Module.php" timestamp="1502171385919">
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="265" column="5" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" timestamp="1502455761118">
+        <mark key="'" line="22" column="18" />
       </file>
-      <file name="restClient/response0.json" timestamp="1502090185604">
+      <file name="restClient/response0.json" timestamp="1502442589517">
         <mark key="'" line="0" column="548" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="1" />
+        <mark key="]" line="18" column="1" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="/RequirementResource.php" timestamp="1502446766621" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Module/Indexed.php" timestamp="1502454569334" />
     </filemarks>
     <jumps>
-      <jump line="16" column="27" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="27" column="41" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="36" column="10" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="76" column="15" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="77" column="15" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="452" column="29" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="453" column="52" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="873" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="874" column="9" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="875" column="55" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="876" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="878" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="881" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
@@ -178,7 +147,6 @@
       <jump line="208" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/AdditionalServiceRequirementController.php" />
       <jump line="275" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/AdditionalServiceRequirementController.php" />
       <jump line="8" column="43" filename="$USER_HOME$/PhpstormProjects/stormm/app/tools/controllers/AccessController.php" />
-      <jump line="199" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
       <jump line="65" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="555" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="384" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
@@ -247,6 +215,17 @@
       <jump line="217" column="88" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
       <jump line="532" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
       <jump line="768" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
+      <jump line="315" column="49" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" />
+      <jump line="98" column="121" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementadvancereturnassessment/index.phtml" />
+      <jump line="14" column="91" filename="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" />
+      <jump line="84" column="26" filename="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" />
+      <jump line="8" column="31" filename="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" />
+      <jump line="199" column="4" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
+      <jump line="372" column="74" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
+      <jump line="604" column="74" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
+      <jump line="64" column="65" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" />
+      <jump line="106" column="57" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" />
+      <jump line="22" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -262,80 +241,78 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>getEntityFromData</text>
+        <text>getDb()</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>note</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGFycmF5ICRkYXRhCiAgICAgKiBAcGFyYW0gU3Rvcm1tX1JlcXVpcmVtZW50c19UYXh8bnVsbCAkZW50aXR5CiAgICAgKiBAcmV0dXJuIFN0b3JtbV9SZXF1aXJlbWVudHNfVGF4CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRFbnRpdHlGcm9tRGF0YShhcnJheSAkZGF0YSwgU3Rvcm1tX1JlcXVpcmVtZW50c19UYXggJGVudGl0eSA9IG51bGwpIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmdldE1hcHBlcigpLT5tYXBEYXRhVG9FbnRpdHkoJGRhdGEsICRlbnRpdHkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGZvcm1EYXRhW1JlcXVpcmVtZW50c0FkdmFuY2VSZXR1cm5Bc3Nlc3NtZW50Rm9ybTo6UEFSVElDSVBBTlRTXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVkaXJlY3QoIi9hZGRpdGlvbmFsLXNlcnZpY2UtcmVxdWlyZW1lbnQvbmV3Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50RnJvbVN0b3JtbSA9ICR0aGlzLT5sb2FkQ2xpZW50KCRjbGllbnRGcm9tQXBpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">OwoKICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">eyAgICAiY2FsZW5kYXJSZXN1bHQiOnsgICAgICAgImR1ZURhdGUiOiIyMDE3LTE4LTE4IiwgICAgICAgImR1ZVRpbWUiOiIxODowMCIsICAgICAgICJpZCI6MyAgICB9LCAgICAiY2xpZW50Ijp7ICAgICAgICJlbWFpbCI6ImthcmVsQG5vdnkuY29tIiwgICAgICAgImZpcnN0TmFtZSI6IkthcmVsIiwgICAgICAgImxhc3ROYW1lIjoiTm92eSIsICAgICAgICJwaG9uZSI6IjYwNTQ0Nzg4OSIgICAgfSwgICAgImxtc0NoYW5uZWxUeXBlIjp7ICAgICAgICJpZCI6InBob25lIiAgICB9LCAgICAib2ZmZXIiOnsgICAgICAgImlkIjozNTUxMTAgICAgfSB9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYnVpbGRlci0+c2V0QWN0aW9uKCcvaGFoYWhhaGFoYScpOwo=</text>
+        <text encoding="base64">eyAgICJvbmVTaG90RGVtYW5kIjogeyAgICAgImlkIjogIiIgICB9LCAgICJyZWNvbW1lbmRhdGlvbiI6IHsgICAgICJ0eXBlIjogeyAgICAgICAiaWQiOiAxICAgICB9LCAgICAgInJlY29tbWVuZGVyU3RhZmYiOiB7ICAgICAgICJpZCI6IDExNzcyICAgICB9ICAgfSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFN0b3JtbVxUYXNrXEZvcm1cVGFza3NGb3JtOwo=</text>
+        <text encoding="base64">eyAgICJvbmVTaG90RGVtYW5kIjogeyAgICAgImlkIjogIiIgICB9LCAgICJyZWNvbW1lbmRhdGlvbiI6IHsgICAgICJ0eXBlIjogeyAgICAgICAiaWQiOiAxICAgICB9LCAgICAgInJlY29tbWVuZGVyU3RhZmYiOiB7ICAgICAgICJpZCI6IDExNzcyICAgICB9ICAgfSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbnRyeV90eXBlJyA9PiBUYXNrc0Zvcm06OmNsYXNzUmVmZXJlbmNlKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVkaXJlY3QoIi9hZGRpdGlvbmFsLXNlcnZpY2UtcmVxdWlyZW1lbnQvbmV3Iik7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">OwoKICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkYnVpbGRlci0+c2V0QWN0aW9uKCcvaGFoYWhhaGFoYScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogVGltZTogMTQ6NDYK</text>
+        <text encoding="base64">dXNlIFN0b3JtbVxUYXNrXEZvcm1cVGFza3NGb3JtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogRGF0ZTogNy44LjE3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbnRyeV90eXBlJyA9PiBUYXNrc0Zvcm06OmNsYXNzUmVmZXJlbmNlKCksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action ParameterInfo</text>
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>note</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>note</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>editac</entry>
-        <entry>detailac</entry>
-        <entry>editaction</entry>
-        <entry>saveall</entry>
-        <entry encoding="base64">XDxPUEVSQVRJT05TXD4=</entry>
         <entry encoding="base64">XDxvcGVyYXRpb25zXD4=</entry>
         <entry>saveaction</entry>
-        <entry>save</entry>
         <entry>body produkce</entry>
         <entry>comparela</entry>
         <entry>compare</entry>
         <entry>tabs</entry>
         <entry>newaction</entry>
         <entry encoding="base64">XDxwb3N0VGV4dFw+</entry>
-        <entry>tasks</entry>
         <entry>task</entry>
         <entry>saveorupdateac</entry>
-        <entry>saveorupdate</entry>
         <entry>formaction</entry>
         <entry>form</entry>
+        <entry>save</entry>
+        <entry>průvo</entry>
+        <entry>drop</entry>
+        <entry>form_data</entry>
+        <entry>formdata</entry>
+        <entry>saveorupdate</entry>
+        <entry>tasks</entry>
+        <entry>note</entry>
       </history-search>
       <history-cmd>
-        <entry>action $SelectAll</entry>
-        <entry>action ParameterInfo</entry>
         <entry>data</entry>
         <entry>bn</entry>
         <entry>action SaveAll</entry>
@@ -348,12 +325,14 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action EditorSelectWord</entry>
-        <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
+        <entry>action EditorSelectWord</entry>
+        <entry>Q</entry>
+        <entry>q</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>w</entry>
+        <entry>action ParameterInfo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
