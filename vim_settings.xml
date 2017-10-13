@@ -6,13 +6,52 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" timestamp="1502451686588">
+        <mark key="'" line="8" column="31" />
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="105" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskDao.php" timestamp="1501846517649">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="78" />
+        <mark key="^" line="9" column="78" />
+        <mark key="." line="9" column="78" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskRepository.php" timestamp="1501845144135">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="77" />
+        <mark key="^" line="18" column="77" />
+        <mark key="." line="18" column="77" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/tools/controllers/AccessController.php" timestamp="1501414234330">
+        <mark key="'" line="8" column="43" />
+        <mark key="[" line="63" column="7" />
+        <mark key="]" line="63" column="5" />
+        <mark key="^" line="63" column="7" />
+        <mark key="." line="63" column="7" />
+      </file>
+      <file name="/PHP Console" timestamp="1502455782276">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1502443124416">
+        <mark key="'" line="314" column="49" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
+        <mark key="^" line="78" column="11" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/db/schema_updates/2017/08/201708041252_MM-2472_create_table_requirement_advance_return_assessment_tasks.php" timestamp="1501847755834">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="115" />
+        <mark key="." line="3" column="115" />
+        <mark key="^" line="3" column="115" />
+      </file>
       <file name="/Dummy.txt" timestamp="1502449641031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Praetor/Soap/Client/PraetorSoapClient.php" timestamp="1507289742769" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" timestamp="1502171278022">
         <mark key="'" line="768" column="0" />
         <mark key="[" line="605" column="0" />
@@ -32,11 +71,6 @@
         <mark key="^" line="301" column="62" />
         <mark key="." line="301" column="62" />
       </file>
-      <file name="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" timestamp="1502451686588">
-        <mark key="'" line="8" column="31" />
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="105" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" timestamp="1502621252309">
         <mark key="'" line="611" column="74" />
         <mark key="[" line="388" column="0" />
@@ -47,12 +81,6 @@
       <file name="/fragment.php" timestamp="1502170088119">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskDao.php" timestamp="1501846517649">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="78" />
-        <mark key="^" line="9" column="78" />
-        <mark key="." line="9" column="78" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" timestamp="1502108660742">
         <mark key="'" line="29" column="27" />
         <mark key="[" line="27" column="75" />
@@ -60,25 +88,17 @@
         <mark key="^" line="361" column="28" />
         <mark key="." line="361" column="28" />
       </file>
-      <file name="/SendReferenceRequestService.php" timestamp="1507289091996" />
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskRepository.php" timestamp="1501845144135">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="77" />
-        <mark key="^" line="18" column="77" />
-        <mark key="." line="18" column="77" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Calendar/Module.php" timestamp="1502088017224">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="55" />
         <mark key="." line="14" column="55" />
         <mark key="^" line="14" column="55" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/tools/controllers/AccessController.php" timestamp="1501414234330">
-        <mark key="'" line="8" column="43" />
-        <mark key="[" line="63" column="7" />
-        <mark key="]" line="63" column="5" />
-        <mark key="^" line="63" column="7" />
-        <mark key="." line="63" column="7" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017/2017-06/201706261331_MM-2621_competition_summer_06_2017_report_in_reports.php" timestamp="1507890832457">
+        <mark key="'" line="6" column="49" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementadvancereturnassessment/index.phtml" timestamp="1502445302376">
         <mark key="'" line="98" column="121" />
@@ -86,24 +106,6 @@
         <mark key="]" line="164" column="83" />
         <mark key="." line="164" column="83" />
       </file>
-      <file name="/PHP Console" timestamp="1502455782276">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1502443124416">
-        <mark key="'" line="314" column="49" />
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="." line="229" column="0" />
-        <mark key="^" line="78" column="11" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/db/schema_updates/2017/08/201708041252_MM-2472_create_table_requirement_advance_return_assessment_tasks.php" timestamp="1501847755834">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="115" />
-        <mark key="." line="3" column="115" />
-        <mark key="^" line="3" column="115" />
-      </file>
-      <file name="/Client.php" timestamp="1507288217671" />
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Praetor/Soap/Lv/PraetorSoapLv.php" timestamp="1507288867154" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskMapper.php" timestamp="1501847749952">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="44" />
@@ -128,7 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="876" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="878" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="881" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="882" column="9" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
@@ -228,6 +229,7 @@
       <jump line="64" column="65" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" />
       <jump line="106" column="57" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" />
       <jump line="22" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" />
+      <jump line="6" column="49" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017/2017-06/201706261331_MM-2621_competition_summer_06_2017_report_in_reports.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -243,10 +245,10 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>getDb()</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
-        <text>note</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGZvcm1EYXRhW1JlcXVpcmVtZW50c0FkdmFuY2VSZXR1cm5Bc3Nlc3NtZW50Rm9ybTo6UEFSVElDSVBBTlRTXSwK</text>
@@ -279,13 +281,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdlbnRyeV90eXBlJyA9PiBUYXNrc0Zvcm06OmNsYXNzUmVmZXJlbmNlKCksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
-      <last-search>note</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>note</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -293,7 +295,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcGVyYXRpb25zXD4=</entry>
         <entry>saveaction</entry>
         <entry>body produkce</entry>
         <entry>comparela</entry>
@@ -313,6 +314,7 @@
         <entry>saveorupdate</entry>
         <entry>tasks</entry>
         <entry>note</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>data</entry>
@@ -326,15 +328,15 @@
         <entry>12</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action Find</entry>
         <entry>W</entry>
         <entry>action EditorSelectWord</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>w</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Vcs.UpdateProject</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
