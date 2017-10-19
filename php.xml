@@ -2,7 +2,7 @@
   <component name="PhpAutoImport" auto_import_file_scope="true" prepend_global_functions_and_constants="true" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration tool_path="phpcs" />
+      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/PhpstormProjects/stormm/bin/phpcs" />
       <phpcs_by_interpreter interpreter_id="c64fd4d3-f784-4031-93b1-6b2013c75417" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Symfony2;Zend" tool_path="/root/.composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
