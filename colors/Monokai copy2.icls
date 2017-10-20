@@ -1,17 +1,17 @@
 <scheme name="Monokai copy2" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-06-28T19:33:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-28T19:38:30</property>
+    <property name="modified">2017-10-20T13:38:49</property>
     <property name="originalScheme">Monokai copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Hack" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="" />
