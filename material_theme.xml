@@ -2,12 +2,12 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isMaterialDesign" value="false" />
     <option name="wallpaperSet" value="false" />
     <option name="useMaterialIcons" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="50" />
     <option name="isMaterialTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
   </component>
 </application>
