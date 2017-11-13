@@ -36,11 +36,9 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="63" column="7" />
       </file>
-      <file name="/201711061016_MM-3606_create_RPU_investment_interest.php" timestamp="1510317496748" />
       <file name="/PHP Console" timestamp="1502455782276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Validate.php" timestamp="1510317664892" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1502443124416">
         <mark key="'" line="314" column="49" />
         <mark key="[" line="229" column="0" />
@@ -57,7 +55,7 @@
       <file name="/dummy.sql" timestamp="1510317758438">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502449641031">
+      <file name="/Dummy.txt" timestamp="1510557322759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -111,13 +109,13 @@
         <mark key="]" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Export/Advertising/Server/SrealityCz/Connector.php" timestamp="1510557601447" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementadvancereturnassessment/index.phtml" timestamp="1502445302376">
         <mark key="'" line="98" column="121" />
         <mark key="[" line="164" column="83" />
         <mark key="]" line="164" column="83" />
         <mark key="." line="164" column="83" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification.php" timestamp="1510312394701" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskMapper.php" timestamp="1501847749952">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="44" />
@@ -145,11 +143,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Stormm/Advertising/Server/SrealityCz.php" timestamp="1510557454925">
+        <mark key="'" line="159" column="47" />
+        <mark key="[" line="38" column="68" />
+        <mark key="]" line="38" column="68" />
+        <mark key="." line="38" column="68" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="878" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="881" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
-      <jump line="882" column="9" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="883" column="55" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="884" column="71" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
       <jump line="886" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Action.php" />
@@ -247,6 +248,9 @@
       <jump line="106" column="57" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" />
       <jump line="22" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" />
       <jump line="6" column="49" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017/2017-06/201706261331_MM-2621_competition_summer_06_2017_report_in_reports.php" />
+      <jump line="30" column="43" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Stormm/Advertising/Server/SrealityCz.php" />
+      <jump line="158" column="51" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Stormm/Advertising/Server/SrealityCz.php" />
+      <jump line="159" column="47" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Stormm/Advertising/Server/SrealityCz.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -262,10 +266,10 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>fc213ef37aa02370048e3881c5c3dd60f</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>addadvert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
@@ -298,13 +302,13 @@
         <text encoding="base64">eyAgICAiY2FsZW5kYXJSZXN1bHQiOnsgICAgICAgImR1ZURhdGUiOiIyMDE3LTE4LTE4IiwgICAgICAgImR1ZVRpbWUiOiIxODowMCIsICAgICAgICJpZCI6MyAgICB9LCAgICAiY2xpZW50Ijp7ICAgICAgICJlbWFpbCI6ImthcmVsQG5vdnkuY29tIiwgICAgICAgImZpcnN0TmFtZSI6IkthcmVsIiwgICAgICAgImxhc3ROYW1lIjoiTm92eSIsICAgICAgICJwaG9uZSI6IjYwNTQ0Nzg4OSIgICAgfSwgICAgImxtc0NoYW5uZWxUeXBlIjp7ICAgICAgICJpZCI6InBob25lIiAgICB9LCAgICAib2ZmZXIiOnsgICAgICAgImlkIjozNTUxMTAgICAgfSB9IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>addadvert</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>addadvert</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -312,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveaction</entry>
         <entry>body produkce</entry>
         <entry>comparela</entry>
         <entry>compare</entry>
@@ -332,6 +335,7 @@
         <entry>tasks</entry>
         <entry>note</entry>
         <entry>delete</entry>
+        <entry>addadvert</entry>
       </history-search>
       <history-cmd>
         <entry>data</entry>
@@ -344,16 +348,16 @@
         <entry>action RecentFiles</entry>
         <entry>12</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>W</entry>
         <entry>action EditorSelectWord</entry>
         <entry>Q</entry>
         <entry>q</entry>
         <entry>w</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
