@@ -37,7 +37,7 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="63" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1511517502671">
+      <file name="/PHP Console" timestamp="1511522397853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1502443124416">
@@ -53,13 +53,13 @@
         <mark key="." line="3" column="115" />
         <mark key="^" line="3" column="115" />
       </file>
-      <file name="/dummy.sql" timestamp="1511517084896">
+      <file name="/dummy.sql" timestamp="1511521795678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511517231705">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
+      <file name="/Dummy.txt" timestamp="1511521143771">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" timestamp="1502171278022">
@@ -125,6 +125,12 @@
         <mark key="." line="0" column="87" />
         <mark key="^" line="0" column="123" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm-moodle-plugin/completion_cron_task/course_completion_class.php" timestamp="1511521113255">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/twig/templates/additional-service-requirement/form.twig" timestamp="1511517152249" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementadvancereturnassessment/index.phtml" timestamp="1502445302376">
         <mark key="'" line="98" column="121" />
@@ -156,10 +162,8 @@
         <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirement/AdditionalService/Form/AdditionalServiceRequirementDocumentTransformer.php" timestamp="1511515217148" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1510312165257">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511521543589">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-export/lib/Stormm/Advertising/Server/SrealityCz.php" timestamp="1510557454925">
         <mark key="'" line="159" column="47" />
@@ -287,7 +291,7 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXBkYXRlIA==</text>
+        <text>json key name</text>
       </register>
       <register name="/" type="4">
         <text>saveactio</text>
@@ -323,7 +327,7 @@
         <text encoding="base64">ICAgICAgICAkY2xpZW50RnJvbVN0b3JtbSA9ICR0aGlzLT5sb2FkQ2xpZW50KCRjbGllbnRGcm9tQXBpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -359,7 +363,6 @@
         <entry>saveactio</entry>
       </history-search>
       <history-cmd>
-        <entry>data</entry>
         <entry>bn</entry>
         <entry>action SaveAll</entry>
         <entry>!docker-compose up</entry>
@@ -375,10 +378,11 @@
         <entry>q</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Vcs.UpdateProject</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
+        <entry>action $Paste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
