@@ -109,6 +109,18 @@
         <mark key="]" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_17.sql" timestamp="1511511357243">
+        <mark key="[" line="0" column="64" />
+        <mark key="]" line="0" column="70" />
+        <mark key="." line="0" column="70" />
+        <mark key="^" line="0" column="70" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f7dae128-15c3-4c01-8864-f1bbd88bd8b8/console_2.sql" timestamp="1511511185747">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="125" />
+        <mark key="." line="0" column="87" />
+        <mark key="^" line="0" column="123" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementadvancereturnassessment/index.phtml" timestamp="1502445302376">
         <mark key="'" line="98" column="121" />
         <mark key="[" line="164" column="83" />
@@ -266,43 +278,43 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">dXBkYXRlIA==</text>
       </register>
       <register name="/" type="4">
         <text>addadvert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBtbV9hZGRpdGlvbmFsX3NlcnZpY2VfcmVxdWlyZW1lbnRzIHdoZXJlIGFzcl9kYXRlX2NyZWF0ZSBsaWtlICcyMDE3LTExLTIxJyBvciBhc3JfZGF0ZV91cGRhdGUgbGlrZSAnMjAxNy0xMS0yMSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9jYWxlbmRhcl90YXNrc19jeiB3aGVyZSBtbV9jYWxlbmRhcl90YXNrc19jei5jdGFfdGl0bGUgbGlrZSAnb2Rwb3bEm2TEm2xhIG1pIHAuIFJpY2h0ZXJvdsOhPycK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA3LzIwMTcnKTsiKTsKICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA4LzIwMTcnKTsiKTsK</text>
+        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NISVBfQ1JVSVNFPSBTaGlwQ3J1aXNlMjAxODo6SUQ7CiAgICBjb25zdCBDT01QRVRJVElPTl9TVU1NRVJfMjAxN19OQU1FX0lEID0gU2hpcENydWlzZTIwMTg6Ok5BTUU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA3LzIwMTcnKTsiKTsKICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA4LzIwMTcnKTsiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wOF8yMDE3X0lEOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NISVBfQ1JVSVNFPSBTaGlwQ3J1aXNlMjAxODo6SUQ7CiAgICBjb25zdCBDT01QRVRJVElPTl9TVU1NRVJfMjAxN19OQU1FX0lEID0gU2hpcENydWlzZTIwMTg6Ok5BTUU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wN18yMDE3X0lEOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wOF8yMDE3X0lEOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA2XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wNl8yMDE3X0lEOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wN18yMDE3X0lEOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50RnJvbVN0b3JtbSA9ICR0aGlzLT5sb2FkQ2xpZW50KCRjbGllbnRGcm9tQXBpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA2XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wNl8yMDE3X0lEOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyAgICAiY2FsZW5kYXJSZXN1bHQiOnsgICAgICAgImR1ZURhdGUiOiIyMDE3LTE4LTE4IiwgICAgICAgImR1ZVRpbWUiOiIxODowMCIsICAgICAgICJpZCI6MyAgICB9LCAgICAiY2xpZW50Ijp7ICAgICAgICJlbWFpbCI6ImthcmVsQG5vdnkuY29tIiwgICAgICAgImZpcnN0TmFtZSI6IkthcmVsIiwgICAgICAgImxhc3ROYW1lIjoiTm92eSIsICAgICAgICJwaG9uZSI6IjYwNTQ0Nzg4OSIgICAgfSwgICAgImxtc0NoYW5uZWxUeXBlIjp7ICAgICAgICJpZCI6InBob25lIiAgICB9LCAgICAib2ZmZXIiOnsgICAgICAgImlkIjozNTUxMTAgICAgfSB9IAo=</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50RnJvbVN0b3JtbSA9ICR0aGlzLT5sb2FkQ2xpZW50KCRjbGllbnRGcm9tQXBpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -352,12 +364,12 @@
         <entry>action EditorSelectWord</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
