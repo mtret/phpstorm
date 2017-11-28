@@ -33,6 +33,7 @@
         <mark key="^" line="77" column="9" />
         <mark key="." line="77" column="9" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/RealtyBundle/Service/AcquisitionTitleService.php" timestamp="1511853528684" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/db/schema_updates/2017/08/201708041252_MM-2472_create_table_requirement_advance_return_assessment_tasks.php" timestamp="1501847755834">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="115" />
@@ -65,6 +66,9 @@
       </file>
       <file name="/fragment.php" timestamp="1502170088119">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/CharterController.php" timestamp="1511853043386">
+        <mark key="'" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Calendar/Module.php" timestamp="1502088017224">
         <mark key="[" line="14" column="10" />
@@ -115,14 +119,11 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/AdditionalServiceRequirementController.php" timestamp="1511515302630">
         <mark key="'" line="19" column="58" />
       </file>
-      <file name="/CharterController.php" timestamp="1511851591296">
-        <mark key="'" line="186" column="21" />
+      <file name="/CharterController.php" timestamp="1511853778043">
+        <mark key="'" line="10" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/AdditionalServiceRequirementController.php" />
-      <jump line="275" column="26" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/AdditionalServiceRequirementController.php" />
-      <jump line="8" column="43" filename="$USER_HOME$/PhpstormProjects/stormm/app/tools/controllers/AccessController.php" />
       <jump line="65" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="555" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="384" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
@@ -213,13 +214,16 @@
       <jump line="88" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Twig/TwigCrudAction.php" />
       <jump line="35" column="29" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/twig/templates/additional-service-requirement/form/expertReview.twig" />
       <jump line="13" column="0" filename="/CharterController.php" />
-      <jump line="181" column="17" filename="/CharterController.php" />
-      <jump line="11" column="18" filename="/CharterController.php" />
-      <jump line="10" column="18" filename="/CharterController.php" />
       <jump line="194" column="67" filename="/CharterController.php" />
       <jump line="191" column="26" filename="/CharterController.php" />
       <jump line="188" column="17" filename="/CharterController.php" />
       <jump line="186" column="21" filename="/CharterController.php" />
+      <jump line="16" column="6" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/CharterController.php" />
+      <jump line="58" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/CharterController.php" />
+      <jump line="151" column="0" filename="/CharterController.php" />
+      <jump line="181" column="17" filename="/CharterController.php" />
+      <jump line="11" column="18" filename="/CharterController.php" />
+      <jump line="10" column="18" filename="/CharterController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -271,7 +275,7 @@
         <text encoding="base64">ICAgICAgICAkY2xpZW50RnJvbVN0b3JtbSA9ICR0aGlzLT5sb2FkQ2xpZW50KCRjbGllbnRGcm9tQXBpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -285,7 +289,6 @@
     </search>
     <history>
       <history-search>
-        <entry>task</entry>
         <entry>saveorupdateac</entry>
         <entry>formaction</entry>
         <entry>form</entry>
@@ -304,6 +307,7 @@
         <entry>editAc</entry>
         <entry>saveactio</entry>
         <entry>documen</entry>
+        <entry>getreport</entry>
         <entry>balance</entry>
       </history-search>
       <history-cmd>
@@ -320,13 +324,13 @@
         <entry>q</entry>
         <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action $Paste</entry>
         <entry>action EditorSelectWord</entry>
         <entry>w</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
