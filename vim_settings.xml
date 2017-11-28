@@ -12,6 +12,12 @@
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="78" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console.sql" timestamp="1511856314516">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskRepository.php" timestamp="1501845144135">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="77" />
@@ -24,6 +30,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/Entity/Log/ApiLog.php" timestamp="1511856613829" />
       <file name="/PHP Console" timestamp="1511524995862">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,14 +47,24 @@
         <mark key="." line="3" column="115" />
         <mark key="^" line="3" column="115" />
       </file>
-      <file name="/dummy.sql" timestamp="1511851391734">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/Entity/Log/ApiLogResponse.php" timestamp="1511856001028">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="22" />
+      </file>
+      <file name="/dummy.sql" timestamp="1511856236705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511524385414">
+      <file name="/Dummy.txt" timestamp="1511856002398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/EventListener/ApiLogListener.php" timestamp="1511856669098">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV1.php" timestamp="1502442566200">
         <mark key="[" line="150" column="0" />
@@ -239,40 +256,40 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>json key name</text>
+        <text>mm_balance_cz</text>
       </register>
       <register name="/" type="4">
         <text>balance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZXhwZXJ0UmV2aWV3RmlsZVVwbG9hZGVyID0gaW5pdEZpbGVVcGxvYWQoJyNleHBlcnRSZXZpZXdEb2N1bWVudFVwbG9hZE11bHRpJyk7Cg==</text>
+        <text encoding="base64">Y2xhc3MgQXBpTG9nUmVzcG9uc2Ugewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9jYWxlbmRhcl90YXNrc19jeiB3aGVyZSBtbV9jYWxlbmRhcl90YXNrc19jei5jdGFfdGl0bGUgbGlrZSAnb2Rwb3bEm2TEm2xhIG1pIHAuIFJpY2h0ZXJvdsOhPycK</text>
+        <text encoding="base64">V0hFUkUgYmFsX2lkID0gNDA2OTM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBFbnRpdHlNYW5hZ2VyICAkZW0KICAgICAqIEBwYXJhbSBcU3Rvcm1tX1N5c3RlbSAkc3lzdGVtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9jYWxlbmRhcl90YXNrc19jeiB3aGVyZSBtbV9jYWxlbmRhcl90YXNrc19jei5jdGFfdGl0bGUgbGlrZSAnb2Rwb3bEm2TEm2xhIG1pIHAuIFJpY2h0ZXJvdsOhPycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA3LzIwMTcnKTsiKTsKICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA4LzIwMTcnKTsiKTsK</text>
+        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NISVBfQ1JVSVNFPSBTaGlwQ3J1aXNlMjAxODo6SUQ7CiAgICBjb25zdCBDT01QRVRJVElPTl9TVU1NRVJfMjAxN19OQU1FX0lEID0gU2hpcENydWlzZTIwMTg6Ok5BTUU7Cg==</text>
+        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wOF8yMDE3X0lEOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA3LzIwMTcnKTsiKTsKICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA4LzIwMTcnKTsiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wN18yMDE3X0lEOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NISVBfQ1JVSVNFPSBTaGlwQ3J1aXNlMjAxODo6SUQ7CiAgICBjb25zdCBDT01QRVRJVElPTl9TVU1NRVJfMjAxN19OQU1FX0lEID0gU2hpcENydWlzZTIwMTg6Ok5BTUU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA2XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wNl8yMDE3X0lEOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wOF8yMDE3X0lEOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50RnJvbVN0b3JtbSA9ICR0aGlzLT5sb2FkQ2xpZW50KCRjbGllbnRGcm9tQXBpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wN18yMDE3X0lEOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
@@ -325,12 +342,12 @@
         <entry>action ParameterInfo</entry>
         <entry>action Find</entry>
         <entry>action $Paste</entry>
-        <entry>action EditorSelectWord</entry>
-        <entry>w</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action Vcs.UpdateProject</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
+        <entry>w</entry>
+        <entry>action EditorSelectWord</entry>
         <entry>action GotoDeclaration</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
