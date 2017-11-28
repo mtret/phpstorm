@@ -6,6 +6,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/vendor/zendframework/zendframework1/library/Zend/Registry.php" timestamp="1511871122953" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" timestamp="1511869685324" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Service.php" timestamp="1511870876879">
+        <mark key="'" line="35" column="8" />
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="36" column="30" />
+        <mark key="^" line="36" column="30" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskDao.php" timestamp="1501846517649">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="9" column="78" />
@@ -30,13 +39,19 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/System.php" timestamp="1511870996794" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_12.sql" timestamp="1511856960799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1511524995862">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/Entity/Log/ApiLog.php" timestamp="1511869531508">
+        <mark key="[" line="216" column="69" />
+        <mark key="]" line="216" column="69" />
+        <mark key="." line="216" column="69" />
+      </file>
+      <file name="/PHP Console" timestamp="1511871105544">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src_frontend/assets/js/modules/additional-service-requirement.form.js" timestamp="1511525210156">
@@ -55,16 +70,17 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="22" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/Resources/config/services.yml" timestamp="1511870959960" />
       <file name="/dummy.sql" timestamp="1511869422837">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511857012459">
+      <file name="/Dummy.txt" timestamp="1511870940138">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/EventListener/ApiLogListener.php" timestamp="1511857025184">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/EventListener/ApiLogListener.php" timestamp="1511871058173">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="62" column="0" />
@@ -135,7 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="555" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="384" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
@@ -235,6 +250,7 @@
       <jump line="181" column="17" filename="/CharterController.php" />
       <jump line="11" column="18" filename="/CharterController.php" />
       <jump line="10" column="18" filename="/CharterController.php" />
+      <jump line="35" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Service.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -250,49 +266,49 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>mm_balance_cz</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>balance</text>
+        <text>createUser</text>
       </register>
       <register name="0" type="4">
         <text>0485a5f7a94be91899b721b8bf21c7c320bca9b2&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V0hFUkUgYmFsX2lkID0gNDA2OTM7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBTdG9ybW1fVXNlcgogICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBFbnRpdHlNYW5hZ2VyICAkZW0KICAgICAqIEBwYXJhbSBcU3Rvcm1tX1N5c3RlbSAkc3lzdGVtCg==</text>
+        <text encoding="base64">V0hFUkUgYmFsX2lkID0gNDA2OTM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9jYWxlbmRhcl90YXNrc19jeiB3aGVyZSBtbV9jYWxlbmRhcl90YXNrc19jei5jdGFfdGl0bGUgbGlrZSAnb2Rwb3bEm2TEm2xhIG1pIHAuIFJpY2h0ZXJvdsOhPycK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBFbnRpdHlNYW5hZ2VyICAkZW0KICAgICAqIEBwYXJhbSBcU3Rvcm1tX1N5c3RlbSAkc3lzdGVtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9jYWxlbmRhcl90YXNrc19jeiB3aGVyZSBtbV9jYWxlbmRhcl90YXNrc19jei5jdGFfdGl0bGUgbGlrZSAnb2Rwb3bEm2TEm2xhIG1pIHAuIFJpY2h0ZXJvdsOhPycK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA3LzIwMTcnKTsiKTsKICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA4LzIwMTcnKTsiKTsK</text>
+        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NISVBfQ1JVSVNFPSBTaGlwQ3J1aXNlMjAxODo6SUQ7CiAgICBjb25zdCBDT01QRVRJVElPTl9TVU1NRVJfMjAxN19OQU1FX0lEID0gU2hpcENydWlzZTIwMTg6Ok5BTUU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA3LzIwMTcnKTsiKTsKICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA4LzIwMTcnKTsiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wOF8yMDE3X0lEOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NISVBfQ1JVSVNFPSBTaGlwQ3J1aXNlMjAxODo6SUQ7CiAgICBjb25zdCBDT01QRVRJVElPTl9TVU1NRVJfMjAxN19OQU1FX0lEID0gU2hpcENydWlzZTIwMTg6Ok5BTUU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wN18yMDE3X0lEOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wOF8yMDE3X0lEOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>balance</last-search>
+      <last-search>createUser</last-search>
       <last-offset />
-      <last-pattern>balance</last-pattern>
+      <last-pattern>createUser</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -300,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveorupdateac</entry>
         <entry>formaction</entry>
         <entry>form</entry>
         <entry>save</entry>
@@ -320,6 +335,7 @@
         <entry>documen</entry>
         <entry>getreport</entry>
         <entry>balance</entry>
+        <entry>createUser</entry>
       </history-search>
       <history-cmd>
         <entry>action SaveAll</entry>
@@ -337,11 +353,11 @@
         <entry>action $Paste</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action Vcs.UpdateProject</entry>
-        <entry>w</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Find</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
