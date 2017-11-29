@@ -44,23 +44,19 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_12.sql" timestamp="1511856960799">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_12.sql" timestamp="1511947818067">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/vendor/zendframework/zendframework1/library/Zend/Db/Adapter/Abstract.php" timestamp="1511944245739">
         <mark key="'" line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/Entity/Log/ApiLog.php" timestamp="1511869531508">
-        <mark key="[" line="216" column="69" />
-        <mark key="]" line="216" column="69" />
-        <mark key="." line="216" column="69" />
-      </file>
       <file name="/PHP Console" timestamp="1511943332551">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/vendor/zendframework/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php" timestamp="1511947207873" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/src_frontend/assets/js/modules/additional-service-requirement.form.js" timestamp="1511525210156">
         <mark key="[" line="77" column="8" />
         <mark key="]" line="77" column="9" />
@@ -72,6 +68,12 @@
         <mark key="]" line="3" column="115" />
         <mark key="." line="3" column="115" />
         <mark key="^" line="3" column="115" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_13.sql" timestamp="1511947313737">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="82" />
+        <mark key="." line="0" column="82" />
+        <mark key="^" line="0" column="82" />
       </file>
       <file name="/dummy.sql" timestamp="1511941323792">
         <mark key="[" line="0" column="0" />
@@ -142,12 +144,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/Bootstrap.php" timestamp="1511945976008">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/Bootstrap.php" timestamp="1511947238482">
         <mark key="'" line="11" column="62" />
-        <mark key="[" line="139" column="348" />
-        <mark key="]" line="139" column="348" />
-        <mark key="^" line="139" column="258" />
-        <mark key="." line="139" column="348" />
+        <mark key="[" line="139" column="298" />
+        <mark key="]" line="139" column="303" />
+        <mark key="^" line="139" column="303" />
+        <mark key="." line="139" column="303" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskMapper.php" timestamp="1501847749952">
         <mark key="[" line="14" column="41" />
@@ -287,7 +289,7 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>q</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>getconn</text>
@@ -296,31 +298,31 @@
         <text encoding="base64">JHRoaXMtPmRiLT5x</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBTdG9ybW1fVXNlcgogICAgICovCg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0hFUkUgYmFsX2lkID0gNDA2OTM7Cg==</text>
+        <text encoding="base64">c2hvdyBvcGVuIHRhYmxlczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBFbnRpdHlNYW5hZ2VyICAkZW0KICAgICAqIEBwYXJhbSBcU3Rvcm1tX1N5c3RlbSAkc3lzdGVtCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9zdGFmZl9hY2NvdW50X3Nlc3Npb25zIGxpbWl0IDEwMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9jYWxlbmRhcl90YXNrc19jeiB3aGVyZSBtbV9jYWxlbmRhcl90YXNrc19jei5jdGFfdGl0bGUgbGlrZSAnb2Rwb3bEm2TEm2xhIG1pIHAuIFJpY2h0ZXJvdsOhPycK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9zdGFmZl9hY2NvdW50X3Nlc3Npb25zIGxpbWl0IDEwMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBTdG9ybW1fVXNlcgogICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
+        <text encoding="base64">V0hFUkUgYmFsX2lkID0gNDA2OTM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA3XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA3LzIwMTcnKTsiKTsKICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJJTlNFUlQgSU5UTyBgbW1fY29tcGV0aXRpb25zX3BvaW50X2dyb3Vwc2AgKGBjb3BnX2lkYCwgYGNvcGdfY29faWRgLCBgY29wZ19uYW1lYCkgVkFMVUVTICgiLnNlbGY6OkNPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQuIiwgIi5zZWxmOjpDT01QRVRJVElPTl9TVU1NRVJfMjAxN19JRC4iLCAnQm9keSB6YSBuw6FixJtyeSBhIHByb2R1a2NpIDA4LzIwMTcnKTsiKTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBFbnRpdHlNYW5hZ2VyICAkZW0KICAgICAqIEBwYXJhbSBcU3Rvcm1tX1N5c3RlbSAkc3lzdGVtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NISVBfQ1JVSVNFPSBTaGlwQ3J1aXNlMjAxODo6SUQ7CiAgICBjb25zdCBDT01QRVRJVElPTl9TVU1NRVJfMjAxN19OQU1FX0lEID0gU2hpcENydWlzZTIwMTg6Ok5BTUU7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9jYWxlbmRhcl90YXNrc19jeiB3aGVyZSBtbV9jYWxlbmRhcl90YXNrc19jei5jdGFfdGl0bGUgbGlrZSAnb2Rwb3bEm2TEm2xhIG1pIHAuIFJpY2h0ZXJvdsOhPycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wOF8yMDE3X0lEOwo=</text>
+        <text encoding="base64">ZmMyMTNlZjM3YWEwMjM3MDA0OGUzODgxYzVjM2RkNjAK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
