@@ -48,7 +48,7 @@
         <mark key="]" line="216" column="69" />
         <mark key="." line="216" column="69" />
       </file>
-      <file name="/PHP Console" timestamp="1511942097572">
+      <file name="/PHP Console" timestamp="1511943332551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src_frontend/assets/js/modules/additional-service-requirement.form.js" timestamp="1511525210156">
@@ -70,7 +70,7 @@
       <file name="/dummy.sql" timestamp="1511941323792">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511941379079">
+      <file name="/Dummy.txt" timestamp="1511943554256">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -304,7 +304,7 @@
         <text encoding="base64">ICAgIGNvbnN0IENPTVBFVElUSU9OX1NVTU1FUl8yMDE3X0dST1VQXzA4XzIwMTdfSUQgPSBTdW1tZXIyMDE3OjpHUk9VUF8wOF8yMDE3X0lEOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Replace</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -357,9 +357,9 @@
         <entry>action EditorSelectWord</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
         <entry>action Replace</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
