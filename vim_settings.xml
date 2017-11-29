@@ -43,7 +43,7 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/vendor/zendframework/zendframework1/library/Zend/Db/Adapter/Abstract.php" timestamp="1511944245739">
         <mark key="'" line="42" column="15" />
       </file>
-      <file name="/PHP Console" timestamp="1511967525852">
+      <file name="/PHP Console" timestamp="1511970114094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_11.sql" timestamp="1511956201381">
@@ -78,7 +78,7 @@
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511967074803">
+      <file name="/Dummy.txt" timestamp="1511969760829">
         <mark key="e" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -86,10 +86,10 @@
         <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/EventListener/ApiLogListener.php" timestamp="1511967137098">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console.sql" timestamp="1511940984650">
         <mark key="[" line="3" column="0" />
@@ -140,6 +140,7 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/vendor/zendframework/zendframework1/library/Zend/Controller/Dispatcher/Standard.php" timestamp="1511969379570" />
       <file name="$USER_HOME$/PhpstormProjects/stormm-moodle-plugin/completion_cron_task/course_completion_class.php" timestamp="1511521113255">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="28" />
@@ -176,6 +177,12 @@
         <mark key="]" line="27" column="11" />
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/StaffCertificationController.php" timestamp="1511969717232">
+        <mark key="[" line="222" column="71" />
+        <mark key="]" line="221" column="77" />
+        <mark key="^" line="221" column="77" />
+        <mark key="." line="221" column="77" />
       </file>
       <file name="/CharterController.php" timestamp="1511853778043">
         <mark key="'" line="10" column="18" />
@@ -302,8 +309,8 @@
       <register name="/" type="4">
         <text>executequery</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY29ubiA9IERyaXZlck1hbmFnZXI6OmdldENvbm5lY3Rpb24oYXJyYXkoJ3dyYXBwZXJDbGFzcycgPT4gJ0RvY3RyaW5lXERCQUxcQ29ubmVjdGlvbnNcTWFzdGVyU2xhdmVDb25uZWN0aW9uJywgJ2RyaXZlcicgPT4gJ3Bkb19teXNxbCcsICdtYXN0ZXInID0+IGFycmF5KCd1c2VyJyA9PiAnc3Rvcm1tJywgJ3Bhc3N3b3JkJyA9PiAnc3Rvcm1tRGJQYXNzJywgJ2hvc3QnID0+ICc3Ny4yMzYuMjExLjE3JywgJ2RibmFtZScgPT4gJ3N0b3JtbScpLCAnc2xhdmVzJyA9PiBhcnJheShhcnJheSgndXNlcicgPT4gJ3N0b3JtbScsICdwYXNzd29yZCcgPT4gJ3N0b3JtbURiUGFzcycsICdob3N0JyA9PiAnNzcuMjM2LjIxMS4xNycsICdkYm5hbWUnID0+ICdzdG9ybW0nKSkpKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHJvdy0+Z2V0VmFsaWRpdHlTdGF0dXMoKS0+aXNWYWxpZCgp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dHJ1bmNhdGUgbW1fc3RhZmZfY2VydGlmaWNhdGlvbnMK</text>
@@ -333,7 +340,7 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9jYWxlbmRhcl90YXNrc19jeiB3aGVyZSBtbV9jYWxlbmRhcl90YXNrc19jei5jdGFfdGl0bGUgbGlrZSAnb2Rwb3bEm2TEm2xhIG1pIHAuIFJpY2h0ZXJvdsOhPycK</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -386,9 +393,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Replace</entry>
         <entry>action Find</entry>
-        <entry>w</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
