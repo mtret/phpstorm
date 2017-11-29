@@ -66,6 +66,12 @@
         <mark key="." line="3" column="115" />
         <mark key="^" line="3" column="115" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RestController.php" timestamp="1511971248365">
+        <mark key="[" line="82" column="19" />
+        <mark key="]" line="82" column="19" />
+        <mark key="." line="82" column="19" />
+        <mark key="^" line="82" column="19" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/Entity/Log/ApiLogResponse.php" timestamp="1511971029548">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="32" />
@@ -304,7 +310,7 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>substr params</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>executequery</text>
