@@ -1,0 +1,5 @@
+<keymap version="1" name="Emacs copy 1" parent="Emacs">
+  <action id="EditSelectWordGroup">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="x" />
+  </action>
+</keymap>
