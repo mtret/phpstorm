@@ -1,0 +1,6 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl w" />
+  </action>
+</keymap>
