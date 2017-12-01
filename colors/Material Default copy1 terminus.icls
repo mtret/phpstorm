@@ -4,12 +4,12 @@
     <property name="created">2017-10-23T15:17:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-11-06T09:00:22</property>
+    <property name="modified">2017-12-01T16:09:33</property>
     <property name="originalScheme">Material Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Terminus (TTF)" />
+    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
