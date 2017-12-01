@@ -18,10 +18,10 @@
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="78" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512119303409">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512119877572">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="784" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskRepository.php" timestamp="1501845144135">
@@ -74,7 +74,7 @@
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="/dummy.sql" timestamp="1512119266582">
+      <file name="/dummy.sql" timestamp="1512119630345">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connections/MasterSlaveConnection.php" timestamp="1511956324774">
@@ -108,7 +108,7 @@
         <mark key="^" line="53" column="96" />
       </file>
       <file name="src:table:/df4c5413/d4c44922-1ce4-4f17-9080-b21679ea0a70/stormm.mm_requirement_advance_return_assessment_cz" timestamp="1512119231230">
-        <mark key="." line="12" column="495" />
+        <mark key="." line="66" column="495" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Competition/Summer2017.php" timestamp="1502451520568">
         <mark key="[" line="301" column="29" />
@@ -143,7 +143,6 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console.sql" timestamp="1512118724930" />
       <file name="$USER_HOME$/PhpstormProjects/stormm-moodle-plugin/completion_cron_task/course_completion_class.php" timestamp="1511521113255">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="28" />
@@ -309,13 +308,13 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>executequery</text>
       </register>
-      <register name="0" type="2">
-        <text />
+      <register name="0" type="4">
+        <text>Rusovcehovno</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dHJ1bmNhdGUgbW1fc3RhZmZfY2VydGlmaWNhdGlvbnMK</text>
