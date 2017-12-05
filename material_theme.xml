@@ -7,8 +7,8 @@
     <option name="isMaterialDesign" value="false" />
     <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="00bcd4" />
+    <option name="useMaterialIcons" value="false" />
     <option name="useProjectViewDecorators" value="false" />
-    <option name="hideFileIcons" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
     <option name="isCompactStatusBar" value="true" />
