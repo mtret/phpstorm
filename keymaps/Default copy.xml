@@ -12,6 +12,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
   <action id="ContextHelp" />
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
@@ -66,8 +68,8 @@
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad5" />
     <keyboard-shortcut first-keystroke="ctrl alt #1000159" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -96,4 +98,5 @@
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="UML.ApplyCurrentLayout" />
 </keymap>
