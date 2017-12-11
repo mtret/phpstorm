@@ -169,6 +169,9 @@
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/cron/ReportMessaging.php" timestamp="1512974282971">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Branch/Managers/History/Module.php" timestamp="1511956018254">
         <mark key="[" line="95" column="46" />
         <mark key="]" line="95" column="45" />
@@ -365,7 +368,7 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBFbnRpdHlNYW5hZ2VyICAkZW0KICAgICAqIEBwYXJhbSBcU3Rvcm1tX1N5c3RlbSAkc3lzdGVtCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action EditorSelectWord</text>
       </register>
     </registers>
     <search>
@@ -411,7 +414,6 @@
         <entry>W</entry>
         <entry>action $Paste</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action EditorSelectWord</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Replace</entry>
         <entry>action Find</entry>
@@ -421,6 +423,7 @@
         <entry>action ParameterInfo</entry>
         <entry>Q</entry>
         <entry>q</entry>
+        <entry>action EditorSelectWord</entry>
       </history-cmd>
       <history-expr />
       <history-input />
