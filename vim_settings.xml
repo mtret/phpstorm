@@ -158,6 +158,12 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Insurance/Contracts/FutureCommission/Module.php" timestamp="1512979086459">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-moodle-plugin/completion_cron_task/course_completion_class.php" timestamp="1511521113255">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="28" />
@@ -368,7 +374,7 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBFbnRpdHlNYW5hZ2VyICAkZW0KICAgICAqIEBwYXJhbSBcU3Rvcm1tX1N5c3RlbSAkc3lzdGVtCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -417,13 +423,13 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Replace</entry>
         <entry>action Find</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>w</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ParameterInfo</entry>
         <entry>Q</entry>
         <entry>q</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
