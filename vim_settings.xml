@@ -40,6 +40,12 @@
         <mark key="^" line="18" column="77" />
         <mark key="." line="18" column="77" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-12/201712111232_MM-3931_add_new_report.php" timestamp="1512992707294">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="29" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-10/201710131229_MM-3455_add_competition_ship_cruise_2018.php" timestamp="1507891623375">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -92,13 +98,13 @@
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="/dummy.sql" timestamp="1512990905754">
+      <file name="/dummy.sql" timestamp="1512992400906">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/Makefile" timestamp="1512143439530">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512981445288">
+      <file name="/Dummy.txt" timestamp="1512992465895">
         <mark key="e" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -348,13 +354,13 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>indexaction</text>
       </register>
       <register name="0" type="4">
-        <text>Rusovcehovno</text>
+        <text>Migration_201712111232</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">eyJzdG9ybWJvb2tJZCI6IjJlODc1NjAwLTZjYTEtZjZmNS0zYmRmLTYyZWU2ZTY3ZTBhOCIsImFncmVlbWVudFR5cGUiOnsiaWQiOiIxIiwiZGF0ZVZhbGlkRnJvbSI6IjIwMTctMTItMDciLCJkYXRlVmFsaWRUbyI6IjIwMTgtMDMtMDcifSwiYXR0aWMiOiIwIiwiY2hhcmdlT3duZXJzaGlwIjoiMCIsImNvbnRyYWN0dWFsTGllbiI6IjAiLCJkdXBsZXhBcGFydG1lbnQiOiIwIiwiZWFzZW1lbnQiOiIwIiwiZnJlcXVlbmN5Q29tbXVuaWNhdGlvbnMiOiIwIiwiaGFuZGljYXBDYXBhYmxlIjoiMCIsImludGVybWVkaWFyeSI6eyJpZCI6IjEifSwibGlmdCI6IjAiLCJtYXJnaW4iOnsidmFsdWUiOiIxMTExMSIsInR5cGUiOiJLYyJ9LCJtYXJnaW5QYXllciI6IjEiLCJtYXJnaW5TcGVjaWFsIjoiMCIsIm9mZmVyS2V5c1Bhc3MiOiIwIiwib3duZXJzaGlwIjp7ImlkIjoiMTAifSwicHJpY2UiOnsiYW1vdW50IjoiMTExMTExIiwidHlwZSI6eyJpZCI6IjAifX0sInByaWNlUmVudEluY2x1ZGluZ0VuZXJneSI6IjAiLCJwcmljZVJlbnRUeXBlIjoiMCIsInByb3BlcnR5Q29uZGl0aW9uIjp7ImlkIjoiMTEifSwic2VpenVyZSI6eyJpZCI6IjAifSwidGl0bGUiOiJQcm9kZWosIEJ5dCAzKzEsIFByYWhhLCBBZnJpY2vDoSIsInRvcEFkdmVydGlzaW5nIjoiMCIsInRvdGFsQXJlYSI6IjU1IiwidG90YWxQcmljZSI6IjEyMjIyMiIsImVzdGF0ZVR5cGUiOnsiaWQiOjU1fSwiYWR2ZXJ0aXNpbmdDYXRlZ29yeSI6eyJpZCI6MTB9LCJzZWxsZXJzIjpbeyJmaXJzdE5hbWUiOiJBIiwibGFzdE5hbWUiOiJCIiwiZW1haWwiOiJzQGEuY29tIiwic2VsZkVtcGxveWVkIjpmYWxzZSwicGluIjoiOTAwNTAyLzEyMyIsImVpbiI6IiIsInNlbGxlck93bmVyc2hpcCI6eyJpZCI6MX0sInN1YmplY3RUeXBlIjp7ImlkIjoyfSwiYWRkcmVzcyI6eyJzdHJlZXQiOiJBZnJpY2vDoSIsInN0cmVldE51bWJlciI6IjY5IiwiY2l0eSI6IlByYWhhIiwiemlwTnVtYmVyIjoiNTAwOTkifX0seyJmaXJzdE5hbWUiOiJCYmJiYiIsImxhc3ROYW1lIjoiQmJiIiwiZW1haWwiOiJhQHkuY29tIiwic2VsZkVtcGxveWVkIjpmYWxzZSwicGluIjoiOTAwNTAyLzIyMiIsImVpbiI6IiIsInNlbGxlck93bmVyc2hpcCI6eyJpZCI6MX0sInN1YmplY3RUeXBlIjp7ImlkIjoyfSwiYWRkcmVzcyI6eyJzdHJlZXQiOiJBZnJpY2vDoSIsInN0cmVldE51bWJlciI6IjY5IiwiY2l0eSI6IlByYWhhIiwiemlwTnVtYmVyIjoiNTAwMDEifX1dLCJsb2NhbGl0eSI6eyJzdHJlZXRObyI6NjksImNpdHkiOnsiaWQiOjU1NDc4Mn0sImRpc3RyaWN0Ijp7ImlkIjoxOX0sInN0cmVldCI6eyJpZCI6NDQyNjc0fSwib3JpZW50YXRpb25ObyI6IiIsInVuaXROdW1iZXIiOiIiLCJ6aXBDb2RlIjoiIiwibHZOdW1iZXIiOiIiLCJzdHJlZXRNYW51YWwiOiJBZnJpY2vDoSJ9LCJmYWNpbGl0aWVzIjpbXSwiY29vcGVyYXRpdmVPd25lcnNoaXAiOnsibmFtZSI6IiIsImVpbiI6IiJ9fQo=</text>
@@ -384,7 +390,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBTdG9ybW1fVXNlcgogICAgICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -433,13 +439,13 @@
         <entry>action Replace</entry>
         <entry>action Find</entry>
         <entry>w</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ParameterInfo</entry>
         <entry>Q</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
         <entry>q</entry>
+        <entry>action Vcs.UpdateProject</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
