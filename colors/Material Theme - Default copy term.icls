@@ -1,15 +1,15 @@
-<scheme name="_@user_Material Theme - Default" version="142" parent_scheme="Default">
+<scheme name="Material Theme - Default copy term" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-01-22T04:23:15</property>
+    <property name="created">2017-12-11T12:03:49</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-12-11T12:03:32</property>
-    <property name="originalScheme">Material Theme - Default</property>
+    <property name="ideVersion">2017.3.0.0</property>
+    <property name="modified">2017-12-11T12:04:09</property>
+    <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Terminus (TTF)" />
   <option name="CONSOLE_FONT_NAME" value="Terminus (TTF)" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
