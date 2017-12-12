@@ -12,6 +12,11 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513066470514">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="restClient/response5.json" timestamp="1512981949938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1476" />
@@ -54,6 +59,13 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification/CertificationValidity.php" timestamp="1512989603810">
         <mark key="'" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" timestamp="1513066795952">
+        <mark key="'" line="820" column="37" />
+        <mark key="[" line="3030" column="0" />
+        <mark key="]" line="3030" column="0" />
+        <mark key="^" line="3012" column="23" />
+        <mark key="." line="3030" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1512144489144">
         <mark key="[" line="0" column="0" />
@@ -98,13 +110,18 @@
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="/dummy.sql" timestamp="1512992400906">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" timestamp="1513066032255">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2185" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1513067048225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/Makefile" timestamp="1512143439530">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512992465895">
+      <file name="/Dummy.txt" timestamp="1513067170187">
         <mark key="e" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -128,9 +145,6 @@
         <mark key="]" line="150" column="89" />
         <mark key="." line="53" column="96" />
         <mark key="^" line="53" column="96" />
-      </file>
-      <file name="src:table:/df4c5413/d4c44922-1ce4-4f17-9080-b21679ea0a70/stormm.mm_requirement_advance_return_assessment_cz" timestamp="1512119231230">
-        <mark key="." line="176" column="495" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Twig/TwigCrudAction.php" timestamp="1512146364314">
         <mark key="'" line="21" column="15" />
@@ -239,16 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="13" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="194" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="555" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="108" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Schema/AddView/CompetitionSummerForMonth.php" />
-      <jump line="103" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Db/Schema/AddView/CompetitionSummerForMonth.php" />
-      <jump line="361" column="54" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
-      <jump line="20" column="30" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
-      <jump line="21" column="46" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
-      <jump line="36" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
-      <jump line="38" column="95" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
       <jump line="359" column="38" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
       <jump line="2" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
       <jump line="360" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
@@ -339,6 +343,16 @@
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification/CertificationValidity.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification/CertificationValidity.php" />
       <jump line="14" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification/CertificationValidity.php" />
+      <jump line="3015" column="64" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="1825" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="2466" column="44" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="2886" column="25" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="3011" column="25" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="246" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="336" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="618" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="686" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="820" column="37" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -354,49 +368,49 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>district.zd_name</text>
       </register>
       <register name="/" type="4">
-        <text>indexaction</text>
+        <text>okres</text>
       </register>
-      <register name="0" type="4">
-        <text>Migration_201712111232</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ09rcmVzJyA9PiAnZ2V0RGlzdHJpY3ROYW1lKG8ub196ZF9pZCwgMSknLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyJzdG9ybWJvb2tJZCI6IjJlODc1NjAwLTZjYTEtZjZmNS0zYmRmLTYyZWU2ZTY3ZTBhOCIsImFncmVlbWVudFR5cGUiOnsiaWQiOiIxIiwiZGF0ZVZhbGlkRnJvbSI6IjIwMTctMTItMDciLCJkYXRlVmFsaWRUbyI6IjIwMTgtMDMtMDcifSwiYXR0aWMiOiIwIiwiY2hhcmdlT3duZXJzaGlwIjoiMCIsImNvbnRyYWN0dWFsTGllbiI6IjAiLCJkdXBsZXhBcGFydG1lbnQiOiIwIiwiZWFzZW1lbnQiOiIwIiwiZnJlcXVlbmN5Q29tbXVuaWNhdGlvbnMiOiIwIiwiaGFuZGljYXBDYXBhYmxlIjoiMCIsImludGVybWVkaWFyeSI6eyJpZCI6IjEifSwibGlmdCI6IjAiLCJtYXJnaW4iOnsidmFsdWUiOiIxMTExMSIsInR5cGUiOiJLYyJ9LCJtYXJnaW5QYXllciI6IjEiLCJtYXJnaW5TcGVjaWFsIjoiMCIsIm9mZmVyS2V5c1Bhc3MiOiIwIiwib3duZXJzaGlwIjp7ImlkIjoiMTAifSwicHJpY2UiOnsiYW1vdW50IjoiMTExMTExIiwidHlwZSI6eyJpZCI6IjAifX0sInByaWNlUmVudEluY2x1ZGluZ0VuZXJneSI6IjAiLCJwcmljZVJlbnRUeXBlIjoiMCIsInByb3BlcnR5Q29uZGl0aW9uIjp7ImlkIjoiMTEifSwic2VpenVyZSI6eyJpZCI6IjAifSwidGl0bGUiOiJQcm9kZWosIEJ5dCAzKzEsIFByYWhhLCBBZnJpY2vDoSIsInRvcEFkdmVydGlzaW5nIjoiMCIsInRvdGFsQXJlYSI6IjU1IiwidG90YWxQcmljZSI6IjEyMjIyMiIsImVzdGF0ZVR5cGUiOnsiaWQiOjU1fSwiYWR2ZXJ0aXNpbmdDYXRlZ29yeSI6eyJpZCI6MTB9LCJzZWxsZXJzIjpbeyJmaXJzdE5hbWUiOiJBIiwibGFzdE5hbWUiOiJCIiwiZW1haWwiOiJzQGEuY29tIiwic2VsZkVtcGxveWVkIjpmYWxzZSwicGluIjoiOTAwNTAyLzEyMyIsImVpbiI6IiIsInNlbGxlck93bmVyc2hpcCI6eyJpZCI6MX0sInN1YmplY3RUeXBlIjp7ImlkIjoyfSwiYWRkcmVzcyI6eyJzdHJlZXQiOiJBZnJpY2vDoSIsInN0cmVldE51bWJlciI6IjY5IiwiY2l0eSI6IlByYWhhIiwiemlwTnVtYmVyIjoiNTAwOTkifX0seyJmaXJzdE5hbWUiOiJCYmJiYiIsImxhc3ROYW1lIjoiQmJiIiwiZW1haWwiOiJhQHkuY29tIiwic2VsZkVtcGxveWVkIjpmYWxzZSwicGluIjoiOTAwNTAyLzIyMiIsImVpbiI6IiIsInNlbGxlck93bmVyc2hpcCI6eyJpZCI6MX0sInN1YmplY3RUeXBlIjp7ImlkIjoyfSwiYWRkcmVzcyI6eyJzdHJlZXQiOiJBZnJpY2vDoSIsInN0cmVldE51bWJlciI6IjY5IiwiY2l0eSI6IlByYWhhIiwiemlwTnVtYmVyIjoiNTAwMDEifX1dLCJsb2NhbGl0eSI6eyJzdHJlZXRObyI6NjksImNpdHkiOnsiaWQiOjU1NDc4Mn0sImRpc3RyaWN0Ijp7ImlkIjoxOX0sInN0cmVldCI6eyJpZCI6NDQyNjc0fSwib3JpZW50YXRpb25ObyI6IiIsInVuaXROdW1iZXIiOiIiLCJ6aXBDb2RlIjoiIiwibHZOdW1iZXIiOiIiLCJzdHJlZXRNYW51YWwiOiJBZnJpY2vDoSJ9LCJmYWNpbGl0aWVzIjpbXSwiY29vcGVyYXRpdmVPd25lcnNoaXAiOnsibmFtZSI6IiIsImVpbiI6IiJ9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdChbJ2Rpc3RyaWN0JyA9PiAnem9uZV9kaXN0cmljdHMnXSwgJ3pkX2lkID0gby5vX3pkX2lkJywgW10pOwo=</text>
       </register>
-      <register name="2" type="8">
-        <text>}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ09rcmVzJyA9PiAnZGlzdHJpY3QuemRfbmFtZScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjQxNzUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHJ1bmNhdGUgbW1fc3RhZmZfY2VydGlmaWNhdGlvbnMK</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gbW1fYnJhbmNoZXMgd2hlcmUgYl90eXBlIGluICgxLDMpIGFuZCBiX3JlbW92ZWQgPSAwIGFuZCBiX2FjdGl2ZSA9IDE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICRzZWxlY3Q7ZXhpdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2hvdyBvcGVuIHRhYmxlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT53aGVyZSgnb19pZCA9IDYwNTU3NicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9zdGFmZl9hY2NvdW50X3Nlc3Npb25zIGxpbWl0IDEwMDsK</text>
+        <text encoding="base64">eyJzdG9ybWJvb2tJZCI6IjJlODc1NjAwLTZjYTEtZjZmNS0zYmRmLTYyZWU2ZTY3ZTBhOCIsImFncmVlbWVudFR5cGUiOnsiaWQiOiIxIiwiZGF0ZVZhbGlkRnJvbSI6IjIwMTctMTItMDciLCJkYXRlVmFsaWRUbyI6IjIwMTgtMDMtMDcifSwiYXR0aWMiOiIwIiwiY2hhcmdlT3duZXJzaGlwIjoiMCIsImNvbnRyYWN0dWFsTGllbiI6IjAiLCJkdXBsZXhBcGFydG1lbnQiOiIwIiwiZWFzZW1lbnQiOiIwIiwiZnJlcXVlbmN5Q29tbXVuaWNhdGlvbnMiOiIwIiwiaGFuZGljYXBDYXBhYmxlIjoiMCIsImludGVybWVkaWFyeSI6eyJpZCI6IjEifSwibGlmdCI6IjAiLCJtYXJnaW4iOnsidmFsdWUiOiIxMTExMSIsInR5cGUiOiJLYyJ9LCJtYXJnaW5QYXllciI6IjEiLCJtYXJnaW5TcGVjaWFsIjoiMCIsIm9mZmVyS2V5c1Bhc3MiOiIwIiwib3duZXJzaGlwIjp7ImlkIjoiMTAifSwicHJpY2UiOnsiYW1vdW50IjoiMTExMTExIiwidHlwZSI6eyJpZCI6IjAifX0sInByaWNlUmVudEluY2x1ZGluZ0VuZXJneSI6IjAiLCJwcmljZVJlbnRUeXBlIjoiMCIsInByb3BlcnR5Q29uZGl0aW9uIjp7ImlkIjoiMTEifSwic2VpenVyZSI6eyJpZCI6IjAifSwidGl0bGUiOiJQcm9kZWosIEJ5dCAzKzEsIFByYWhhLCBBZnJpY2vDoSIsInRvcEFkdmVydGlzaW5nIjoiMCIsInRvdGFsQXJlYSI6IjU1IiwidG90YWxQcmljZSI6IjEyMjIyMiIsImVzdGF0ZVR5cGUiOnsiaWQiOjU1fSwiYWR2ZXJ0aXNpbmdDYXRlZ29yeSI6eyJpZCI6MTB9LCJzZWxsZXJzIjpbeyJmaXJzdE5hbWUiOiJBIiwibGFzdE5hbWUiOiJCIiwiZW1haWwiOiJzQGEuY29tIiwic2VsZkVtcGxveWVkIjpmYWxzZSwicGluIjoiOTAwNTAyLzEyMyIsImVpbiI6IiIsInNlbGxlck93bmVyc2hpcCI6eyJpZCI6MX0sInN1YmplY3RUeXBlIjp7ImlkIjoyfSwiYWRkcmVzcyI6eyJzdHJlZXQiOiJBZnJpY2vDoSIsInN0cmVldE51bWJlciI6IjY5IiwiY2l0eSI6IlByYWhhIiwiemlwTnVtYmVyIjoiNTAwOTkifX0seyJmaXJzdE5hbWUiOiJCYmJiYiIsImxhc3ROYW1lIjoiQmJiIiwiZW1haWwiOiJhQHkuY29tIiwic2VsZkVtcGxveWVkIjpmYWxzZSwicGluIjoiOTAwNTAyLzIyMiIsImVpbiI6IiIsInNlbGxlck93bmVyc2hpcCI6eyJpZCI6MX0sInN1YmplY3RUeXBlIjp7ImlkIjoyfSwiYWRkcmVzcyI6eyJzdHJlZXQiOiJBZnJpY2vDoSIsInN0cmVldE51bWJlciI6IjY5IiwiY2l0eSI6IlByYWhhIiwiemlwTnVtYmVyIjoiNTAwMDEifX1dLCJsb2NhbGl0eSI6eyJzdHJlZXRObyI6NjksImNpdHkiOnsiaWQiOjU1NDc4Mn0sImRpc3RyaWN0Ijp7ImlkIjoxOX0sInN0cmVldCI6eyJpZCI6NDQyNjc0fSwib3JpZW50YXRpb25ObyI6IiIsInVuaXROdW1iZXIiOiIiLCJ6aXBDb2RlIjoiIiwibHZOdW1iZXIiOiIiLCJzdHJlZXRNYW51YWwiOiJBZnJpY2vDoSJ9LCJmYWNpbGl0aWVzIjpbXSwiY29vcGVyYXRpdmVPd25lcnNoaXAiOnsibmFtZSI6IiIsImVpbiI6IiJ9fQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBtbV9zdGFmZl9hY2NvdW50X3Nlc3Npb25zIGxpbWl0IDEwMDsK</text>
+      <register name="8" type="8">
+        <text>}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBTdG9ybW1fVXNlcgogICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
-      <last-search>indexaction</last-search>
+      <last-search>okres</last-search>
       <last-offset />
-      <last-pattern>indexaction</last-pattern>
+      <last-pattern>okres</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -404,8 +418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>form_data</entry>
-        <entry>formdata</entry>
         <entry>saveorupdate</entry>
         <entry>tasks</entry>
         <entry>note</entry>
@@ -424,6 +436,8 @@
         <entry>executequery</entry>
         <entry>phpcs</entry>
         <entry>indexaction</entry>
+        <entry>client</entry>
+        <entry>okres</entry>
       </history-search>
       <history-cmd>
         <entry>ls -la</entry>
@@ -438,14 +452,14 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Replace</entry>
         <entry>action Find</entry>
-        <entry>w</entry>
         <entry>action ParameterInfo</entry>
         <entry>Q</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
         <entry>q</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
