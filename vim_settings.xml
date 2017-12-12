@@ -112,11 +112,8 @@
         <mark key="." line="0" column="87" />
         <mark key="^" line="0" column="123" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Insurance/Contracts/FutureCommission/Module.php" timestamp="1512981290072">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="26" />
-        <mark key="^" line="5" column="0" />
-      </file>
+      <file name="restClient/response7.json" timestamp="1513078382042" />
+      <file name="restClient/response17.json" timestamp="1513079961409" />
       <file name="$USER_HOME$/PhpstormProjects/stormm-moodle-plugin/completion_cron_task/course_completion_class.php" timestamp="1511521113255">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="28" />
@@ -156,12 +153,12 @@
       <file name="/Clipboard.txt" timestamp="1513071217445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" timestamp="1513072679079">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="139" column="24" />
-        <mark key="]" line="139" column="42" />
-        <mark key="^" line="139" column="42" />
-        <mark key="." line="139" column="42" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" timestamp="1513079972758">
+        <mark key="'" line="1941" column="32" />
+        <mark key="[" line="2396" column="65" />
+        <mark key="]" line="2396" column="65" />
+        <mark key="." line="2396" column="65" />
+        <mark key="^" line="1446" column="97" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification/CertificationValidity.php" timestamp="1512989603810">
         <mark key="'" line="14" column="0" />
@@ -173,7 +170,7 @@
         <mark key="^" line="3012" column="23" />
         <mark key="." line="3030" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1512144489144">
+      <file name="/PHP Console" timestamp="1513080019942">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src_frontend/assets/js/modules/additional-service-requirement.form.js" timestamp="1511525210156">
@@ -193,6 +190,7 @@
         <mark key="." line="3" column="115" />
         <mark key="^" line="3" column="115" />
       </file>
+      <file name="restClient/response11.json" timestamp="1513079740340" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" timestamp="1513072620519">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="65" />
@@ -202,7 +200,7 @@
       <file name="/dummy.sql" timestamp="1513072586608">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513071809593">
+      <file name="/Dummy.txt" timestamp="1513078862374">
         <mark key="e" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -230,6 +228,7 @@
       <file name="/fragment.php" timestamp="1502170088119">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="restClient/response9.json" timestamp="1513078935512" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Calendar/Module.php" timestamp="1502088017224">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="55" />
@@ -271,28 +270,10 @@
         <mark key="^" line="320" column="44" />
         <mark key="." line="320" column="44" />
       </file>
+      <file name="restClient/response13.json" timestamp="1513079748746" />
       <file name="restClient/response3.json" timestamp="1513072562773" />
     </filemarks>
     <jumps>
-      <jump line="37" column="30" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
-      <jump line="35" column="30" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
-      <jump line="33" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
-      <jump line="29" column="27" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementstax/form.phtml" />
-      <jump line="46" column="51" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="802" column="38" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="804" column="38" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="807" column="30" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="459" column="15" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="48" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="635" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="588" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="597" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="636" column="61" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="244" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="47" column="46" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="591" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="107" column="64" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="108" column="62" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="201" column="51" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="203" column="25" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="204" column="34" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
@@ -374,6 +355,25 @@
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="28" column="55" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" />
+      <jump line="209" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="2038" column="61" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="984" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="988" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="992" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="996" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="999" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="2376" column="25" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="652" column="74" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="839" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="2306" column="15" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="2309" column="44" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="2311" column="32" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="2312" column="27" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="7" column="69" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="375" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1103" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1964" column="72" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1941" column="32" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -389,49 +389,49 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>okres</text>
+        <text>nabídky</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YTIyNWJiNmQxYWZiNWVhODI1YzI5MDVhMWMwNGUzNWE3NTY0MTUwNQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBzZWxmOjpHUk9VUF9JTlZFU1RNRU5UX0FEVklTT1I6CiAgICAgICAgICAgICAgICBpZiAoJGdyb3VwSWQgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+d2hlcmUoJ2NlYWRvX2JyYW5jaF9pZCBJTiAoPyknLCAkdGhpcy0+ZmluZEludmVzdG1lbnRBZHZpc29yQnJhbmNoZXMoJGdyb3VwSWQpKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+d2hlcmUoJ2NlYWRvX2JyYW5jaF9pZCBJTiAoPyknLCAkdGhpcy0+ZmluZEludmVzdG1lbnRBZHZpc29yQnJhbmNoZXMoJHRoaXMtPmdldFVzZXIoKS0+Z2V0SWQoKSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MzAwMQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUCiAgYG9gLmBvX2lkYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBOYWLDrWRrYWAsCiAgYG9gLmBvX2NyZWF0ZWRgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBEYXR1bSB2eXR2b8WZZW7DrSBuYWLDrWRreWAsCiAgYG1tX29mZmVyc19jYXRlZ29yaWVzX2N6YC5gb2NfbmFtZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBJbnplcnRuw60ga2F0ZWdvcmllYCwKICAoU0VMRUNUIGV0X25hbWUKICAgRlJPTSBtbV9lc3RhdGVfdHlwZXMKICAgV0hFUkUgZXRfemxfaWQgPSAxIEFORCBldF9pZCA9IChTRUxFQ1QgZXRfcGFyZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBtbV9lc3RhdGVfdHlwZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBldF96bF9pZCA9IDEgQU5EIGV0X2lkID0gby5vX2V0X2lkKSkgQVMgYE5hZHR5cCBuZW1vdml0b3N0aWAsCiAgYGJgLmBiX2Z1bGxuYW1lYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBQb2JvxI1rYWAsCiAgZ2V0RnVsbG5hbWUob19zYV9pZF9nYXRoZXIsIDEsIDEsIDEpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBNYWtsw6nFmSBuYWJyYWxgLAogIGBjaXR5YC5gemNfbmFtZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBgT2JlY2AsCiAgYGRpc3RyaWN0YC5gemRfbmFtZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBPa3Jlc2AsCiAgYG9gLmBvX3RvdGFsX3ByaWNlYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBDZWxrb3bDoSBjZW5hYCwKICBgb2AuYG9fbWFyZ2luYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYFByb3ZpemVgLAogIGBvYC5gb19tYXJnaW5fdHlwZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBgVHlwIHByb3ZpemVgLAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGNvbHVtbiA9ICR0aGlzLT5nZXRCcmFuY2hNYW5hZ2VyQ29sdW1uQnlUeXBlKCRtYW5hZ2VyVHlwZSk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBnZXRGdWxsbmFtZShnZXRCcmFuY2hSZWdpb25NYW5hZ2VyKG9fYl9pZCwgTk9XKCkpLCAxLCAxLCAxKSAgICAgICAgICAgICAgICAgQVMgYFJlZ2lvbsOhbG7DrSDFmWVkaXRlbCAoYWt0LilgLAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAkYnJhbmNoSWRzID0gW107CgogICAgICAgICRzZWxlY3QgPSBuZXcgWmVuZF9EYl9TZWxlY3QoJHRoaXMtPmdldERiKCkpOwogICAgICAgICRzZWxlY3QtPmZyb20oJ21tX2JyYW5jaGVzJyk7CiAgICAgICAgJHNlbGVjdC0+Y29sdW1ucyhhcnJheSgKICAgICAgICAgICAgJ2lkJyA9PiAnYl9pZCcKICAgICAgICAgICAgKQogICAgICAgICk7CiAgICAgICAgJHNlbGVjdC0+d2hlcmUoJyhiX2FjdGl2ZV9icmFuY2hfb3JfY29udGFjdF9wbGFjZSA9IDEgT1IgYl90eXBlID0gNCknKTsKICAgICAgICAkYnJhbmNoZXMgPSAkdGhpcy0+ZGItPmZldGNoQWxsKCRzZWxlY3QpOwogICAgICAgIGlmICgkYnJhbmNoZXMpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJGJyYW5jaGVzIGFzICRicmFuY2gpIHsKICAgICAgICAgICAgICAgICRicmFuY2hJZHNbXSA9ICRicmFuY2hbJ2lkJ107CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiAkYnJhbmNoSWRzOw==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICRicmFuY2hJZHMgPSBbXTsKCiAgICAgICAgJHNlbGVjdCA9IG5ldyBaZW5kX0RiX1NlbGVjdCgkdGhpcy0+Z2V0RGIoKSk7CiAgICAgICAgJHNlbGVjdC0+ZnJvbSgnbW1fYnJhbmNoZXMnKTsKICAgICAgICAkc2VsZWN0LT5jb2x1bW5zKGFycmF5KAogICAgICAgICAgICAnaWQnID0+ICdiX2lkJwogICAgICAgICAgICApCiAgICAgICAgKTsKICAgICAgICAkc2VsZWN0LT53aGVyZSgnKGJfYWN0aXZlX2JyYW5jaF9vcl9jb250YWN0X3BsYWNlID0gMSBPUiBiX3R5cGUgPSA0KScpOwogICAgICAgICRicmFuY2hlcyA9ICR0aGlzLT5kYi0+ZmV0Y2hBbGwoJHNlbGVjdCk7CiAgICAgICAgaWYgKCRicmFuY2hlcykgewogICAgICAgICAgICBmb3JlYWNoICgkYnJhbmNoZXMgYXMgJGJyYW5jaCkgewogICAgICAgICAgICAgICAgJGJyYW5jaElkc1tdID0gJGJyYW5jaFsnaWQnXTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRicmFuY2hJZHM7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBgb2AuYG9fb2ZmZXJfZnJvbWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYERhdHVtIHNtbG91dnkgKG9kKWAsCg==</text>
+        <text encoding="base64">ICAgICAgICAkYnJhbmNoSWRzID0gW107CgogICAgICAgICRzZWxlY3QgPSBuZXcgWmVuZF9EYl9TZWxlY3QoJHRoaXMtPmdldERiKCkpOwogICAgICAgICRzZWxlY3QtPmZyb20oJ21tX2JyYW5jaGVzJyk7CiAgICAgICAgJHNlbGVjdC0+Y29sdW1ucyhhcnJheSgKICAgICAgICAgICAgJ2lkJyA9PiAnYl9pZCcKICAgICAgICAgICAgKQogICAgICAgICk7CiAgICAgICAgJHNlbGVjdC0+d2hlcmUoJyhiX2FjdGl2ZV9icmFuY2hfb3JfY29udGFjdF9wbGFjZSA9IDEgT1IgYl90eXBlID0gNCknKTsKICAgICAgICAkYnJhbmNoZXMgPSAkdGhpcy0+ZGItPmZldGNoQWxsKCRzZWxlY3QpOwogICAgICAgIGlmICgkYnJhbmNoZXMpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJGJyYW5jaGVzIGFzICRicmFuY2gpIHsKICAgICAgICAgICAgICAgICRicmFuY2hJZHNbXSA9ICRicmFuY2hbJ2lkJ107CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiAkYnJhbmNoSWRzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBgb2AuYG9fb2ZmZXJfdG9gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYERhdHVtIHNtbG91dnkgKGRvKWAsCg==</text>
+        <text encoding="base64">MzAwMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBgb2AuYG9faWRfcGFyZW50YCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYEtvcGllIG5hYsOtZGt5YCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBgY2xpZW50YC5gY2xpZW50X2lkYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYElEIGtsaWVudGFgLAo=</text>
+        <text encoding="base64">U0VMRUNUCiAgYG9gLmBvX2lkYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBOYWLDrWRrYWAsCiAgYG9gLmBvX2NyZWF0ZWRgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBEYXR1bSB2eXR2b8WZZW7DrSBuYWLDrWRreWAsCiAgYG1tX29mZmVyc19jYXRlZ29yaWVzX2N6YC5gb2NfbmFtZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBJbnplcnRuw60ga2F0ZWdvcmllYCwKICAoU0VMRUNUIGV0X25hbWUKICAgRlJPTSBtbV9lc3RhdGVfdHlwZXMKICAgV0hFUkUgZXRfemxfaWQgPSAxIEFORCBldF9pZCA9IChTRUxFQ1QgZXRfcGFyZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBtbV9lc3RhdGVfdHlwZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBldF96bF9pZCA9IDEgQU5EIGV0X2lkID0gby5vX2V0X2lkKSkgQVMgYE5hZHR5cCBuZW1vdml0b3N0aWAsCiAgYGJgLmBiX2Z1bGxuYW1lYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBQb2JvxI1rYWAsCiAgZ2V0RnVsbG5hbWUob19zYV9pZF9nYXRoZXIsIDEsIDEsIDEpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBNYWtsw6nFmSBuYWJyYWxgLAogIGBjaXR5YC5gemNfbmFtZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBgT2JlY2AsCiAgYGRpc3RyaWN0YC5gemRfbmFtZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBPa3Jlc2AsCiAgYG9gLmBvX3RvdGFsX3ByaWNlYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBDZWxrb3bDoSBjZW5hYCwKICBgb2AuYG9fbWFyZ2luYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYFByb3ZpemVgLAogIGBvYC5gb19tYXJnaW5fdHlwZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBgVHlwIHByb3ZpemVgLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBgY2xpZW50YC5gY2xpZW50X3R5cGVgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYFR5cCBrbGllbnRhYCwK</text>
+        <text encoding="base64">ICBnZXRGdWxsbmFtZShnZXRCcmFuY2hSZWdpb25NYW5hZ2VyKG9fYl9pZCwgTk9XKCkpLCAxLCAxLCAxKSAgICAgICAgICAgICAgICAgQVMgYFJlZ2lvbsOhbG7DrSDFmWVkaXRlbCAoYWt0LilgLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>okres</last-search>
+      <last-search>nabídky</last-search>
       <last-offset />
-      <last-pattern>okres</last-pattern>
+      <last-pattern>nabídky</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -439,12 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveorupdate</entry>
-        <entry>tasks</entry>
-        <entry>note</entry>
-        <entry>delete</entry>
-        <entry>addadvert</entry>
-        <entry>docum</entry>
         <entry>editac</entry>
         <entry>editAc</entry>
         <entry>saveactio</entry>
@@ -459,9 +453,14 @@
         <entry>indexaction</entry>
         <entry>client</entry>
         <entry>okres</entry>
+        <entry>branches</entry>
+        <entry>findmanager</entry>
+        <entry>pro seznam</entry>
+        <entry>infoLine</entry>
+        <entry>nabídky p</entry>
+        <entry>nabídky</entry>
       </history-search>
       <history-cmd>
-        <entry>bp</entry>
         <entry>action RecentFiles</entry>
         <entry>12</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
@@ -479,6 +478,7 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $Paste</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
       </history-cmd>
