@@ -12,10 +12,10 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513072491350">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513081298226">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="restClient/response5.json" timestamp="1512981949938">
         <mark key="[" line="0" column="0" />
@@ -79,13 +79,11 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
+      <file name="restClient/response31.json" timestamp="1513081661880" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/Entity/Log/ApiLogResponse.php" timestamp="1511971029548">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/Makefile" timestamp="1512143439530">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/EventListener/ApiLogListener.php" timestamp="1511967137098">
         <mark key="[" line="62" column="0" />
@@ -99,13 +97,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Twig/TwigCrudAction.php" timestamp="1512146364314">
-        <mark key="'" line="21" column="15" />
-        <mark key="[" line="309" column="43" />
-        <mark key="]" line="309" column="143" />
-        <mark key="^" line="309" column="143" />
-        <mark key="." line="309" column="143" />
-      </file>
+      <file name="restClient/response23.json" timestamp="1513081099888" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f7dae128-15c3-4c01-8864-f1bbd88bd8b8/console_2.sql" timestamp="1511511185747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="125" />
@@ -143,34 +135,18 @@
         <mark key="^" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/src/LegacyBundle/Controller/FallbackController.php" timestamp="1512149883404">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="23" column="20" />
-        <mark key="." line="23" column="20" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1513071217445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" timestamp="1513079972758">
-        <mark key="'" line="1941" column="32" />
-        <mark key="[" line="2396" column="65" />
-        <mark key="]" line="2396" column="65" />
-        <mark key="." line="2396" column="65" />
-        <mark key="^" line="1446" column="97" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" timestamp="1513081630444">
+        <mark key="'" line="2410" column="23" />
+        <mark key="[" line="1366" column="37" />
+        <mark key="]" line="1366" column="37" />
+        <mark key="." line="1366" column="37" />
+        <mark key="^" line="1366" column="37" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification/CertificationValidity.php" timestamp="1512989603810">
-        <mark key="'" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" timestamp="1513066795952">
-        <mark key="'" line="820" column="37" />
-        <mark key="[" line="3030" column="0" />
-        <mark key="]" line="3030" column="0" />
-        <mark key="^" line="3012" column="23" />
-        <mark key="." line="3030" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1513080019942">
+      <file name="restClient/response25.json" timestamp="1513081193251" />
+      <file name="/PHP Console" timestamp="1513081634666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src_frontend/assets/js/modules/additional-service-requirement.form.js" timestamp="1511525210156">
@@ -191,13 +167,13 @@
         <mark key="^" line="3" column="115" />
       </file>
       <file name="restClient/response11.json" timestamp="1513079740340" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" timestamp="1513072620519">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="65" />
-        <mark key="." line="0" column="65" />
-        <mark key="^" line="0" column="65" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" timestamp="1513081273322">
+        <mark key="[" line="1" column="61" />
+        <mark key="]" line="1" column="65" />
+        <mark key="." line="1" column="65" />
+        <mark key="^" line="1" column="65" />
       </file>
-      <file name="/dummy.sql" timestamp="1513072586608">
+      <file name="/dummy.sql" timestamp="1513081294300">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1513078862374">
@@ -252,6 +228,7 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/cron/ReportMessaging.php" timestamp="1512974282971">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="restClient/response27.json" timestamp="1513081334545" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_13.sql" timestamp="1511947313737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="82" />
@@ -274,18 +251,6 @@
       <file name="restClient/response3.json" timestamp="1513072562773" />
     </filemarks>
     <jumps>
-      <jump line="201" column="51" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="203" column="25" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="204" column="34" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="207" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="336" column="72" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="370" column="52" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="52" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="911" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="526" column="68" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="578" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="217" column="88" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="532" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
       <jump line="768" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
       <jump line="315" column="49" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" />
       <jump line="98" column="121" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementadvancereturnassessment/index.phtml" />
@@ -374,6 +339,18 @@
       <jump line="1103" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="1964" column="72" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="1941" column="32" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1857" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1972" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1364" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1366" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1451" column="68" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1453" column="68" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1854" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1856" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="1971" column="30" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="2060" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="2062" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="2410" column="23" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -389,13 +366,13 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>nabídky</text>
+        <text>findinvest</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBzZWxmOjpHUk9VUF9JTlZFU1RNRU5UX0FEVklTT1I6CiAgICAgICAgICAgICAgICBpZiAoJGdyb3VwSWQgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+d2hlcmUoJ2NlYWRvX2JyYW5jaF9pZCBJTiAoPyknLCAkdGhpcy0+ZmluZEludmVzdG1lbnRBZHZpc29yQnJhbmNoZXMoJGdyb3VwSWQpKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+d2hlcmUoJ2NlYWRvX2JyYW5jaF9pZCBJTiAoPyknLCAkdGhpcy0+ZmluZEludmVzdG1lbnRBZHZpc29yQnJhbmNoZXMoJHRoaXMtPmdldFVzZXIoKS0+Z2V0SWQoKSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHNlbGVjdC0+d2hlcmUoJ2NlYWRvX2JyYW5jaF9pZCBJTiAoPyknLCAkdGhpcy0+ZmluZEludmVzdG1lbnRBZHZpc29yQnJhbmNoZXMoJGdyb3VwSWQpKTs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -425,13 +402,13 @@
         <text encoding="base64">ICBnZXRGdWxsbmFtZShnZXRCcmFuY2hSZWdpb25NYW5hZ2VyKG9fYl9pZCwgTk9XKCkpLCAxLCAxLCAxKSAgICAgICAgICAgICAgICAgQVMgYFJlZ2lvbsOhbG7DrSDFmWVkaXRlbCAoYWt0LilgLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
-      <last-search>nabídky</last-search>
+      <last-search>findinvest</last-search>
       <last-offset />
-      <last-pattern>nabídky</last-pattern>
+      <last-pattern>findinvest</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -439,8 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>editac</entry>
-        <entry>editAc</entry>
         <entry>saveactio</entry>
         <entry>documen</entry>
         <entry>getreport</entry>
@@ -459,6 +434,8 @@
         <entry>infoLine</entry>
         <entry>nabídky p</entry>
         <entry>nabídky</entry>
+        <entry>findinvestment</entry>
+        <entry>findinvest</entry>
       </history-search>
       <history-cmd>
         <entry>action RecentFiles</entry>
@@ -468,7 +445,6 @@
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Replace</entry>
-        <entry>action Find</entry>
         <entry>action ParameterInfo</entry>
         <entry>Q</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
@@ -481,6 +457,7 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
