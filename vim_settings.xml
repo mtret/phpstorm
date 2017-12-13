@@ -12,12 +12,13 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513158843914">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513163303902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="restClient/response5.json" timestamp="1512981949938">
+      <file name="restClient/response36.json" timestamp="1513164600133" />
+      <file name="restClient/response5.json" timestamp="1513163188445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1476" />
         <mark key="." line="0" column="0" />
@@ -75,16 +76,33 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_10.sql" timestamp="1513162209705">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="53" />
-        <mark key="^" line="0" column="53" />
-        <mark key="." line="0" column="53" />
+      <file name="restClient/response31.json" timestamp="1513164260252">
+        <mark key="[" line="62" column="20" />
+        <mark key="]" line="62" column="21" />
+        <mark key="." line="62" column="21" />
+        <mark key="^" line="64" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_10.sql" timestamp="1513163889436">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="87" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/Entity/Log/ApiLogResponse.php" timestamp="1511971029548">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
+      </file>
+      <file name="restClient/response18.json" timestamp="1513163431145">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="124" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="restClient/response37.json" timestamp="1513164645675">
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="20" />
+        <mark key="^" line="63" column="20" />
+        <mark key="." line="63" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/EventListener/ApiLogListener.php" timestamp="1511967137098">
         <mark key="[" line="62" column="0" />
@@ -97,6 +115,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="restClient/response15.json" timestamp="1513163398748">
+        <mark key="[" line="124" column="1" />
+        <mark key="]" line="124" column="1" />
+        <mark key="." line="124" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f7dae128-15c3-4c01-8864-f1bbd88bd8b8/console_2.sql" timestamp="1511511185747">
         <mark key="[" line="0" column="0" />
@@ -115,6 +138,7 @@
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
+      <file name="restClient/response28.json" timestamp="1513163726535" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Branch/Managers/History/Module.php" timestamp="1511956018254">
         <mark key="[" line="95" column="46" />
         <mark key="]" line="95" column="45" />
@@ -134,18 +158,24 @@
         <mark key="." line="52" column="0" />
       </file>
       <file name="/ReportSql.php" timestamp="1513151560756" />
-      <file name="/Clipboard.txt" timestamp="1513071217445">
-        <mark key="[" line="0" column="0" />
+      <file name="restClient/response2.json" timestamp="1513163154503">
+        <mark key="[" line="64" column="22" />
+        <mark key="]" line="64" column="23" />
+        <mark key="." line="64" column="23" />
+        <mark key="^" line="64" column="23" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" timestamp="1513082868156">
-        <mark key="'" line="2410" column="23" />
-        <mark key="[" line="1366" column="37" />
-        <mark key="]" line="1366" column="37" />
-        <mark key="." line="1366" column="37" />
-        <mark key="^" line="1366" column="37" />
+      <file name="restClient/response25.json" timestamp="1513163507381">
+        <mark key="[" line="64" column="16" />
+        <mark key="]" line="64" column="23" />
+        <mark key="." line="64" column="23" />
+        <mark key="^" line="64" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1513081634666">
-        <mark key="[" line="0" column="0" />
+      <file name="restClient/response41.json" timestamp="1513164714550" />
+      <file name="restClient/response1.json" timestamp="1513163013194">
+        <mark key="[" line="64" column="16" />
+        <mark key="]" line="64" column="20" />
+        <mark key="." line="64" column="20" />
+        <mark key="^" line="64" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src_frontend/assets/js/modules/additional-service-requirement.form.js" timestamp="1511525210156">
         <mark key="[" line="77" column="8" />
@@ -164,21 +194,31 @@
         <mark key="." line="3" column="115" />
         <mark key="^" line="3" column="115" />
       </file>
+      <file name="restClient/response34.json" timestamp="1513164590634">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" timestamp="1513082730609">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1513161852395">
+      <file name="/dummy.sql" timestamp="1513164365819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513078862374">
+      <file name="/Dummy.txt" timestamp="1513163447052">
         <mark key="e" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="3" />
+      </file>
+      <file name="restClient/response29.json" timestamp="1513163833751">
+        <mark key="[" line="66" column="14" />
+        <mark key="]" line="66" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV1.php" timestamp="1502442566200">
         <mark key="[" line="150" column="0" />
@@ -198,9 +238,6 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1502170088119">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Calendar/Module.php" timestamp="1502088017224">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="55" />
@@ -217,12 +254,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="178" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console.sql" timestamp="1512990663315">
-        <mark key="[" line="31" column="81" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/cron/ReportMessaging.php" timestamp="1512974282971">
-        <mark key="[" line="3" column="0" />
       </file>
       <file name="/201711241127_MM-3570_edit_broker_adaptation_efficiency_report.php" timestamp="1513152970122">
         <mark key="[" line="8" column="18" />
@@ -245,6 +276,11 @@
         <mark key="]" line="320" column="44" />
         <mark key="^" line="320" column="44" />
         <mark key="." line="320" column="44" />
+      </file>
+      <file name="restClient/response0.json" timestamp="1513162948054">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="124" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -363,43 +399,43 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>findinvest</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YTIyNWJiNmQxYWZiNWVhODI1YzI5MDVhMWMwNGUzNWE3NTY0MTUwNQo=</text>
+      <register name="0" type="4">
+        <text>900502/123</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyAgICJzdG9ybWJvb2tJZCI6ICIxZjY0ODEyMy1jM2E2LWMwNzgtMmJiYy03MjMyNGYzZGQ3M2EiLCAgICJhZ3JlZW1lbnRUeXBlIjogeyAgICAgImlkIjogIjIiLCAgICAgImRhdGVWYWxpZEZyb20iOiAiMjAxNy0xMi0xMyIsICAgICAiZGF0ZVZhbGlkVG8iOiAiMjAxOC0wMy0xMyIgICB9LCAgICJhdHRpYyI6ICIwIiwgICAiY2hhcmdlT3duZXJzaGlwIjogIjAiLCAgICJjb250cmFjdHVhbExpZW4iOiAiMCIsICAgImR1cGxleEFwYXJ0bWVudCI6ICIwIiwgICAiZWFzZW1lbnQiOiAiMCIsICAgImVxdWlwbWVudF8xMDAwIjogIjAiLCAgICJlcXVpcG1lbnRfMTAwMSI6ICIwIiwgICAiZXF1aXBtZW50XzEwMDIiOiAiMCIsICAgImVxdWlwbWVudF8xMDAzIjogIjAiLCAgICJlcXVpcG1lbnRfMTAwNCI6ICIwIiwgICAiZXF1aXBtZW50XzEwMDUiOiAiMCIsICAgImVxdWlwbWVudF8xMDA2IjogIjAiLCAgICJlcXVpcG1lbnRfMTAwNyI6ICIwIiwgICAiZnJlcXVlbmN5Q29tbXVuaWNhdGlvbnMiOiAiMCIsICAgImhhbmRpY2FwQ2FwYWJsZSI6ICIwIiwgICAiaW50ZXJtZWRpYXJ5IjogeyAgICAgImlkIjogIjEiICAgfSwgICAibGlmdCI6ICIwIiwgICAibWFyZ2luIjogeyAgICAgInZhbHVlIjogIjExMTExIiwgICAgICJ0eXBlIjogIktjIiAgIH0sICAgIm1hcmdpblBheWVyIjogIjEiLCAgICJtYXJnaW5TcGVjaWFsIjogIjAiLCAgICJvZmZlcktleXNQYXNzIjogIjAiLCAgICJvd25lcnNoaXAiOiB7ICAgICAiaWQiOiAiMTAiICAgfSwgICAicHJpY2UiOiB7ICAgICAiYW1vdW50IjogIjExMTExMSIsICAgICAidHlwZSI6IHsgICAgICAgImlkIjogIjAiICAgICB9ICAgfSwgICAicHJpY2VSZW50SW5jbHVkaW5nRW5lcmd5IjogIjAiLCAgICJwcmljZVJlbnRUeXBlIjogIjAiLCAgICJwcm9wZXJ0eUNvbmRpdGlvbiI6IHsgICAgICJpZCI6ICIxMSIgICB9LCAgICJzZWl6dXJlIjogeyAgICAgImlkIjogIjAiICAgfSwgICAidGl0bGUiOiAiUHJvZGVqLCBCeXQgMysxLCBQcmFoYSwgdWwuIEFrw6F0b3bDoSIsICAgInRvcEFkdmVydGlzaW5nIjogIjAiLCAgICJ0b3RhbEFyZWEiOiAiNTUiLCAgICJ0b3RhbFByaWNlIjogIjEyMjIyMiIsICAgImVzdGF0ZVR5cGUiOiB7ICAgICAiaWQiOiA1NSAgIH0sICAgImFkdmVydGlzaW5nQ2F0ZWdvcnkiOiB7ICAgICAiaWQiOiAxMCAgIH0sICAgInNlbGxlcnMiOiBbICAgICB7ICAgICAgICJmaXJzdE5hbWUiOiAiWSIsICAgICAgICJsYXN0TmFtZSI6ICJaIiwgICAgICAgImVtYWlsIjogImh1QGh1LmN6IiwgICAgICAgInNlbGZFbXBsb3llZCI6IGZhbHNlLCAgICAgICAicGluIjogIjkwMDUwMi8xMjMiLCAgICAgICAiZWluIjogIiIsICAgICAgICJzZWxsZXJPd25lcnNoaXAiOiB7ICAgICAgICAgImlkIjogMSAgICAgICB9LCAgICAgICAic3ViamVjdFR5cGUiOiB7ICAgICAgICAgImlkIjogMiAgICAgICB9LCAgICAgICAiYWRkcmVzcyI6IHsgICAgICAgICAic3RyZWV0IjogIkFrw6F0b3bDoSIsICAgICAgICAgInN0cmVldE51bWJlciI6ICI2OSIsICAgICAgICAgImNpdHkiOiAiUHJhaGEiLCAgICAgICAgICJ6aXBOdW1iZXIiOiAiNTAwMDkiICAgICAgIH0gICAgIH0sICAgICB7ICAgICAgICJmaXJzdE5hbWUiOiAiQiIsICAgICAgICJsYXN0TmFtZSI6ICJCIiwgICAgICAgImVtYWlsIjogImJAYi5jb20iLCAgICAgICAic2VsZkVtcGxveWVkIjogZmFsc2UsICAgICAgICJwaW4iOiAiOTAwNTAyLzIyMiIsICAgICAgICJlaW4iOiAiIiwgICAgICAgInNlbGxlck93bmVyc2hpcCI6IHsgICAgICAgICAiaWQiOiAxICAgICAgIH0sICAgICAgICJzdWJqZWN0VHlwZSI6IHsgICAgICAgICAiaWQiOiAyICAgICAgIH0sICAgICAgICJhZGRyZXNzIjogeyAgICAgICAgICJzdHJlZXQiOiAiQWvDoXRvdsOhIiwgICAgICAgICAic3RyZWV0TnVtYmVyIjogIjY5IiwgICAgICAgICAiY2l0eSI6ICJQcmFoYSIsICAgICAgICAgInppcE51bWJlciI6ICI1MDAwOSIgICAgICAgfSAgICAgfSAgIF0sICAgImxvY2FsaXR5IjogeyAgICAgInN0cmVldE5vIjogNjksICAgICAiY2l0eSI6IHsgICAgICAgImlkIjogNTU0NzgyICAgICB9LCAgICAgImRpc3RyaWN0IjogeyAgICAgICAiaWQiOiAxOSAgICAgfSwgICAgICJzdHJlZXQiOiB7ICAgICAgICJpZCI6IDQ0MjY4MiAgICAgfSwgICAgICJvcmllbnRhdGlvbk5vIjogIiIsICAgICAidW5pdE51bWJlciI6ICIiLCAgICAgInppcENvZGUiOiAiIiwgICAgICJsdk51bWJlciI6ICIiLCAgICAgInN0cmVldE1hbnVhbCI6ICJBa8OhdG92w6EiICAgfSwgICAiZmFjaWxpdGllcyI6IFtdLCAgICJjb29wZXJhdGl2ZU93bmVyc2hpcCI6IHsgICAgICJuYW1lIjogIiIsICAgICAiZWluIjogIiIgICB9IH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvbHVtbiA9ICR0aGlzLT5nZXRCcmFuY2hNYW5hZ2VyQ29sdW1uQnlUeXBlKCRtYW5hZ2VyVHlwZSk7Cg==</text>
+        <text encoding="base64">eyAgICJzdG9ybWJvb2tJZCI6ICIxZjY0ODEyMy1jM2E2LWMwNzgtMmJiYy03MjMyNGYzZGQ3M2EiLCAgICJhZ3JlZW1lbnRUeXBlIjogeyAgICAgImlkIjogIjIiLCAgICAgImRhdGVWYWxpZEZyb20iOiAiMjAxNy0xMi0xMyIsICAgICAiZGF0ZVZhbGlkVG8iOiAiMjAxOC0wMy0xMyIgICB9LCAgICJhdHRpYyI6ICIwIiwgICAiY2hhcmdlT3duZXJzaGlwIjogIjAiLCAgICJjb250cmFjdHVhbExpZW4iOiAiMCIsICAgImR1cGxleEFwYXJ0bWVudCI6ICIwIiwgICAiZWFzZW1lbnQiOiAiMCIsICAgImVxdWlwbWVudF8xMDAwIjogIjAiLCAgICJlcXVpcG1lbnRfMTAwMSI6ICIwIiwgICAiZXF1aXBtZW50XzEwMDIiOiAiMCIsICAgImVxdWlwbWVudF8xMDAzIjogIjAiLCAgICJlcXVpcG1lbnRfMTAwNCI6ICIwIiwgICAiZXF1aXBtZW50XzEwMDUiOiAiMCIsICAgImVxdWlwbWVudF8xMDA2IjogIjAiLCAgICJlcXVpcG1lbnRfMTAwNyI6ICIwIiwgICAiZnJlcXVlbmN5Q29tbXVuaWNhdGlvbnMiOiAiMCIsICAgImhhbmRpY2FwQ2FwYWJsZSI6ICIwIiwgICAiaW50ZXJtZWRpYXJ5IjogeyAgICAgImlkIjogIjEiICAgfSwgICAibGlmdCI6ICIwIiwgICAibWFyZ2luIjogeyAgICAgInZhbHVlIjogIjExMTExIiwgICAgICJ0eXBlIjogIktjIiAgIH0sICAgIm1hcmdpblBheWVyIjogIjEiLCAgICJtYXJnaW5TcGVjaWFsIjogIjAiLCAgICJvZmZlcktleXNQYXNzIjogIjAiLCAgICJvd25lcnNoaXAiOiB7ICAgICAiaWQiOiAiMTAiICAgfSwgICAicHJpY2UiOiB7ICAgICAiYW1vdW50IjogIjExMTExMSIsICAgICAidHlwZSI6IHsgICAgICAgImlkIjogIjAiICAgICB9ICAgfSwgICAicHJpY2VSZW50SW5jbHVkaW5nRW5lcmd5IjogIjAiLCAgICJwcmljZVJlbnRUeXBlIjogIjAiLCAgICJwcm9wZXJ0eUNvbmRpdGlvbiI6IHsgICAgICJpZCI6ICIxMSIgICB9LCAgICJzZWl6dXJlIjogeyAgICAgImlkIjogIjAiICAgfSwgICAidGl0bGUiOiAiUHJvZGVqLCBCeXQgMysxLCBQcmFoYSwgdWwuIEFrw6F0b3bDoSIsICAgInRvcEFkdmVydGlzaW5nIjogIjAiLCAgICJ0b3RhbEFyZWEiOiAiNTUiLCAgICJ0b3RhbFByaWNlIjogIjEyMjIyMiIsICAgImVzdGF0ZVR5cGUiOiB7ICAgICAiaWQiOiA1NSAgIH0sICAgImFkdmVydGlzaW5nQ2F0ZWdvcnkiOiB7ICAgICAiaWQiOiAxMCAgIH0sICAgInNlbGxlcnMiOiBbICAgICB7ICAgICAgICJmaXJzdE5hbWUiOiAiQSIsICAgICAgICJsYXN0TmFtZSI6ICJCIiwgICAgICAgImVtYWlsIjogImh1QGh1Lmh1IiwgICAgICAgInNlbGZFbXBsb3llZCI6IGZhbHNlLCAgICAgICAicGluIjogIjkwMDUwMi8xMjMiLCAgICAgICAiZWluIjogIiIsICAgICAgICJzZWxsZXJPd25lcnNoaXAiOiB7ICAgICAgICAgImlkIjogMSAgICAgICB9LCAgICAgICAic3ViamVjdFR5cGUiOiB7ICAgICAgICAgImlkIjogMiAgICAgICB9LCAgICAgICAiYWRkcmVzcyI6IHsgICAgICAgICAic3RyZWV0IjogIkFrw6F0b3bDoSIsICAgICAgICAgInN0cmVldE51bWJlciI6ICI2OSIsICAgICAgICAgImNpdHkiOiAiUHJhaGEiLCAgICAgICAgICJ6aXBOdW1iZXIiOiAiNTAwMDkiICAgICAgIH0gICAgIH0sICAgICB7ICAgICAgICJmaXJzdE5hbWUiOiAiQiIsICAgICAgICJsYXN0TmFtZSI6ICJCIiwgICAgICAgImVtYWlsIjogImJAYi5jb20iLCAgICAgICAic2VsZkVtcGxveWVkIjogZmFsc2UsICAgICAgICJwaW4iOiAiOTAwNTAyLzIyMiIsICAgICAgICJlaW4iOiAiIiwgICAgICAgInNlbGxlck93bmVyc2hpcCI6IHsgICAgICAgICAiaWQiOiAxICAgICAgIH0sICAgICAgICJzdWJqZWN0VHlwZSI6IHsgICAgICAgICAiaWQiOiAyICAgICAgIH0sICAgICAgICJhZGRyZXNzIjogeyAgICAgICAgICJzdHJlZXQiOiAiQWvDoXRvdsOhIiwgICAgICAgICAic3RyZWV0TnVtYmVyIjogIjY5IiwgICAgICAgICAiY2l0eSI6ICJQcmFoYSIsICAgICAgICAgInppcE51bWJlciI6ICI1MDAwOSIgICAgICAgfSAgICAgfSAgIF0sICAgImxvY2FsaXR5IjogeyAgICAgInN0cmVldE5vIjogNjksICAgICAiY2l0eSI6IHsgICAgICAgImlkIjogNTU0NzgyICAgICB9LCAgICAgImRpc3RyaWN0IjogeyAgICAgICAiaWQiOiAxOSAgICAgfSwgICAgICJzdHJlZXQiOiB7ICAgICAgICJpZCI6IDQ0MjY4MiAgICAgfSwgICAgICJvcmllbnRhdGlvbk5vIjogIiIsICAgICAidW5pdE51bWJlciI6ICIiLCAgICAgInppcENvZGUiOiAiIiwgICAgICJsdk51bWJlciI6ICIiLCAgICAgInN0cmVldE1hbnVhbCI6ICJBa8OhdG92w6EiICAgfSwgICAiZmFjaWxpdGllcyI6IFtdLCAgICJjb29wZXJhdGl2ZU93bmVyc2hpcCI6IHsgICAgICJuYW1lIjogIiIsICAgICAiZWluIjogIiIgICB9IH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAkYnJhbmNoSWRzID0gW107CgogICAgICAgICRzZWxlY3QgPSBuZXcgWmVuZF9EYl9TZWxlY3QoJHRoaXMtPmdldERiKCkpOwogICAgICAgICRzZWxlY3QtPmZyb20oJ21tX2JyYW5jaGVzJyk7CiAgICAgICAgJHNlbGVjdC0+Y29sdW1ucyhhcnJheSgKICAgICAgICAgICAgJ2lkJyA9PiAnYl9pZCcKICAgICAgICAgICAgKQogICAgICAgICk7CiAgICAgICAgJHNlbGVjdC0+d2hlcmUoJyhiX2FjdGl2ZV9icmFuY2hfb3JfY29udGFjdF9wbGFjZSA9IDEgT1IgYl90eXBlID0gNCknKTsKICAgICAgICAkYnJhbmNoZXMgPSAkdGhpcy0+ZGItPmZldGNoQWxsKCRzZWxlY3QpOwogICAgICAgIGlmICgkYnJhbmNoZXMpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJGJyYW5jaGVzIGFzICRicmFuY2gpIHsKICAgICAgICAgICAgICAgICRicmFuY2hJZHNbXSA9ICRicmFuY2hbJ2lkJ107CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiAkYnJhbmNoSWRzOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAic3RyZWV0IjogIkFrw6F0b3bDoSIsCiAgICAgICAgInN0cmVldE51bWJlciI6ICI2OSIsCiAgICAgICAgImNpdHkiOiAiUHJhaGEiLAogICAgICAgICJ6aXBOdW1iZXIiOiAiNTAwMDkiCiAgICAgIH0KICAgIH0KICBdLAogICJsb2NhbGl0eSI6IHsKICAgICJzdHJlZXRObyI6IDY5LAogICAgImNpdHkiOiB7CiAgICAgICJpZCI6IDU1NDc4MgogICAgfSwKICAgICJkaXN0cmljdCI6IHsKICAgICAgImlkIjogMTkKICAgIH0sCiAgICAic3RyZWV0IjogewogICAgICAiaWQiOiA0NDI2ODIKICAgIH0sCiAgICAib3JpZW50YXRpb25ObyI6ICIiLAogICAgInVuaXROdW1iZXIiOiAiIiwKICAgICJ6aXBDb2RlIjogIiIsCiAgICAibHZOdW1iZXIiOiAiIiwKICAgICJzdHJlZXRNYW51YWwiOiAiQWvDoXRvdsOhIgogIH0sCiAgImZhY2lsaXRpZXMiOiBbXSwKICAiY29vcGVyYXRpdmVPd25lcnNoaXAiOiB7CiAgICAibmFtZSI6ICIiLAogICAgImVpbiI6ICIiCiAgfQp9dAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICRicmFuY2hJZHMgPSBbXTsKCiAgICAgICAgJHNlbGVjdCA9IG5ldyBaZW5kX0RiX1NlbGVjdCgkdGhpcy0+Z2V0RGIoKSk7CiAgICAgICAgJHNlbGVjdC0+ZnJvbSgnbW1fYnJhbmNoZXMnKTsKICAgICAgICAkc2VsZWN0LT5jb2x1bW5zKGFycmF5KAogICAgICAgICAgICAnaWQnID0+ICdiX2lkJwogICAgICAgICAgICApCiAgICAgICAgKTsKICAgICAgICAkc2VsZWN0LT53aGVyZSgnKGJfYWN0aXZlX2JyYW5jaF9vcl9jb250YWN0X3BsYWNlID0gMSBPUiBiX3R5cGUgPSA0KScpOwogICAgICAgICRicmFuY2hlcyA9ICR0aGlzLT5kYi0+ZmV0Y2hBbGwoJHNlbGVjdCk7CiAgICAgICAgaWYgKCRicmFuY2hlcykgewogICAgICAgICAgICBmb3JlYWNoICgkYnJhbmNoZXMgYXMgJGJyYW5jaCkgewogICAgICAgICAgICAgICAgJGJyYW5jaElkc1tdID0gJGJyYW5jaFsnaWQnXTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRicmFuY2hJZHM7</text>
+      <register name="4" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2dfYXBpIHdoZXJlIGxhcF9yZXNvdXJjZSBsaWtlICdvZmZlcicgb3JkZXIgYnkgbGFwX2lkIGRlc2MgbGltaXQgMTAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYnJhbmNoSWRzID0gW107CgogICAgICAgICRzZWxlY3QgPSBuZXcgWmVuZF9EYl9TZWxlY3QoJHRoaXMtPmdldERiKCkpOwogICAgICAgICRzZWxlY3QtPmZyb20oJ21tX2JyYW5jaGVzJyk7CiAgICAgICAgJHNlbGVjdC0+Y29sdW1ucyhhcnJheSgKICAgICAgICAgICAgJ2lkJyA9PiAnYl9pZCcKICAgICAgICAgICAgKQogICAgICAgICk7CiAgICAgICAgJHNlbGVjdC0+d2hlcmUoJyhiX2FjdGl2ZV9icmFuY2hfb3JfY29udGFjdF9wbGFjZSA9IDEgT1IgYl90eXBlID0gNCknKTsKICAgICAgICAkYnJhbmNoZXMgPSAkdGhpcy0+ZGItPmZldGNoQWxsKCRzZWxlY3QpOwogICAgICAgIGlmICgkYnJhbmNoZXMpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJGJyYW5jaGVzIGFzICRicmFuY2gpIHsKICAgICAgICAgICAgICAgICRicmFuY2hJZHNbXSA9ICRicmFuY2hbJ2lkJ107CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiAkYnJhbmNoSWRzOwo=</text>
+        <text encoding="base64">ewogICJzdG9ybWJvb2tJZCI6ICIxZjY0ODEyMy1jM2E2LWMwNzgtMmJiYy03MjMyNGYzZGQ3M2EiLAogICJhZ3JlZW1lbnRUeXBlIjogewogICAgImlkIjogIjIiLAogICAgImRhdGVWYWxpZEZyb20iOiAiMjAxNy0xMi0xMyIsCiAgICAiZGF0ZVZhbGlkVG8iOiAiMjAxOC0wMy0xMyIKICB9LAogICJhdHRpYyI6ICIwIiwKICAiY2hhcmdlT3duZXJzaGlwIjogIjAiLAogICJjb250cmFjdHVhbExpZW4iOiAiMCIsCiAgImR1cGxleEFwYXJ0bWVudCI6ICIwIiwKICAiZWFzZW1lbnQiOiAiMCIsCiAgImVxdWlwbWVudF8xMDAwIjogIjAiLAogICJlcXVpcG1lbnRfMTAwMSI6ICIwIiwKICAiZXF1aXBtZW50XzEwMDIiOiAiMCIsCiAgImVxdWlwbWVudF8xMDAzIjogIjAiLAogICJlcXVpcG1lbnRfMTAwNCI6ICIwIiwKICAiZXF1aXBtZW50XzEwMDUiOiAiMCIsCiAgImVxdWlwbWVudF8xMDA2IjogIjAiLAogICJlcXVpcG1lbnRfMTAwNyI6ICIwIiwKICAiZnJlcXVlbmN5Q29tbXVuaWNhdGlvbnMiOiAiMCIsCiAgImhhbmRpY2FwQ2FwYWJsZSI6ICIwIiwKICAiaW50ZXJtZWRpYXJ5IjogewogICAgImlkIjogIjEiCiAgfSwKICAibGlmdCI6ICIwIiwKICAibWFyZ2luIjogewogICAgInZhbHVlIjogIjExMTExIiwKICAgICJ0eXBlIjogIktjIgogIH0sCiAgIm1hcmdpblBheWVyIjogIjEiLAogICJtYXJnaW5TcGVjaWFsIjogIjAiLAogICJvZmZlcktleXNQYXNzIjogIjAiLAogICJvd25lcnNoaXAiOiB7CiAgICAiaWQiOiAiMTAiCiAgfSwKICAicHJpY2UiOiB7CiAgICAiYW1vdW50IjogIjExMTExMSIsCiAgICAidHlwZSI6IHsKICAgICAgImlkIjogIjAiCiAgICB9CiAgfSwKICAicHJpY2VSZW50SW5jbHVkaW5nRW5lcmd5IjogIjAiLAogICJwcmljZVJlbnRUeXBlIjogIjAiLAogICJwcm9wZXJ0eUNvbmRpdGlvbiI6IHsKICAgICJpZCI6ICIxMSIKICB9LAogICJzZWl6dXJlIjogewogICAgImlkIjogIjAiCiAgfSwKICAidGl0bGUiOiAiUHJvZGVqLCBCeXQgMysxLCBQcmFoYSwgdWwuIEFrw6F0b3bDoSIsCiAgInRvcEFkdmVydGlzaW5nIjogIjAiLAogICJ0b3RhbEFyZWEiOiAiNTUiLAogICJ0b3RhbFByaWNlIjogIjEyMjIyMiIsCiAgImVzdGF0ZVR5cGUiOiB7CiAgICAiaWQiOiA1NQogIH0sCiAgImFkdmVydGlzaW5nQ2F0ZWdvcnkiOiB7CiAgICAiaWQiOiAxMAogIH0sCiAgInNlbGxlcnMiOiBbCiAgICB7CiAgICAgICJmaXJzdE5hbWUiOiAiQSIsCiAgICAgICJsYXN0TmFtZSI6ICJCIiwKICAgICAgImVtYWlsIjogImFAYS5jb20iLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">MzAwMQo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUCiAgYG9gLmBvX2lkYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBOYWLDrWRrYWAsCiAgYG9gLmBvX2NyZWF0ZWRgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBEYXR1bSB2eXR2b8WZZW7DrSBuYWLDrWRreWAsCiAgYG1tX29mZmVyc19jYXRlZ29yaWVzX2N6YC5gb2NfbmFtZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBJbnplcnRuw60ga2F0ZWdvcmllYCwKICAoU0VMRUNUIGV0X25hbWUKICAgRlJPTSBtbV9lc3RhdGVfdHlwZXMKICAgV0hFUkUgZXRfemxfaWQgPSAxIEFORCBldF9pZCA9IChTRUxFQ1QgZXRfcGFyZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBtbV9lc3RhdGVfdHlwZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBldF96bF9pZCA9IDEgQU5EIGV0X2lkID0gby5vX2V0X2lkKSkgQVMgYE5hZHR5cCBuZW1vdml0b3N0aWAsCiAgYGJgLmBiX2Z1bGxuYW1lYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBQb2JvxI1rYWAsCiAgZ2V0RnVsbG5hbWUob19zYV9pZF9nYXRoZXIsIDEsIDEsIDEpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBNYWtsw6nFmSBuYWJyYWxgLAogIGBjaXR5YC5gemNfbmFtZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBgT2JlY2AsCiAgYGRpc3RyaWN0YC5gemRfbmFtZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBPa3Jlc2AsCiAgYG9gLmBvX3RvdGFsX3ByaWNlYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBDZWxrb3bDoSBjZW5hYCwKICBgb2AuYG9fbWFyZ2luYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYFByb3ZpemVgLAogIGBvYC5gb19tYXJnaW5fdHlwZWAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBgVHlwIHByb3ZpemVgLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvbHVtbiA9ICR0aGlzLT5nZXRCcmFuY2hNYW5hZ2VyQ29sdW1uQnlUeXBlKCRtYW5hZ2VyVHlwZSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBnZXRGdWxsbmFtZShnZXRCcmFuY2hSZWdpb25NYW5hZ2VyKG9fYl9pZCwgTk9XKCkpLCAxLCAxLCAxKSAgICAgICAgICAgICAgICAgQVMgYFJlZ2lvbsOhbG7DrSDFmWVkaXRlbCAoYWt0LilgLAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAkYnJhbmNoSWRzID0gW107CgogICAgICAgICRzZWxlY3QgPSBuZXcgWmVuZF9EYl9TZWxlY3QoJHRoaXMtPmdldERiKCkpOwogICAgICAgICRzZWxlY3QtPmZyb20oJ21tX2JyYW5jaGVzJyk7CiAgICAgICAgJHNlbGVjdC0+Y29sdW1ucyhhcnJheSgKICAgICAgICAgICAgJ2lkJyA9PiAnYl9pZCcKICAgICAgICAgICAgKQogICAgICAgICk7CiAgICAgICAgJHNlbGVjdC0+d2hlcmUoJyhiX2FjdGl2ZV9icmFuY2hfb3JfY29udGFjdF9wbGFjZSA9IDEgT1IgYl90eXBlID0gNCknKTsKICAgICAgICAkYnJhbmNoZXMgPSAkdGhpcy0+ZGItPmZldGNoQWxsKCRzZWxlY3QpOwogICAgICAgIGlmICgkYnJhbmNoZXMpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJGJyYW5jaGVzIGFzICRicmFuY2gpIHsKICAgICAgICAgICAgICAgICRicmFuY2hJZHNbXSA9ICRicmFuY2hbJ2lkJ107CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiAkYnJhbmNoSWRzOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -435,7 +471,6 @@
         <entry>findinvest</entry>
       </history-search>
       <history-cmd>
-        <entry>action RecentFiles</entry>
         <entry>12</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>W</entry>
@@ -452,9 +487,10 @@
         <entry>action $Paste</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action $SelectAll</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
