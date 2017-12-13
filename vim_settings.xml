@@ -113,7 +113,7 @@
         <mark key="." line="62" column="21" />
         <mark key="^" line="64" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_10.sql" timestamp="1513163889436">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_10.sql" timestamp="1513188820344">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="34" />
         <mark key="^" line="3" column="87" />
@@ -165,7 +165,7 @@
         <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513187199870">
+      <file name="/Dummy.txt" timestamp="1513189038770">
         <mark key="e" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -258,6 +258,7 @@
         <mark key="^" line="320" column="44" />
         <mark key="." line="320" column="44" />
       </file>
+      <file name="restClient/response0.json" timestamp="1513188837056" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/.htaccess" timestamp="1513187656226">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="9" />
@@ -384,7 +385,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>cache:clear</text>
+        <text>sessino</text>
       </register>
       <register name="0" type="4">
         <text>SELECT doet_id AS id, doet_child_id AS child_id, doet_child_name AS child_name,
@@ -419,13 +420,13 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2dfYXBpIHdoZXJlIGxhcF9yZXNvdXJjZSBsaWtlICdvZmZlcicgb3JkZXIgYnkgbGFwX2lkIGRlc2MgbGltaXQgMTAwOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>186</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>cache:clear</last-search>
+      <last-search>sessino</last-search>
       <last-offset />
-      <last-pattern>cache:clear</last-pattern>
+      <last-pattern>sessino</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -433,7 +434,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createUser</entry>
         <entry>connection</entry>
         <entry>getconn</entry>
         <entry>executequery</entry>
@@ -453,6 +453,7 @@
         <entry>blackfire</entry>
         <entry>nb_o_id</entry>
         <entry>cache:clear</entry>
+        <entry>sessino</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
@@ -464,7 +465,6 @@
         <entry>Q</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $Paste</entry>
@@ -475,6 +475,7 @@
         <entry>w</entry>
         <entry>action GotoDeclaration</entry>
         <entry>186</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
