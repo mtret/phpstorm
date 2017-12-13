@@ -12,11 +12,6 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513163303902">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="restClient/response36.json" timestamp="1513164600133" />
       <file name="restClient/response5.json" timestamp="1513163188445">
         <mark key="[" line="0" column="0" />
@@ -28,11 +23,6 @@
         <mark key="]" line="9" column="78" />
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="78" />
-      </file>
-      <file name="restClient/response0.txt" timestamp="1512981320183">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1476" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512119877572">
         <mark key="[" line="0" column="0" />
@@ -88,11 +78,6 @@
         <mark key="^" line="3" column="87" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/Entity/Log/ApiLogResponse.php" timestamp="1511971029548">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-      </file>
       <file name="restClient/response18.json" timestamp="1513163431145">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="124" column="1" />
@@ -103,6 +88,12 @@
         <mark key="]" line="63" column="20" />
         <mark key="^" line="63" column="20" />
         <mark key="." line="63" column="20" />
+      </file>
+      <file name="restClient/response45.json" timestamp="1513165687584">
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="24" />
+        <mark key="." line="64" column="24" />
+        <mark key="^" line="64" column="24" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/EventListener/ApiLogListener.php" timestamp="1511967137098">
         <mark key="[" line="62" column="0" />
@@ -133,11 +124,7 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/Entity/Log/ApiLogRequest.php" timestamp="1511971026597">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/Client/OfferClientModule.php" timestamp="1513166032408" />
       <file name="restClient/response28.json" timestamp="1513163726535" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Branch/Managers/History/Module.php" timestamp="1511956018254">
         <mark key="[" line="95" column="46" />
@@ -157,6 +144,7 @@
         <mark key="^" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Client/Api/ClientApiMapper.php" timestamp="1513166189718" />
       <file name="/ReportSql.php" timestamp="1513151560756" />
       <file name="restClient/response2.json" timestamp="1513163154503">
         <mark key="[" line="64" column="22" />
@@ -183,11 +171,6 @@
         <mark key="^" line="77" column="9" />
         <mark key="." line="77" column="9" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" timestamp="1512143908752">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/db/schema_updates/2017/08/201708041252_MM-2472_create_table_requirement_advance_return_assessment_tasks.php" timestamp="1501847755834">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="115" />
@@ -206,8 +189,10 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1513164365819">
+      <file name="/dummy.sql" timestamp="1513166490416">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1513163447052">
         <mark key="e" line="0" column="19" />
@@ -219,6 +204,9 @@
       <file name="restClient/response29.json" timestamp="1513163833751">
         <mark key="[" line="66" column="14" />
         <mark key="]" line="66" column="23" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" timestamp="1513165977596">
+        <mark key="'" line="409" column="36" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV1.php" timestamp="1502442566200">
         <mark key="[" line="150" column="0" />
@@ -238,6 +226,7 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/Offer/OfferResourceV1.php" timestamp="1513166132365" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Calendar/Module.php" timestamp="1502088017224">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="55" />
@@ -249,11 +238,6 @@
         <mark key="]" line="17" column="10" />
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1513070901439">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="178" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/201711241127_MM-3570_edit_broker_adaptation_efficiency_report.php" timestamp="1513152970122">
         <mark key="[" line="8" column="18" />
@@ -277,24 +261,8 @@
         <mark key="^" line="320" column="44" />
         <mark key="." line="320" column="44" />
       </file>
-      <file name="restClient/response0.json" timestamp="1513162948054">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="124" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="768" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementstaxController.php" />
-      <jump line="315" column="49" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV2.php" />
-      <jump line="98" column="121" filename="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/requirementadvancereturnassessment/index.phtml" />
-      <jump line="14" column="91" filename="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" />
-      <jump line="84" column="26" filename="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" />
-      <jump line="8" column="31" filename="/201708101546_MM-2944_get_max_number_of_days_offer_is_exported_to_sreality_in_month.php" />
-      <jump line="199" column="4" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="372" column="74" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="604" column="74" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementadvancereturnassessmentController.php" />
-      <jump line="64" column="65" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" />
-      <jump line="106" column="57" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" />
       <jump line="22" column="18" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Task/Persistence/ZendDb/TaskMapper.php" />
       <jump line="6" column="49" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017/2017-06/201706261331_MM-2621_competition_summer_06_2017_report_in_reports.php" />
       <jump line="30" column="43" filename="$USER_HOME$/PhpstormProjects/stormm-export/lib/Stormm/Advertising/Server/SrealityCz.php" />
@@ -384,6 +352,17 @@
       <jump line="2060" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="2062" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="2410" column="23" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
+      <jump line="135" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
+      <jump line="412" column="80" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
+      <jump line="413" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
+      <jump line="414" column="64" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
+      <jump line="415" column="64" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
+      <jump line="376" column="63" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
+      <jump line="379" column="80" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
+      <jump line="380" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
+      <jump line="381" column="64" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
+      <jump line="382" column="64" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
+      <jump line="409" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -399,10 +378,10 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>c_id = 1263594</text>
       </register>
       <register name="/" type="4">
-        <text>findinvest</text>
+        <text>clien</text>
       </register>
       <register name="0" type="4">
         <text>900502/123</text>
@@ -435,13 +414,13 @@
         <text encoding="base64">ICAgICAgICAkYnJhbmNoSWRzID0gW107CgogICAgICAgICRzZWxlY3QgPSBuZXcgWmVuZF9EYl9TZWxlY3QoJHRoaXMtPmdldERiKCkpOwogICAgICAgICRzZWxlY3QtPmZyb20oJ21tX2JyYW5jaGVzJyk7CiAgICAgICAgJHNlbGVjdC0+Y29sdW1ucyhhcnJheSgKICAgICAgICAgICAgJ2lkJyA9PiAnYl9pZCcKICAgICAgICAgICAgKQogICAgICAgICk7CiAgICAgICAgJHNlbGVjdC0+d2hlcmUoJyhiX2FjdGl2ZV9icmFuY2hfb3JfY29udGFjdF9wbGFjZSA9IDEgT1IgYl90eXBlID0gNCknKTsKICAgICAgICAkYnJhbmNoZXMgPSAkdGhpcy0+ZGItPmZldGNoQWxsKCRzZWxlY3QpOwogICAgICAgIGlmICgkYnJhbmNoZXMpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJGJyYW5jaGVzIGFzICRicmFuY2gpIHsKICAgICAgICAgICAgICAgICRicmFuY2hJZHNbXSA9ICRicmFuY2hbJ2lkJ107CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiAkYnJhbmNoSWRzOw==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>findinvest</last-search>
+      <last-search>clien</last-search>
       <last-offset />
-      <last-pattern>findinvest</last-pattern>
+      <last-pattern>clien</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -449,7 +428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveactio</entry>
         <entry>documen</entry>
         <entry>getreport</entry>
         <entry>balance</entry>
@@ -469,6 +447,7 @@
         <entry>nabídky</entry>
         <entry>findinvestment</entry>
         <entry>findinvest</entry>
+        <entry>clien</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
@@ -488,9 +467,9 @@
         <entry>action Vcs.UpdateProject</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action $SelectAll</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
