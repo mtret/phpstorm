@@ -83,7 +83,7 @@
         <mark key="." line="64" column="20" />
         <mark key="^" line="64" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/db/mass_updates/2008-11-22.txt" timestamp="1513194733632" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/db/mass_updates/2008-11-22.txt" timestamp="1513195102260" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_17.sql" timestamp="1511517051407">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="0" column="70" />
@@ -420,7 +420,7 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2dfYXBpIHdoZXJlIGxhcF9yZXNvdXJjZSBsaWtlICdvZmZlcicgb3JkZXIgYnkgbGFwX2lkIGRlc2MgbGltaXQgMTAwOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -474,8 +474,8 @@
         <entry>w</entry>
         <entry>action GotoDeclaration</entry>
         <entry>186</entry>
-        <entry>q</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
