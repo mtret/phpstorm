@@ -83,6 +83,7 @@
         <mark key="." line="64" column="20" />
         <mark key="^" line="64" column="20" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/db/mass_updates/2008-11-22.txt" timestamp="1513194733632" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_17.sql" timestamp="1511517051407">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="0" column="70" />
@@ -159,11 +160,11 @@
         <mark key="^" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1500e79f-c868-4642-ae12-89e57759940a/console.sql" timestamp="1513186861143">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="46" />
-        <mark key="^" line="0" column="46" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1500e79f-c868-4642-ae12-89e57759940a/console.sql" timestamp="1513194779877">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1513189038770">
         <mark key="e" line="0" column="19" />
@@ -258,7 +259,6 @@
         <mark key="^" line="320" column="44" />
         <mark key="." line="320" column="44" />
       </file>
-      <file name="restClient/response0.json" timestamp="1513188837056" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/.htaccess" timestamp="1513187656226">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="9" />
@@ -420,7 +420,7 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2dfYXBpIHdoZXJlIGxhcF9yZXNvdXJjZSBsaWtlICdvZmZlcicgb3JkZXIgYnkgbGFwX2lkIGRlc2MgbGltaXQgMTAwOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action EditorSelectWord</text>
       </register>
     </registers>
     <search>
@@ -464,7 +464,6 @@
         <entry>action ParameterInfo</entry>
         <entry>Q</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
-        <entry>action EditorSelectWord</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $Paste</entry>
@@ -476,6 +475,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>186</entry>
         <entry>q</entry>
+        <entry>action EditorSelectWord</entry>
       </history-cmd>
       <history-expr />
       <history-input />
