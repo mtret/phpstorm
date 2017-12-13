@@ -218,6 +218,10 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/cron/ReportMessaging.php" timestamp="1512974282971">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="/201711241127_MM-3570_edit_broker_adaptation_efficiency_report.php" timestamp="1513152970122">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="25" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_13.sql" timestamp="1511947313737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="82" />
@@ -359,7 +363,7 @@
         <text>findinvest</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHNlbGVjdC0+d2hlcmUoJ2NlYWRvX2JyYW5jaF9pZCBJTiAoPyknLCAkdGhpcy0+ZmluZEludmVzdG1lbnRBZHZpc29yQnJhbmNoZXMoJGdyb3VwSWQpKTs=</text>
+        <text>`stormm`</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
