@@ -75,6 +75,12 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_10.sql" timestamp="1513162209705">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="53" />
+        <mark key="^" line="0" column="53" />
+        <mark key="." line="0" column="53" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/Entity/Log/ApiLogResponse.php" timestamp="1511971029548">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="32" />
@@ -164,7 +170,7 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1513158964147">
+      <file name="/dummy.sql" timestamp="1513161852395">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1513078862374">
