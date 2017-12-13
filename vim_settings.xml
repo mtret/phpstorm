@@ -12,6 +12,11 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513170787221">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="restClient/response36.json" timestamp="1513164600133" />
       <file name="/AppKernel.php" timestamp="1513167881364" />
       <file name="restClient/response5.json" timestamp="1513163188445">
@@ -143,11 +148,11 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Client/Api/ClientApiMapper.php" timestamp="1513166189718" />
       <file name="/ReportSql.php" timestamp="1513151560756" />
-      <file name="restClient/response2.json" timestamp="1513163154503">
-        <mark key="[" line="64" column="22" />
-        <mark key="]" line="64" column="23" />
-        <mark key="." line="64" column="23" />
-        <mark key="^" line="64" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_7.sql" timestamp="1513170687898">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="restClient/response25.json" timestamp="1513163507381">
         <mark key="[" line="64" column="16" />
@@ -174,12 +179,6 @@
         <mark key="." line="3" column="115" />
         <mark key="^" line="3" column="115" />
       </file>
-      <file name="restClient/response34.json" timestamp="1513164590634">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017/2017-02/201703090824_MM-1989_change_acl_for_files_in_s3.php" timestamp="1513168451292" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" timestamp="1513082730609">
         <mark key="[" line="0" column="39" />
@@ -187,12 +186,12 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1513166490416">
+      <file name="/dummy.sql" timestamp="1513170790437">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513167802548">
+      <file name="/Dummy.txt" timestamp="1513170535585">
         <mark key="e" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -251,7 +250,6 @@
         <mark key="^" line="320" column="44" />
         <mark key="." line="320" column="44" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/.htaccess" timestamp="1513168824048" />
     </filemarks>
     <jumps>
       <jump line="6" column="49" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017/2017-06/201706261331_MM-2621_competition_summer_06_2017_report_in_reports.php" />
@@ -372,7 +370,7 @@
         <text>c_id = 1263594</text>
       </register>
       <register name="/" type="4">
-        <text>clien</text>
+        <text>blackfire</text>
       </register>
       <register name="0" type="4">
         <text>900502/123</text>
@@ -409,9 +407,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clien</last-search>
+      <last-search>blackfire</last-search>
       <last-offset />
-      <last-pattern>clien</last-pattern>
+      <last-pattern>blackfire</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -419,7 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>documen</entry>
         <entry>getreport</entry>
         <entry>balance</entry>
         <entry>createUser</entry>
@@ -439,6 +436,7 @@
         <entry>findinvestment</entry>
         <entry>findinvest</entry>
         <entry>clien</entry>
+        <entry>blackfire</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
