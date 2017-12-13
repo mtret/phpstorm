@@ -53,6 +53,10 @@
           <option name="url" value="https://hg.digitalcz.cz/stormm-apps/android/statistics/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://hg.digitalcz.cz/stormm-statistics" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects/" />
