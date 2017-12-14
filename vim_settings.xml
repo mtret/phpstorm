@@ -228,6 +228,7 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="13" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/config/config_staging.yml" timestamp="1513289229695" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Branch/Managers/History/Module.php" timestamp="1511956018254">
         <mark key="[" line="95" column="46" />
         <mark key="]" line="95" column="45" />
