@@ -12,7 +12,7 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513586652606">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513599658795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="5" />
@@ -44,7 +44,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/staff/detail.phtml" timestamp="1513597186168">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/staff/detail.phtml" timestamp="1513600248479">
         <mark key="[" line="621" column="0" />
         <mark key="]" line="621" column="82" />
       </file>
@@ -66,6 +66,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Service/CompetencyAndCertificationService.php" timestamp="1513600475281" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_11.sql" timestamp="1511956201381">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="2" column="43" />
@@ -143,7 +144,7 @@
         <mark key="." line="0" column="87" />
         <mark key="^" line="0" column="123" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/index/indexTools.php" timestamp="1513595536032">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/index/indexTools.php" timestamp="1513599515051">
         <mark key="'" line="49" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_8.sql" timestamp="1513595102074">
@@ -198,7 +199,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="4" />
       </file>
-      <file name="/PHP Console" timestamp="1513597452886">
+      <file name="/PHP Console" timestamp="1513600524691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src_frontend/assets/js/modules/additional-service-requirement.form.js" timestamp="1511525210156">
@@ -219,7 +220,7 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1513586741846">
+      <file name="/dummy.sql" timestamp="1513600153392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -286,12 +287,12 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" timestamp="1513597521887">
-        <mark key="'" line="231" column="33" />
-        <mark key="[" line="286" column="5" />
-        <mark key="]" line="123" column="37" />
-        <mark key="." line="123" column="37" />
-        <mark key="^" line="123" column="37" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" timestamp="1513600308812">
+        <mark key="'" line="125" column="42" />
+        <mark key="[" line="126" column="93" />
+        <mark key="]" line="127" column="40" />
+        <mark key="^" line="127" column="40" />
+        <mark key="." line="127" column="40" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/.htaccess" timestamp="1513187656226">
         <mark key="[" line="7" column="3" />
@@ -301,38 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/CharterController.php" />
-      <jump line="151" column="0" filename="/CharterController.php" />
-      <jump line="181" column="17" filename="/CharterController.php" />
-      <jump line="11" column="18" filename="/CharterController.php" />
-      <jump line="10" column="18" filename="/CharterController.php" />
-      <jump line="35" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Service.php" />
-      <jump line="11" column="62" filename="$USER_HOME$/PhpstormProjects/stormm/app/Bootstrap.php" />
-      <jump line="42" column="15" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/zendframework/zendframework1/library/Zend/Db/Adapter/Abstract.php" />
-      <jump line="53" column="58" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connections/MasterSlaveConnection.php" />
-      <jump line="54" column="14" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connections/MasterSlaveConnection.php" />
-      <jump line="37" column="10" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connections/MasterSlaveConnection.php" />
-      <jump line="48" column="15" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connections/MasterSlaveConnection.php" />
-      <jump line="50" column="28" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connections/MasterSlaveConnection.php" />
-      <jump line="1042" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php" />
-      <jump line="826" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php" />
-      <jump line="898" column="52" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php" />
-      <jump line="921" column="23" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php" />
-      <jump line="509" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php" />
-      <jump line="524" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php" />
-      <jump line="540" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php" />
-      <jump line="784" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php" />
-      <jump line="33" column="36" filename="$USER_HOME$/PhpstormProjects/stormm/src/LegacyBundle/Controller/FallbackController.php" />
-      <jump line="19" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/src/LegacyBundle/Controller/FallbackController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/Makefile" />
-      <jump line="21" column="15" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Controller/Twig/TwigCrudAction.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification/CertificationValidity.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification/CertificationValidity.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification/CertificationValidity.php" />
-      <jump line="3015" column="64" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
-      <jump line="1825" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
-      <jump line="2466" column="44" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
-      <jump line="2886" column="25" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
       <jump line="3011" column="25" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
       <jump line="246" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
       <jump line="336" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
@@ -401,6 +370,38 @@
       <jump line="2673" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff.php" />
       <jump line="200" column="29" filename="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification.php" />
       <jump line="192" column="35" filename="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification.php" />
+      <jump line="531" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="117" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="118" column="34" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="48" column="62" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="242" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="122" column="45" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="152" column="50" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="255" column="91" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="81" column="50" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="350" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="320" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="329" column="9" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="332" column="25" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="347" column="62" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="361" column="59" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="391" column="38" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="396" column="38" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="403" column="28" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="405" column="31" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="579" column="23" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="580" column="19" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="581" column="33" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="588" column="19" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="591" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="597" column="28" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="6" column="25" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="65" column="73" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="66" column="52" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="82" column="60" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="124" column="9" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="18" column="4" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="125" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -416,49 +417,49 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>course</text>
+        <text>moodle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFxTdG9ybW1CdW5kbGVcRW50aXR5XFN0YWZmQ2VydGlmaWNhdGlvbiAkY2VydGlmaWNhdGlvbiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RhZmYgPSAkdGhpcy0+Z2V0U3lzdGVtVXNlcigpOwogICAgICAgIC8qKiBAdmFyIENvbXBldGVuY3lBbmRDZXJ0aWZpY2F0aW9uU2VydmljZSAkY29tcGV0ZW5jeUNlcnRpZmljYXRpb25TZXJ2aWNlICovCiAgICAgICAgJGNvbXBldGVuY3lDZXJ0aWZpY2F0aW9uU2VydmljZSA9ICR0aGlzLT5nZXQoImNvbXBldGVuY3lfYW5kX2NlcnRpZmljYXRpb25fc2VydmljZSIpOwogICAgICAgICRyZXF1aXJlZENlcnRpZmljYXRpb25zID0gJGNvbXBldGVuY3lDZXJ0aWZpY2F0aW9uU2VydmljZS0+Z2V0UmVxdWlyZWRDZXJ0aWZpY2F0aW9ucygkc3RhZmYpOwoKICAgICAgICAvKiogQHZhciBTdGFmZkNlcnRpZmljYXRpb25TZXJ2aWNlICRzdGFmZkNlcnRpZmljYXRpb25TZXJ2aWNlICovCiAgICAgICAgJHN0YWZmQ2VydGlmaWNhdGlvblNlcnZpY2UgPSAkdGhpcy0+Z2V0KCJzdG9ybW0uc2VydmljZS5zdGFmZl9jZXJ0aWZpY2F0aW9uX3NlcnZpY2UiKTsKICAgICAgICAkc3RhZmZDZXJ0aWZpY2F0aW9ucyA9ICRzdGFmZkNlcnRpZmljYXRpb25TZXJ2aWNlLT5nZXRTdGFmZkNlcnRpZmljYXRpb25zRm9yUmVxdWlyZWRDZXJ0aWZpY2F0aW9ucygKICAgICAgICAgICAgJHJlcXVpcmVkQ2VydGlmaWNhdGlvbnMsCiAgICAgICAgICAgICRzdGFmZgogICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT52aWV3LT5mYXN0TAo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWlyZWRDZXJ0aWZpY2F0aW9ucyA9ICRjb21wZXRlbmN5Q2VydGlmaWNhdGlvblNlcnZpY2UtPmdldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT52aWV3LT5mYXN0bGlua3MgPSAkZmFzdExpbmtzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIENlcnRpZmljYXRpb24gJGNlcnRpZmljYXRpb24gKi8K</text>
+        <text encoding="base64">ICAgICAgICAkc3RhZmYgPSAkdGhpcy0+Z2V0U3lzdGVtVXNlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkY2VydGlmaWNhdGlvbi0+Z2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2VydGlmaWNhdGlvbnMgPSAkc3RhZmYtPmdldENlcnRpZmljYXRpb25zKCk7CiAgICAgICAgLyoqIEB2YXIgXFN0b3JtbUJ1bmRsZVxFbnRpdHlcU3RhZmZDZXJ0aWZpY2F0aW9uICRjZXJ0aWZpY2F0aW9uICovCiAgICAgICAgZm9yZWFjaCAoJGNlcnRpZmljYXRpb25zIGFzICRjZXJ0aWZpY2F0aW9uKSB7CiAgICAgICAgICAgICRjZXJ0aWZpY2F0aW9uLT5nZXRDZXJ0aWZpY2F0aW9uRWxlYXJuaW5nQWJzb2x1dGVVcmwoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT52aWV3LT5mYXN0bGlua1tdID0gJHRoaXMtPmdldFVzZXIoKS0+Z2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT52aWV3LT4K</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciAgJGNlcnRpZmljYXRpb24gKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBTdG9ybW1cQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb25cRW50aXR5OwoKdXNlIERvY3RyaW5lXE9STVxNYXBwaW5nIGFzIE9STTsKdXNlIEdlZG1vXE1hcHBpbmdcQW5ub3RhdGlvbiBhcyBHZWRtbzsKdXNlIFN0b3JtbV9BY2xfRW50aXR5Owp1c2UgU3Rvcm1tX0NvbmZpZ19Jbmk7CnVzZSBTdG9ybW1fRGF0ZVRpbWU7CnVzZSBTdG9ybW1fU3RhZmY7CgovKioKICogQ2xhc3MgQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb24KICogQHBhY2thZ2UgU3Rvcm1tXENvbXBldGVuY3lBbmRDZXJ0aWZpY2F0aW9uXEVudGl0eQogKiBAT1JNXFRhYmxlKG5hbWU9Im1tX2NvbXBldGVuY3lfYW5kX2NlcnRpZmljYXRpb24iKQogKiBAT1JNXEVudGl0eShyZXBvc2l0b3J5Q2xhc3M9IlN0b3JtbVxDb21wZXRlbmN5QW5kQ2VydGlmaWNhdGlvblxSZXBvc2l0b3J5XENvbXBldGVuY3lBbmRDZXJ0aWZpY2F0aW9uUmVwb3NpdG9yeSIpCiAqLwpjbGFzcyBDb21wZXRlbmN5QW5kQ2VydGlmaWNhdGlvbiBpbXBsZW1lbnRzIFN0b3JtbV9BY2xfRW50aXR5IHsKCiAgICAvKioKICAgICAqIEB2YXIgaW50ZWdlcgogICAgICogQE9STVxDb2x1bW4obmFtZT0iY2FjX2lkIiwgdHlwZT0iaW50ZWdlciIpCiAgICAgKiBAT1JNXEdlbmVyYXRlZFZhbHVlKHN0cmF0ZWd5PSJBVVRPIikKICAgICAqIEBPUk1cSWQoKQogICAgICovCiAgICBwcm90ZWN0ZWQgJGlkOwoKICAgIC8qKgogICAgICogQHZhciBDb21wZXRlbmN5T3JDZXJ0aWZpY2F0aW9uVHlwZQogICAgICogQE9STVxFbWJlZGRlZCgKICAgICAqICAgICBjbGFzcz0iU3Rvcm1tXENvbXBldGVuY3lBbmRDZXJ0aWZpY2F0aW9uXEVudGl0eVxDb21wZXRlbmN5T3JDZXJ0aWZpY2F0aW9uVHlwZSIsIGNvbHVtblByZWZpeD0iY2FjX3R5cGVfIgogICAgICogKQogICAgICovCiAgICBwcm90ZWN0ZWQgJHR5cGU7CgogICAgLyoqCiAgICAgKiBAdmFyIHN0cmluZwogICAgICogQE9STVxDb2x1bW4obmFtZT0iY2FjX25hbWUiLCB0eXBlPSJzdHJpbmciKQogICAgICovCiAgICBwcm90ZWN0ZWQgJG5hbWU7CgogICAgLyoqCiAgICAgKiBAdmFyIHN0cmluZwogICAgICogQE9STVxDb2x1bW4obmFtZT0iY2FjX2Rlc2NyaXB0aW9uIiwgdHlwZT0idGV4dCIpCiAgICAgKi8KICAgIHByb3RlY3RlZCAkZGVzY3JpcHRpb247CgogICAgLyoqCiAgICAgKiBAdmFyIGludGVnZXIKICAgICAqIEBPUk1cQ29sdW1uKG5hbWU9ImNhY192YWxpZF9mb3IiLCB0eXBlPSJzbWFsbGludCIpCiAgICAgKi8KICAgIHByb3RlY3RlZCAkdmFsaWRGb3I7CgogICAgLyoqCiAgICAgKiBAdmFyIGJvb2xlYW4KICAgICAqIEBPUk1cQ29sdW1uKG5hbWU9ImNhY19pbmRlZmluaXRlbHkiLCB0eXBlPSJib29sZWFuIikKICAgICAqLwogICAgcHJvdGVjdGVkICRpbmRlZmluaXRlbHk7CgogICAgLyoqCiAgICAgKiBAdmFyIGludGVnZXIKICAgICAqIEBPUk1cQ29sdW1uKG5hbWU9ImNhY19tb29kbGVfaWQiLCB0eXBlPSJpbnRlZ2VyIikKICAgICAqLwogICAgcHJvdGVjdGVkICRtb29kbGVJZDsKCiAgICAvKioKICAgICAqIEB2YXIgc3RyaW5nCiAgICAgKiBAT1JNXENvbHVtbihuYW1lPSJjYWNfdXJsIiwgdHlwZT0ic3RyaW5nIiwgbGVuZ3RoPTIwODMpCiAgICAgKi8KICAgIHByb3RlY3RlZCAkZWxlYXJuaW5nVXJsOwoKICAgIC8qKgogICAgICogQHZhciBDb21wZXRlbmN5QW5kQ2VydGlmaWNhdGlvbkNhcmVlcgogICAgICogQE9STVxFbWJlZGRlZCgKICAgICAqICAgICBjbGFzcz0iU3Rvcm1tXENvbXBldGVuY3lBbmRDZXJ0aWZpY2F0aW9uXEVudGl0eVxDb21wZXRlbmN5QW5kQ2VydGlmaWNhdGlvbkNhcmVlciIsIGNvbHVtblByZWZpeD0iY2FjX2Nya18iCiAgICAgKiApCiAgICAgKi8KICAgIHByb3RlY3RlZCAkY2FyZWVyUmVhbHR5OwoKICAgIC8qKgogICAgICogQHZhciBDb21wZXRlbmN5QW5kQ2VydGlmaWNhdGlvbkNhcmVlcgogICAgICogQE9STVxFbWJlZGRlZCgKICAgICAqICAgICBjbGFzcz0iU3Rvcm1tXENvbXBldGVuY3lBbmRDZXJ0aWZpY2F0aW9uXEVudGl0eVxDb21wZXRlbmN5QW5kQ2VydGlmaWNhdGlvbkNhcmVlciIsIGNvbHVtblByZWZpeD0iY2FjX2NpbnNfIgogICAgICogKQogICAgICovCiAgICBwcm90ZWN0ZWQgJGNhcmVlckluc3VyYW5jZTsKCiAgICAvKioKICAgICAqIEB2YXIgQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb25DYXJlZXIKICAgICAqIEBPUk1cRW1iZWRkZWQoCiAgICAgKiAgICAgY2xhc3M9IlN0b3JtbVxDb21wZXRlbmN5QW5kQ2VydGlmaWNhdGlvblxFbnRpdHlcQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb25DYXJlZXIiLCBjb2x1bW5QcmVmaXg9ImNhY19jbW9yXyIKICAgICAqICkKICAgICAqLwogICAgcHJvdGVjdGVkICRjYXJlZXJNb3J0Z2FnZTsKCiAgICAvKioKICAgICAqIEB2YXIgQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb25DYXJlZXIKICAgICAqIEBPUk1cRW1iZWRkZWQoCiAgICAgKiAgICAgY2xhc3M9IlN0b3JtbVxDb21wZXRlbmN5QW5kQ2VydGlmaWNhdGlvblxFbnRpdHlcQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb25DYXJlZXIiLCBjb2x1bW5QcmVmaXg9ImNhY19jaHFfIgogICAgICogKQogICAgICovCiAgICBwcm90ZWN0ZWQgJGNhcmVlckhlYWRxdWFydGVyczsKCiAgICAvKioKICAgICAqIEB2YXIgYm9vbGVhbgogICAgICogQE9STVxDb2x1bW4obmFtZT0iY2FjX2FjdGl2ZSIsIHR5cGU9ImJvb2xlYW4iKQogICAgICovCiAgICBwcm90ZWN0ZWQgJGFjdGl2ZTsKCiAgICAvKioKICAgICAqIEB2YXIgU3Rvcm1tX0RhdGVUaW1lCiAgICAgKiBAR2VkbW9cVGltZXN0YW1wYWJsZShvbj0iY3JlYXRlIikKICAgICAqIEBPUk1cQ29sdW1uKG5hbWU9ImNhY19kYXRlX2NyZWF0ZSIsIHR5cGU9ImRhdGV0aW1lIikKICAgICAqLwogICAgcHJvdGVjdGVkICRkYXRlQ3JlYXRlOwogICAgLyoqCiAgICAgKiBAdmFyIFN0b3JtbV9EYXRlVGltZQogICAgICogQEdlZG1vXFRpbWVzdGFtcGFibGUob249InVwZGF0ZSIpCiAgICAgKiBAT1JNXENvbHVtbihuYW1lPSJjYWNfZGF0ZV91cGRhdGUiLCB0eXBlPSJkYXRldGltZSIpCiAgICAgKi8KICAgIHByb3RlY3RlZCAkZGF0ZVVwZGF0ZTsKICAgIC8qKgogICAgICogQHZhciBTdG9ybW1fU3RhZmYKICAgICAqIEBPUk1cTWFueVRvT25lKHRhcmdldEVudGl0eT0iXFN0b3JtbV9TdGFmZiIpCiAgICAgKiBAT1JNXEpvaW5Db2x1bW4obmFtZT0iY2FjX3NfaWRfY3JlYXRlIiwgcmVmZXJlbmNlZENvbHVtbk5hbWU9InNfaWQiKQogICAgICovCiAgICBwcm90ZWN0ZWQgJHVzZXJDcmVhdGU7CiAgICAvKioKICAgICAqIEB2YXIgU3Rvcm1tX1N0YWZmCiAgICAgKiBAT1JNXE1hbnlUb09uZSh0YXJnZXRFbnRpdHk9IlxTdG9ybW1fU3RhZmYiKQogICAgICogQE9STVxKb2luQ29sdW1uKG5hbWU9ImNhY19zX2lkX3VwZGF0ZSIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lPSJzX2lkIikKICAgICAqLwogICAgcHJvdGVjdGVkICR1c2VyVXBkYXRlOwoKICAgIC8qKiBAdmFyICBib29sICovCiAgICBwcm90ZWN0ZWQgJGlzTWluZTsKICAgIC8qKiBAdmFyICBib29sICovCiAgICBwcm90ZWN0ZWQgJGlzTXlTdHJ1Y3R1cmU7CiAgICAvKiogQHZhciAgYm9vbCAqLwogICAgcHJvdGVjdGVkICRpc015QnJhbmNoOwoKICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldElkKCkgewogICAgICAgIHJldHVybiAkdGhpcy0+aWQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gaW50ICRpZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0SWQoJGlkKSB7CiAgICAgICAgJHRoaXMtPmlkID0gJGlkOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBDb21wZXRlbmN5T3JDZXJ0aWZpY2F0aW9uVHlwZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VHlwZSgpIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnR5cGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIGludHxudWxsCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUeXBlSWQoKSB7CiAgICAgICAgcmV0dXJuICgkdGhpcy0+Z2V0VHlwZSgpKSA/ICR0aGlzLT5nZXRUeXBlKCktPmdldElkKCkgOiBudWxsOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFR5cGVOYW1lKCkgewogICAgICAgICRuYW1lID0gJyc7CiAgICAgICAgaWYgKCR0aGlzLT5nZXRUeXBlKCkgJiYgaXNzZXQoQ29tcGV0ZW5jeU9yQ2VydGlmaWNhdGlvblR5cGU6OiRuYW1lc1skdGhpcy0+Z2V0VHlwZUlkKCldKSkgewogICAgICAgICAgICAkbmFtZSA9IENvbXBldGVuY3lPckNlcnRpZmljYXRpb25UeXBlOjokbmFtZXNbJHRoaXMtPmdldFR5cGVJZCgpXTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkbmFtZTsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBDb21wZXRlbmN5T3JDZXJ0aWZpY2F0aW9uVHlwZSAkdHlwZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0VHlwZSgkdHlwZSkgewogICAgICAgICR0aGlzLT50eXBlID0gJHR5cGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm5hbWU7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gc3RyaW5nICRuYW1lCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXROYW1lKCRuYW1lKSB7CiAgICAgICAgJHRoaXMtPm5hbWUgPSAkbmFtZTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREZXNjcmlwdGlvbigpIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmRlc2NyaXB0aW9uOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkZGVzY3JpcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldERlc2NyaXB0aW9uKCRkZXNjcmlwdGlvbikgewogICAgICAgICR0aGlzLT5kZXNjcmlwdGlvbiA9ICRkZXNjcmlwdGlvbjsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gaW50CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRWYWxpZEZvcigpIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnZhbGlkRm9yOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIGludCAkdmFsaWRGb3IKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldFZhbGlkRm9yKCR2YWxpZEZvcikgewogICAgICAgICR0aGlzLT52YWxpZEZvciA9ICR2YWxpZEZvcjsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gYm9vbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gaXNJbmRlZmluaXRlbHkoKSB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5pbmRlZmluaXRlbHk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gYm9vbCAkaW5kZWZpbml0ZWx5CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRJbmRlZmluaXRlbHkoJGluZGVmaW5pdGVseSkgewogICAgICAgICR0aGlzLT5pbmRlZmluaXRlbHkgPSAkaW5kZWZpbml0ZWx5OwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE1vb2RsZUlkKCkgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9vZGxlSWQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gaW50ICRtb29kbGVJZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0TW9vZGxlSWQoJG1vb2RsZUlkKSB7CiAgICAgICAgJHRoaXMtPm1vb2RsZUlkID0gJG1vb2RsZUlkOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEVsZWFybmluZ1VybCgpIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmVsZWFybmluZ1VybDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRFbGVhcm5pbmdDb3Vyc2VBYnNvbHV0ZVVybCgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBTdGFmZkNlcnRpZmljYXRpb25TZXJ2aWNlICRzdGFmZkNlcnRpZmljYXRpb25TZXJ2aWNlICovCiAgICAgICAgJHN0YWZmQ2VydGlmaWNhdGlvblNlcnZpY2UgPSAkdGhpcy0+Z2V0KCJzdG9ybW0uc2VydmljZS5zdGFmZl9jZXJ0aWZpY2F0aW9uX3NlcnZpY2UiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJ2NsaScgIT09IFBIUF9TQVBJIHx8ICR0aGlzLT5pc0RlYnVnKCkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>course</last-search>
+      <last-search>moodle</last-search>
       <last-offset />
-      <last-pattern>course</last-pattern>
+      <last-pattern>moodle</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -466,13 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>executequery</entry>
-        <entry>phpcs</entry>
-        <entry>indexaction</entry>
-        <entry>client</entry>
-        <entry>okres</entry>
-        <entry>branches</entry>
-        <entry>findmanager</entry>
         <entry>pro seznam</entry>
         <entry>infoLine</entry>
         <entry>nabídky p</entry>
@@ -486,6 +480,13 @@
         <entry>sessino</entry>
         <entry>fastline</entry>
         <entry>course</entry>
+        <entry>$staff</entry>
+        <entry>fastlinks</entry>
+        <entry>getcerti</entry>
+        <entry>fast links</entry>
+        <entry>Fast</entry>
+        <entry>staff</entry>
+        <entry>moodle</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
