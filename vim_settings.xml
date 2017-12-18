@@ -66,7 +66,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Service/CompetencyAndCertificationService.php" timestamp="1513603361714">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Service/CompetencyAndCertificationService.php" timestamp="1513606330721">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
@@ -185,6 +185,7 @@
         <mark key="." line="64" column="23" />
         <mark key="^" line="64" column="23" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Repository/StaffCertificationRepository.php" timestamp="1513606172680" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/AppKernel.php" timestamp="1513586661925">
         <mark key="[" line="85" column="7" />
         <mark key="]" line="85" column="17" />
@@ -201,7 +202,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="4" />
       </file>
-      <file name="/PHP Console" timestamp="1513604499442">
+      <file name="/PHP Console" timestamp="1513607295243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src_frontend/assets/js/modules/additional-service-requirement.form.js" timestamp="1511525210156">
@@ -252,11 +253,12 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Service/StaffCertificationService.php" timestamp="1513604644215">
-        <mark key="[" line="79" column="66" />
-        <mark key="]" line="79" column="83" />
-        <mark key="." line="79" column="83" />
-        <mark key="^" line="79" column="83" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Service/StaffCertificationService.php" timestamp="1513607240938">
+        <mark key="'" line="66" column="19" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="79" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Calendar/Module.php" timestamp="1502088017224">
         <mark key="[" line="14" column="10" />
@@ -296,14 +298,14 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" timestamp="1513603471640">
-        <mark key="'" line="125" column="42" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="128" column="24" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" timestamp="1513607265884">
+        <mark key="'" line="270" column="77" />
+        <mark key="[" line="530" column="32" />
+        <mark key="]" line="530" column="34" />
+        <mark key="^" line="530" column="34" />
+        <mark key="." line="530" column="34" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php" timestamp="1513604032369" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php" timestamp="1513607000177" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/.htaccess" timestamp="1513187656226">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="9" />
@@ -312,14 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="686" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
-      <jump line="820" column="37" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="28" column="55" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" />
-      <jump line="209" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="2038" column="61" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="984" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="988" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="992" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
@@ -412,6 +406,14 @@
       <jump line="51" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" />
       <jump line="219" column="23" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" />
       <jump line="115" column="6" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" />
+      <jump line="71" column="14" filename="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Service/StaffCertificationService.php" />
+      <jump line="70" column="51" filename="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Service/StaffCertificationService.php" />
+      <jump line="530" column="32" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="127" column="70" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="130" column="84" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="131" column="13" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="270" column="77" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" />
+      <jump line="65" column="19" filename="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Service/StaffCertificationService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -427,49 +429,49 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>crk</text>
+        <text>requiredce</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZW0tPmZpbmQoU3RhZmZDZXJ0aWZpY2F0aW9uOjpjbGFzcywgJGNyaXRlcmlhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZW0tPmZpbmQoU3RhZmZDZXJ0aWZpY2F0aW9uOjpjbGFzcywgJGNyaXRlcmlhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZW0tPmZpbmQoU3RhZmZDZXJ0aWZpY2F0aW9uOjpjbGFzcywgJGNyaXRlcmlhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkIENvbGxlY3Rpb246Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhZmZDZXJ0UmVwbyA9ICRlbS0+Z2V0UmVwb3NpdG9yeShTdGFmZkNlcnRpZmljYXRpb246OmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdCA9IC9Eb2N0cmluZS9Db21tb24vQ29sbGVjdGlvbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhZmZDZXJ0UmVwby0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbm93LT5zZXRUaW1lKDAsIDApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb25DYXJlZXI6OklEX1JFUVVJUkVECg==</text>
+        <text encoding="base64">ICAgICAgICAkbm93ID0gbmV3IFN0b3JtbV9EYXRlVGltZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb25RdWVyeTo6RklMVEVSX0NBUkVFUl9TVEFUVVMsCg==</text>
+        <text encoding="base64">ICAgICAgICAkY3JpdGVyaWEgPSBuZXcgQ3JpdGVyaWEoKTsKICAgICAgICAkY3JpdGVyaWEtPndoZXJlKCRjcml0ZXJpYS0+ZXhwcigpLT5pbignY2VydGlmaWNhdGlvbicsICRjZXJ0aWZpY2F0aW9ucykpOwogICAgICAgICRjcml0ZXJpYS0+YW5kV2hlcmUoJGNyaXRlcmlhLT5leHByKCktPmVxKCdzdGFmZicsICRzdGFmZikpOwogICAgICAgICRjcml0ZXJpYS0+YW5kV2hlcmUoJGNyaXRlcmlhLT5leHByKCktPmVxKCdhY3RpdmUnLCB0cnVlKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPmFkZEZpbHRlcigK</text>
+        <text encoding="base64">ICAgICAgICAkY3JpdGVyaWEtPndoZXJlKCRjcml0ZXJpYS0+ZXhwcigpLT5pbignY2VydGlmaWNhdGlvbicsICRjZXJ0aWZpY2F0aW9ucykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPmFkZEZpbHRlcihDb21wZXRlbmN5QW5kQ2VydGlmaWNhdGlvblF1ZXJ5OjpGSUxURVJfQ0FSRUVSUywgJGNhcmVlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY3JpdGVyaWEtPmFuZFdoZXJlKCRjcml0ZXJpYS0+ZXhwcigpLT5lcSgnYWN0aXZlJywgdHJ1ZSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>crk</last-search>
+      <last-search>requiredce</last-search>
       <last-offset />
-      <last-pattern>crk</last-pattern>
+      <last-pattern>requiredce</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -477,7 +479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>infoLine</entry>
         <entry>nabídky p</entry>
         <entry>nabídky</entry>
         <entry>findinvestment</entry>
@@ -497,6 +498,7 @@
         <entry>staff</entry>
         <entry>moodle</entry>
         <entry>crk</entry>
+        <entry>requiredce</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -516,8 +518,8 @@
         <entry>q</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action OverrideMethods</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ParameterInfo</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
