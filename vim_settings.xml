@@ -139,7 +139,12 @@
         <mark key="." line="0" column="87" />
         <mark key="^" line="0" column="123" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/db/mass_updates/2008-11-26.txt" timestamp="1513346914333" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_8.sql" timestamp="1513581300242">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-moodle-plugin/completion_cron_task/course_completion_class.php" timestamp="1511521113255">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="28" />
@@ -171,6 +176,7 @@
         <mark key="." line="64" column="23" />
         <mark key="^" line="64" column="23" />
       </file>
+      <file name="/201711271243_MM-3734_add_cash_register_payment_client_types.php" timestamp="1513581647893" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/AppKernel.php" timestamp="1513339739626">
         <mark key="[" line="59" column="73" />
         <mark key="]" line="59" column="82" />
@@ -205,7 +211,7 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1513188563608">
+      <file name="/dummy.sql" timestamp="1513581267242">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -429,7 +435,7 @@
         <text encoding="base64">U0VMRUNUCiAgYG1tX3N0YWZmYC5gc19pZGAsCiAgYG1tX3N0YWZmYC5gc19tb2JpbGVgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBwaG9uZWAsCiAgYG1tX3N0YWZmYC5gc19lbWFpbGAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBlbWFpbGAsCiAgZ2V0RnVsbE5hbWUoc19pZCwgMCwgMCwgMCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBmdWxsbmFtZWAsCiAgSUYoc19pZCBJTiAoU0VMRUNUIGJfc2FfaWRfYXNzaXN0YW50MQogICAgICAgICAgICAgIEZST00gbW1fYnJhbmNoZXMKICAgICAgICAgICAgICBXSEVSRSBiX3R5cGUgSU4gKDEsIDMpIEFORCBiX3pzX2lkID0gc196c19pZCBBTkQgYl9hY3RpdmUgPSAxIEFORCBiX3JlbW92ZWQgPSAwKSwgMSwgMCkgQVMgYGFzc2lzdGFudDFgLAogIElGKHNfaWQgSU4gKFNFTEVDVCBiX3NhX2lkX3JlZ2lvbl9tYW5hZ2VyCiAgICAgICAgICAgICAgRlJPTSBtbV9icmFuY2hlcwogICAgICAgICAgICAgIFdIRVJFIGJfdHlwZSBJTiAoMSwgMykgQU5EIGJfenNfaWQgPSBzX3pzX2lkIEFORCBiX2FjdGl2ZSA9IDEgQU5EIGJfcmVtb3ZlZCA9IDApLCAxLAogICAgICAgICAgICAgIEZST00gbW1fYnJhbmNoZXMKICAgICAgICAgICAgICBXSEVSRSBiX3R5cGUgSU4gKDEsIDMpIEFORCBiX3pzX2lkID0gc196c19pZCBBTkQgYl9hY3RpdmUgPSAxIEFORCBiX3JlbW92ZWQgPSAwKSwgMSwKICAgICAwKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYGRpc3RyaWN0X2RpcmVjdG9yYCwKICBJRihzX2lkIElOIChTRUxFQ1QgYl9zYV9pZF9kaXN0cmljdF9tYW5hZ2VyCiAgICAgICAgICAgICAgRlJPTSBtbV9icmFuY2hlcwogICAgICAgICAgICAgIFdIRVJFIGJfdHlwZSBJTiAoMSwgMykgQU5EIGJfenNfaWQgPSBzX3pzX2lkIEFORCBiX2FjdGl2ZSA9IDEgQU5EIGJfcmVtb3ZlZCA9IDApLCAxLAogICAgIDApICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBgZGlzdHJpY3RfbWFuYWdlcmAsCiAgSUYoc19pZCBJTiAoU0VMRUNUIGJfc2FfaWRfYnJhbmNoX21hbmFnZXIKICAgICAgICAgICAgICBGUk9NIG1tX2JyYW5jaGVzCiAgICAgICAgICAgICAgV0hFUkUgYl90eXBlIElOICgxLCAzKSBBTkQgYl96c19pZCA9IHNfenNfaWQgQU5EIGJfYWN0aXZlID0gMSBBTkQgYl9yZW1vdmVkID0gMCksIDEsCiAgICAgMCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGBicmFuY2hfbWFuYWdlcmAsCiAgSUYoc19pZCBJTiAoU0VMRUNUIGJfc2FfaWRfY29udGFjdF9wbGFjZV9tYW5hZ2VyCiAgICAgICAgICAgICAgRlJPTSBtbV9icmFuY2hlcwogICAgICAgICAgICAgIFdIRVJFIGJfdHlwZSBJTiAoMSwgMykgQU5EIGJfenNfaWQgPSBzX3pzX2lkIEFORCBiX2FjdGl2ZSA9IDEgQU5EIGJfcmVtb3ZlZCA9IDApLCAxLAogICAgIDApICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBgY29udGFjdF9wbGFjZV9tYW5hZ2VyYApGUk9NIGBtbV9zdGFmZmAKV0hFUkUgKHNfenNfaWQgPSAxIEFORCBzX3N0YXR1cyA9IDEgQU5EIHNfcmVtb3ZlZCA9IDApCkhBVklORyAoKGFzc2lzdGFudDEgPSAxIE9SIGJyYW5jaF9tYW5hZ2VyID0gMSBPUiBjb250YWN0X3BsYWNlX21hbmFnZXIgPSAxKSBBTkQKICAgICAgICAocmVnaW9uX21hbmFnZXIgPSAwIEFORCBkaXN0cmljdF9kaXJlY3RvciA9IDAgQU5EIGRpc3RyaWN0X21hbmFnZXIgPSAwKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -479,12 +485,12 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action Find</entry>
         <entry>action $SelectAll</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>186</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>q</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
