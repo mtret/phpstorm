@@ -12,9 +12,9 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513585762159">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513586652606">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="5" />
       </file>
       <file name="/AppKernel.php" timestamp="1513336186994">
@@ -139,11 +139,11 @@
         <mark key="." line="0" column="87" />
         <mark key="^" line="0" column="123" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_8.sql" timestamp="1513581300242">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_8.sql" timestamp="1513586772385">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-moodle-plugin/completion_cron_task/course_completion_class.php" timestamp="1511521113255">
         <mark key="[" line="3" column="15" />
@@ -181,10 +181,10 @@
         <mark key="^" line="64" column="23" />
       </file>
       <file name="/201711271243_MM-3734_add_cash_register_payment_client_types.php" timestamp="1513581647893" />
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/AppKernel.php" timestamp="1513339739626">
-        <mark key="[" line="59" column="73" />
-        <mark key="]" line="59" column="82" />
-        <mark key="." line="59" column="82" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/AppKernel.php" timestamp="1513586661925">
+        <mark key="[" line="85" column="7" />
+        <mark key="]" line="85" column="17" />
+        <mark key="." line="85" column="7" />
         <mark key="^" line="59" column="82" />
       </file>
       <file name="restClient/response1.json" timestamp="1513163013194">
@@ -215,7 +215,7 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1513585715035">
+      <file name="/dummy.sql" timestamp="1513586741846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -409,7 +409,7 @@
         <text>sessino</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">NDkxNzAwMDAyMQo=</text>
+        <text />
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
