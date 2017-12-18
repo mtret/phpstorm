@@ -12,7 +12,7 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513602890432">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513603445225">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="5" />
@@ -66,7 +66,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Service/CompetencyAndCertificationService.php" timestamp="1513602765398">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Service/CompetencyAndCertificationService.php" timestamp="1513603361714">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
@@ -185,8 +185,6 @@
         <mark key="." line="64" column="23" />
         <mark key="^" line="64" column="23" />
       </file>
-      <file name="/201711271243_MM-3734_add_cash_register_payment_client_types.php" timestamp="1513581647893" />
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Homepage/Widget/Module.php" timestamp="1513595423942" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/AppKernel.php" timestamp="1513586661925">
         <mark key="[" line="85" column="7" />
         <mark key="]" line="85" column="17" />
@@ -203,7 +201,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="4" />
       </file>
-      <file name="/PHP Console" timestamp="1513602583003">
+      <file name="/PHP Console" timestamp="1513604499442">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src_frontend/assets/js/modules/additional-service-requirement.form.js" timestamp="1511525210156">
@@ -224,12 +222,12 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1513602258023">
+      <file name="/dummy.sql" timestamp="1513603898355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513602767057">
+      <file name="/Dummy.txt" timestamp="1513603110337">
         <mark key="e" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -254,7 +252,12 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Service/StaffCertificationService.php" timestamp="1513601791729" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Service/StaffCertificationService.php" timestamp="1513604644215">
+        <mark key="[" line="79" column="66" />
+        <mark key="]" line="79" column="83" />
+        <mark key="." line="79" column="83" />
+        <mark key="^" line="79" column="83" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Calendar/Module.php" timestamp="1502088017224">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="55" />
@@ -272,8 +275,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" timestamp="1513602824007">
-        <mark key="'" line="219" column="23" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" timestamp="1513603013225">
+        <mark key="'" line="115" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -293,13 +296,14 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" timestamp="1513602195814">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" timestamp="1513603471640">
         <mark key="'" line="125" column="42" />
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="^" line="128" column="24" />
         <mark key="." line="128" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php" timestamp="1513604032369" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/.htaccess" timestamp="1513187656226">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="9" />
@@ -308,7 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="618" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
       <jump line="686" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
       <jump line="820" column="37" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" />
@@ -408,6 +411,7 @@
       <jump line="226" column="24" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" />
       <jump line="51" column="17" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" />
       <jump line="219" column="23" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" />
+      <jump line="115" column="6" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -423,49 +427,49 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>moodle</text>
+        <text>crk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhZmYgPSAkdGhpcy0+Z2V0U3lzdGVtVXNlcigpOwogICAgICAgIC8qKiBAdmFyIENvbXBldGVuY3lBbmRDZXJ0aWZpY2F0aW9uU2VydmljZSAkY29tcGV0ZW5jeUNlcnRpZmljYXRpb25TZXJ2aWNlICovCiAgICAgICAgJGNvbXBldGVuY3lDZXJ0aWZpY2F0aW9uU2VydmljZSA9ICR0aGlzLT5nZXQoImNvbXBldGVuY3lfYW5kX2NlcnRpZmljYXRpb25fc2VydmljZSIpOwogICAgICAgICRyZXF1aXJlZENlcnRpZmljYXRpb25zID0gJGNvbXBldGVuY3lDZXJ0aWZpY2F0aW9uU2VydmljZS0+Z2V0UmVxdWlyZWRDZXJ0aWZpY2F0aW9ucygkc3RhZmYpOwoKICAgICAgICAvKiogQHZhciBTdGFmZkNlcnRpZmljYXRpb25TZXJ2aWNlICRzdGFmZkNlcnRpZmljYXRpb25TZXJ2aWNlICovCiAgICAgICAgJHN0YWZmQ2VydGlmaWNhdGlvblNlcnZpY2UgPSAkdGhpcy0+Z2V0KCJzdG9ybW0uc2VydmljZS5zdGFmZl9jZXJ0aWZpY2F0aW9uX3NlcnZpY2UiKTsKICAgICAgICAkc3RhZmZDZXJ0aWZpY2F0aW9ucyA9ICRzdGFmZkNlcnRpZmljYXRpb25TZXJ2aWNlLT5nZXRTdGFmZkNlcnRpZmljYXRpb25zRm9yUmVxdWlyZWRDZXJ0aWZpY2F0aW9ucygKICAgICAgICAgICAgJHJlcXVpcmVkQ2VydGlmaWNhdGlvbnMsCiAgICAgICAgICAgICRzdGFmZgogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZW0tPmZpbmQoU3RhZmZDZXJ0aWZpY2F0aW9uOjpjbGFzcywgJGNyaXRlcmlhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZW0tPmZpbmQoU3RhZmZDZXJ0aWZpY2F0aW9uOjpjbGFzcywgJGNyaXRlcmlhKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb25DYXJlZXI6OklEX1JFUVVJUkVECg==</text>
+        <text encoding="base64">ICAgICAgICAkZW0tPmZpbmQoU3RhZmZDZXJ0aWZpY2F0aW9uOjpjbGFzcywgJGNyaXRlcmlhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb25RdWVyeTo6RklMVEVSX0NBUkVFUl9TVEFUVVMsCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RhZmZDZXJ0UmVwbyA9ICRlbS0+Z2V0UmVwb3NpdG9yeShTdGFmZkNlcnRpZmljYXRpb246OmNsYXNzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPmFkZEZpbHRlcigK</text>
+        <text encoding="base64">ICAgICAgICAkc3RhZmZDZXJ0UmVwby0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPmFkZEZpbHRlcihDb21wZXRlbmN5QW5kQ2VydGlmaWNhdGlvblF1ZXJ5OjpGSUxURVJfQ0FSRUVSUywgJGNhcmVlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JHJlcXVpcmVkQ2VydGlmaWNhdGlvbnMtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb25DYXJlZXI6OklEX1JFUVVJUkVECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWlyZWRDZXJ0aWZpY2F0aW9ucyA9ICRjb21wZXRlbmN5Q2VydGlmaWNhdGlvblNlcnZpY2UtPmdldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tcGV0ZW5jeUFuZENlcnRpZmljYXRpb25RdWVyeTo6RklMVEVSX0NBUkVFUl9TVEFUVVMsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPmFkZEZpbHRlcigK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhZmYgPSAkdGhpcy0+Z2V0U3lzdGVtVXNlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPmFkZEZpbHRlcihDb21wZXRlbmN5QW5kQ2VydGlmaWNhdGlvblF1ZXJ5OjpGSUxURVJfQ0FSRUVSUywgJGNhcmVlcnMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>moodle</last-search>
+      <last-search>crk</last-search>
       <last-offset />
-      <last-pattern>moodle</last-pattern>
+      <last-pattern>crk</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -473,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pro seznam</entry>
         <entry>infoLine</entry>
         <entry>nabídky p</entry>
         <entry>nabídky</entry>
@@ -493,13 +496,13 @@
         <entry>Fast</entry>
         <entry>staff</entry>
         <entry>moodle</entry>
+        <entry>crk</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Replace</entry>
-        <entry>action ParameterInfo</entry>
         <entry>Q</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
@@ -514,6 +517,7 @@
         <entry>action Vcs.UpdateProject</entry>
         <entry>action OverrideMethods</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ParameterInfo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
