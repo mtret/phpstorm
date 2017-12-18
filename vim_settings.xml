@@ -12,9 +12,9 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513171057054">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513585762159">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
+        <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="5" />
       </file>
       <file name="/AppKernel.php" timestamp="1513336186994">
@@ -215,7 +215,7 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1513581267242">
+      <file name="/dummy.sql" timestamp="1513585715035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -408,8 +408,8 @@
       <register name="/" type="4">
         <text>sessino</text>
       </register>
-      <register name="0" type="4">
-        <text>cash_register</text>
+      <register name="0" type="2">
+        <text encoding="base64">NDkxNzAwMDAyMQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
