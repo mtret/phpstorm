@@ -17,6 +17,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-12/201718121531_MM-3760_change_comp_cert_url.php" timestamp="1513620202807">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="12" column="46" />
+        <mark key="." line="4" column="28" />
+      </file>
       <file name="restClient/response5.json" timestamp="1513163188445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1476" />
@@ -68,11 +74,12 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_11.sql" timestamp="1513608818078">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_11.sql" timestamp="1513622048058">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="15" />
+        <mark key="m" line="1" column="7" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_17.sql" timestamp="1511517051407">
         <mark key="[" line="0" column="64" />
@@ -121,6 +128,9 @@
         <mark key="^" line="79" column="20" />
         <mark key="." line="79" column="20" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/Moodle/Resource/UserLoginResource.php" timestamp="1513620926681">
+        <mark key="'" line="79" column="48" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/EventListener/ApiLogListener.php" timestamp="1511967137098">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -140,6 +150,7 @@
         <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/index/index.phtml" timestamp="1513612056745" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/Moodle/Resource/AssignCertificationResource.php" timestamp="1513622536261" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f7dae128-15c3-4c01-8864-f1bbd88bd8b8/console_2.sql" timestamp="1511511185747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="125" />
@@ -175,15 +186,18 @@
         <mark key="^" line="6" column="78" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/moodle.ini" timestamp="1513617388065">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskMapper.php" timestamp="1501847749952">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="44" />
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff/Query.php" timestamp="1513620873850">
+        <mark key="'" line="10" column="10" />
       </file>
       <file name="restClient/response25.json" timestamp="1513163507381">
         <mark key="[" line="64" column="16" />
@@ -204,7 +218,7 @@
         <mark key="." line="64" column="20" />
         <mark key="^" line="64" column="20" />
       </file>
-      <file name="/PHP Console" timestamp="1513617399528">
+      <file name="/PHP Console" timestamp="1513621835648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src_frontend/assets/js/modules/additional-service-requirement.form.js" timestamp="1511525210156">
@@ -232,12 +246,12 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1513618983784">
+      <file name="/dummy.sql" timestamp="1513622037382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513618883753">
+      <file name="/Dummy.txt" timestamp="1513621334414">
         <mark key="e" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -295,8 +309,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification.php" timestamp="1513617882439">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification.php" timestamp="1513622456192">
         <mark key="'" line="194" column="51" />
+        <mark key="]" line="207" column="11" />
+        <mark key="^" line="207" column="11" />
+        <mark key="." line="207" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_13.sql" timestamp="1511947313737">
         <mark key="[" line="0" column="0" />
@@ -326,9 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1103" column="21" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="1964" column="72" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="1941" column="32" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="1857" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="1972" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="1364" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
@@ -426,6 +440,9 @@
       <jump line="29" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" />
       <jump line="275" column="32" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" />
       <jump line="268" column="38" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-12/201718121531_MM-3760_change_comp_cert_url.php" />
+      <jump line="79" column="48" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/Moodle/Resource/UserLoginResource.php" />
+      <jump line="10" column="10" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff/Query.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -441,49 +458,55 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>s_password)</text>
       </register>
       <register name="/" type="4">
-        <text>absolute</text>
+        <text encoding="base64">XDxVUERBVEVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXJsID0gaHR0cHM6Ly9lbGVhcm5pbmcubW1yZWFsaXR5LmN6Lwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYTEoJHRoaXMtPmdldFN0YWZmKCktPmdldFBhc3N3b3JkKCkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXJsID0gaHR0cDovL2xvY2FsaG9zdDo4MDgwLwo=</text>
+      <register name="1" type="4">
+        <text>INSERT INTO mm_fast_links (fl_l_id, fl_title, fl_url, fl_show, fl_order) VALUES (
+                               1,
+                               'Elearning - test AML',
+                               'https://elearning.mmreality.cz/enrol/index.php?id=2',
+                               1,
+                               5
+                           )</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXJsID0gaHR0cDovL2xvY2FsaG9zdDo4MDgwLwo=</text>
+        <text encoding="base64">ZnJvbSBtbQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXJsID0gaHR0cDovL2xvY2FsaG9zdDo4MDgwLwo=</text>
+        <text encoding="base64">ZGVsZXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZhc3RsaW5rWydmbF91cmwnXSA9ICRzdGFmZkNlcnRpZmljYXRpb24tPmdldENlcnRpZmljYXRpb25FbGVhcm5pbmdBYnNvbHV0ZVVybCgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">dXJsID0gaHR0cDovL2xvY2FsaG9zdDo4MDgwLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnZpZXctPmZhc3RsaW5rc1tdWydmbF91cmwnXSA9ICRzdGFmZkNlcnRpZmljYXRpb24tPmdldENlcnRpZmljYXRpb25FbGVhcm5pbmdBYnNvbHV0ZVVybCgpOwo=</text>
+        <text encoding="base64">dXJsID0gaHR0cDovL2xvY2FsaG9zdDo4MDgwLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnZpZXctPmZhc3RsaW5rc1tdWydmbF90aXRsZSddID0gJHN0YWZmQ2VydGlmaWNhdGlvbi0+Z2V0Q2VydGlmaWNhdGlvbk5hbWUoKTsK</text>
+        <text encoding="base64">dXJsID0gaHR0cDovL2xvY2FsaG9zdDo4MDgwLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHQgPSAkc3RhZmZDZXJ0aWZpY2F0aW9uLT5nZXRDZXJ0aWZpY2F0aW9uRWxlYXJuaW5nQWJzb2x1dGVVcmwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZhc3RsaW5rWydmbF91cmwnXSA9ICRzdGFmZkNlcnRpZmljYXRpb24tPmdldENlcnRpZmljYXRpb25FbGVhcm5pbmdBYnNvbHV0ZVVybCgpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHQgPSAkc3RhZmZDZXJ0aWZpY2F0aW9uLT5nZXRDZXJ0aWZpY2F0aW9uRWxlYXJuaW5nQWJzb2x1dGVVcmwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnZpZXctPmZhc3RsaW5rc1tdWydmbF91cmwnXSA9ICRzdGFmZkNlcnRpZmljYXRpb24tPmdldENlcnRpZmljYXRpb25FbGVhcm5pbmdBYnNvbHV0ZVVybCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNlcnRpZmljYXRpb24gPSAkc3RhZmZDZXJ0aWZpY2F0aW9uLT5nZXRDZXJ0aWZpY2F0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnZpZXctPmZhc3RsaW5rc1tdWydmbF90aXRsZSddID0gJHN0YWZmQ2VydGlmaWNhdGlvbi0+Z2V0Q2VydGlmaWNhdGlvbk5hbWUoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ParameterInfo</text>
       </register>
     </registers>
     <search>
-      <last-search>absolute</last-search>
+      <last-search encoding="base64">XDxVUERBVEVcPg==</last-search>
       <last-offset />
-      <last-pattern>absolute</last-pattern>
+      <last-pattern encoding="base64">XDxVUERBVEVcPg==</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -491,7 +514,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clien</entry>
         <entry>blackfire</entry>
         <entry>nb_o_id</entry>
         <entry>cache:clear</entry>
@@ -511,6 +533,7 @@
         <entry>displaymo</entry>
         <entry>missingcertifications</entry>
         <entry>absolute</entry>
+        <entry encoding="base64">XDxVUERBVEVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
@@ -529,10 +552,10 @@
         <entry>q</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action OverrideMethods</entry>
-        <entry>action ParameterInfo</entry>
         <entry>action GotoDeclaration</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>action ParameterInfo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
