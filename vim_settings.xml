@@ -23,6 +23,12 @@
         <mark key="^" line="12" column="46" />
         <mark key="." line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/app.php" timestamp="1513682956043">
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="11" column="60" />
+        <mark key="." line="11" column="60" />
+        <mark key="^" line="11" column="57" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/ReportingController.php" timestamp="1513676954168" />
       <file name="restClient/response5.json" timestamp="1513163188445">
         <mark key="[" line="0" column="0" />
@@ -151,6 +157,7 @@
         <mark key="." line="0" column="87" />
         <mark key="^" line="0" column="123" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/db/mass_updates/2008-11-26.txt" timestamp="1513682744440" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/index/indexTools.php" timestamp="1513599515051">
         <mark key="'" line="49" column="26" />
       </file>
@@ -202,11 +209,12 @@
         <mark key="." line="64" column="23" />
         <mark key="^" line="64" column="23" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" timestamp="1513676888801">
-        <mark key="[" line="2977" column="38" />
-        <mark key="]" line="2977" column="48" />
-        <mark key="." line="2977" column="48" />
-        <mark key="^" line="2977" column="48" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" timestamp="1513682234472">
+        <mark key="'" line="710" column="45" />
+        <mark key="[" line="734" column="31" />
+        <mark key="]" line="740" column="31" />
+        <mark key="." line="740" column="31" />
+        <mark key="^" line="740" column="31" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/AppKernel.php" timestamp="1513586661925">
         <mark key="[" line="85" column="7" />
@@ -253,11 +261,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513621334414">
+      <file name="/Dummy.txt" timestamp="1513683028319">
         <mark key="e" line="0" column="19" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV1.php" timestamp="1502442566200">
@@ -344,13 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1857" column="16" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="1972" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="1364" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="1366" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="1451" column="68" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="1453" column="68" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="1854" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="1856" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="1971" column="30" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="2060" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
@@ -444,6 +445,13 @@
       <jump line="11" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-12/201718121531_MM-3760_change_comp_cert_url.php" />
       <jump line="79" column="48" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/Moodle/Resource/UserLoginResource.php" />
       <jump line="10" column="10" filename="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff/Query.php" />
+      <jump line="78" column="8" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="725" column="40" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="738" column="34" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="48" column="43" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="55" column="34" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="710" column="45" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="2992" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -459,13 +467,13 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>export columns</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVUERBVEVcPg==</text>
+        <text>dubaj</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT53aGVyZSgnb19vY19pZCA9IDEwJyk7Cg==</text>
+      <register name="0" type="4">
+        <text>report_competition_dubaj_2018</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT53aGVyZSgnb19vY19pZCA9IDEwJyk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+d2hlcmUoJ29fYWdyZWVtZW50X3R5cGUgPSAxJyk7Cg==</text>
@@ -505,9 +513,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVUERBVEVcPg==</last-search>
+      <last-search>dubaj</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVUERBVEVcPg==</last-pattern>
+      <last-pattern>dubaj</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
       <last-dir>1</last-dir>
@@ -515,8 +523,6 @@
     </search>
     <history>
       <history-search>
-        <entry>blackfire</entry>
-        <entry>nb_o_id</entry>
         <entry>cache:clear</entry>
         <entry>sessino</entry>
         <entry>fastline</entry>
@@ -535,11 +541,10 @@
         <entry>missingcertifications</entry>
         <entry>absolute</entry>
         <entry encoding="base64">XDxVUERBVEVcPg==</entry>
+        <entry>oldway</entry>
+        <entry>dubaj</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoSuperMethod</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action Replace</entry>
         <entry>Q</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
@@ -550,11 +555,14 @@
         <entry>action $SelectAll</entry>
         <entry>186</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>q</entry>
         <entry>action OverrideMethods</entry>
         <entry>action GotoDeclaration</entry>
         <entry>W</entry>
         <entry>action ParameterInfo</entry>
+        <entry>sp</entry>
+        <entry>q</entry>
+        <entry>sv</entry>
+        <entry>vs</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>w</entry>
       </history-cmd>
