@@ -133,6 +133,7 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/Moodle/Resource/UserLoginResource.php" timestamp="1513620926681">
         <mark key="'" line="79" column="48" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php" timestamp="1513685720554" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/EventListener/ApiLogListener.php" timestamp="1511967137098">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -629,6 +630,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
