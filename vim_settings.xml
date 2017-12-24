@@ -23,6 +23,9 @@
         <mark key="^" line="12" column="46" />
         <mark key="." line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1514150709720">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/app.php" timestamp="1513682956043">
         <mark key="[" line="11" column="60" />
         <mark key="]" line="11" column="60" />
@@ -256,7 +259,7 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1514130693355">
+      <file name="/dummy.sql" timestamp="1514150640995">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -352,8 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1856" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="1971" column="30" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="2060" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="2062" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="2410" column="23" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
@@ -452,6 +453,8 @@
       <jump line="55" column="34" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
       <jump line="710" column="45" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
       <jump line="2992" column="22" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" />
+      <jump line="4225" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
