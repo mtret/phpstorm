@@ -319,12 +319,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Entity/CompetencyAndCertification.php" timestamp="1513616190944">
-        <mark key="'" line="268" column="38" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Entity/StaffCertification.php" timestamp="1513622456192">
         <mark key="'" line="194" column="51" />
         <mark key="]" line="207" column="11" />
