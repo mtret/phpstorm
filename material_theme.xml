@@ -12,6 +12,7 @@
     <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
+    <option name="isMaterialTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
