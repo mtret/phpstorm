@@ -184,6 +184,9 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="13" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferTools.php" timestamp="1514591848949">
+        <mark key="'" line="26" column="12" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Branch/Managers/History/Module.php" timestamp="1511956018254">
         <mark key="[" line="95" column="46" />
         <mark key="]" line="95" column="45" />
@@ -356,8 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2062" column="67" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
-      <jump line="2410" column="23" filename="$USER_HOME$/PhpstormProjects/stormm/app/services/rest/statistics/StatisticsServiceTest.php" />
       <jump line="135" column="42" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
       <jump line="412" column="80" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
       <jump line="413" column="66" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
@@ -456,6 +457,8 @@
       <jump line="4225" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" />
       <jump line="1" column="23" filename="routine:/df4c5413/f7dae128-15c3-4c01-8864-f1bbd88bd8b8/gh208700db.getDistrictRegion" />
+      <jump line="1542" column="20" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferTools.php" />
+      <jump line="26" column="12" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferTools.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -507,7 +510,7 @@
         <text encoding="base64">ICRjbGllbnQgPSBuZXcgWmVuZF9EYl9FeHByKAogICAgICAgICAgICAgICAgICAgICAgICAiCiAgICAgICAgICAgICAgICAgICAgICAgIChTRUxFQ1QgKiBGUk9NICgKICAgICAgICAgICAgICAgICAgICAgICAgKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvc3JfY19pZCBBUyBjbGllbnRfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9zcl9jbGllbnRfbmFtZSBBUyAnY2xpZW50X25hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvc3JfY2xpZW50X2FkZHJlc3MgQVMgJ2NsaWVudF9hZGRyZXNzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3NyX2NsaWVudF9waG9uZSBBUyAnY2xpZW50X3Bob25lJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3NyX2NsaWVudF9lbWFpbCBBUyAnY2xpZW50X2VtYWlsJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1Byb2TDoXZhasOtY8OtJyBBUyAnY2xpZW50X3R5cGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvc3Jfb19pZCBhcyAnY2xpZW50X29mZmVyJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBtbV9vZmZlcl9zZWxsZXJzX2N6IGFzIHVfc2VsbGVycwogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICBVTklPTgogICAgICAgICAgICAgICAgICAgICAgICAgICAgKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY19pZCBBUyBjbGllbnRfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjX2Z1bGxuYW1lX29yX2NvbXBhbnkgQVMgJ2NsaWVudF9uYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENPTkNBVF9XUygnLCAnLCBjX3N0cmVldCwgY196aXAsIGNfY2l0eSkgQVMgJ2NsaWVudF9hZGRyZXNzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNfbW9iaWxlIEFTICdjbGllbnRfcGhvbmUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY19lbWFpbCBBUyAnY2xpZW50X2VtYWlsJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdUaXBhxZknIEFTICdjbGllbnRfdHlwZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwaF9vX2lkIGFzICdjbGllbnRfb2ZmZXInCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBGUk9NIG1tX2NsaWVudF90aXBzdGVyX3RpcHMgYXMgdV90aXBzdGVycwogICAgICAgICAgICAgICAgICAgICAgICAgICAgTEVGVCBKT0lOIG1tX3Bob25pbmdfY3ogb24gY3RpdF9waF9pZCA9IHBoX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMRUZUIEpPSU4gbW1fY2xpZW50c19jeiBvbiBjdGl0X2NfaWQgPSBjX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBwaF9vX2lkIElTIE5PVCBOVUxMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgKSBhcyB1KSIKICAgICAgICAgICAgICAgICAgICApOw==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -561,8 +564,8 @@
         <entry>action Vcs.UpdateProject</entry>
         <entry>w</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>q</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
