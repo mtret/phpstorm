@@ -184,8 +184,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferTools.php" timestamp="1514591848949">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferTools.php" timestamp="1514673905957">
         <mark key="'" line="26" column="12" />
+        <mark key="[" line="385" column="8" />
+        <mark key="]" line="385" column="7" />
+        <mark key="^" line="385" column="7" />
+        <mark key="." line="385" column="7" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Branch/Managers/History/Module.php" timestamp="1511956018254">
         <mark key="[" line="95" column="46" />
