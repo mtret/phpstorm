@@ -58,6 +58,7 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl #10000e9" />
+    <keyboard-shortcut first-keystroke="alt #100010d" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
