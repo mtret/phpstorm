@@ -217,8 +217,11 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff/Query.php" timestamp="1513620873850">
         <mark key="'" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/tests/unit/app/models/company/CompanyPositionTest.php" timestamp="1514737134519">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/tests/unit/app/models/company/CompanyPositionTest.php" timestamp="1514739100614">
         <mark key="[" line="80" column="5" />
+        <mark key="]" line="80" column="15" />
+        <mark key="^" line="80" column="15" />
+        <mark key="." line="80" column="15" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff.php" timestamp="1513622594546">
         <mark key="[" line="41" column="0" />
