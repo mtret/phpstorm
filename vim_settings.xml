@@ -520,7 +520,7 @@
         <text encoding="base64">ICRjbGllbnQgPSBuZXcgWmVuZF9EYl9FeHByKAogICAgICAgICAgICAgICAgICAgICAgICAiCiAgICAgICAgICAgICAgICAgICAgICAgIChTRUxFQ1QgKiBGUk9NICgKICAgICAgICAgICAgICAgICAgICAgICAgKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvc3JfY19pZCBBUyBjbGllbnRfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9zcl9jbGllbnRfbmFtZSBBUyAnY2xpZW50X25hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvc3JfY2xpZW50X2FkZHJlc3MgQVMgJ2NsaWVudF9hZGRyZXNzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3NyX2NsaWVudF9waG9uZSBBUyAnY2xpZW50X3Bob25lJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3NyX2NsaWVudF9lbWFpbCBBUyAnY2xpZW50X2VtYWlsJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1Byb2TDoXZhasOtY8OtJyBBUyAnY2xpZW50X3R5cGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvc3Jfb19pZCBhcyAnY2xpZW50X29mZmVyJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBtbV9vZmZlcl9zZWxsZXJzX2N6IGFzIHVfc2VsbGVycwogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICBVTklPTgogICAgICAgICAgICAgICAgICAgICAgICAgICAgKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY19pZCBBUyBjbGllbnRfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjX2Z1bGxuYW1lX29yX2NvbXBhbnkgQVMgJ2NsaWVudF9uYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENPTkNBVF9XUygnLCAnLCBjX3N0cmVldCwgY196aXAsIGNfY2l0eSkgQVMgJ2NsaWVudF9hZGRyZXNzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNfbW9iaWxlIEFTICdjbGllbnRfcGhvbmUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY19lbWFpbCBBUyAnY2xpZW50X2VtYWlsJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdUaXBhxZknIEFTICdjbGllbnRfdHlwZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwaF9vX2lkIGFzICdjbGllbnRfb2ZmZXInCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBGUk9NIG1tX2NsaWVudF90aXBzdGVyX3RpcHMgYXMgdV90aXBzdGVycwogICAgICAgICAgICAgICAgICAgICAgICAgICAgTEVGVCBKT0lOIG1tX3Bob25pbmdfY3ogb24gY3RpdF9waF9pZCA9IHBoX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMRUZUIEpPSU4gbW1fY2xpZW50c19jeiBvbiBjdGl0X2NfaWQgPSBjX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBwaF9vX2lkIElTIE5PVCBOVUxMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgKSBhcyB1KSIKICAgICAgICAgICAgICAgICAgICApOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>registers</text>
       </register>
     </registers>
     <search>
@@ -556,8 +556,6 @@
         <entry>dubaj</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
-        <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action Find</entry>
         <entry>action $SelectAll</entry>
@@ -576,6 +574,8 @@
         <entry>action EditorSelectWord</entry>
         <entry>q</entry>
         <entry>action RecentFiles</entry>
+        <entry>buffers</entry>
+        <entry>registers</entry>
       </history-cmd>
       <history-expr />
       <history-input />
