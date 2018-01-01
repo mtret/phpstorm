@@ -77,6 +77,7 @@
         <mark key="." line="5" column="5" />
         <mark key="^" line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/AppTipster/Resource/TipsterTipListResource.php" timestamp="1514832742071" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-10/201710131229_MM-3455_add_competition_ship_cruise_2018.php" timestamp="1507891623375">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
