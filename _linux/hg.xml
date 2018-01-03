@@ -3,6 +3,7 @@
     <option name="myHgExecutable" value="hg" />
     <option name="myRememberedUserNames">
       <map>
+        <entry key="hg.digitalcz.cz/import-stormm/" value="michal.tretina" />
         <entry key="hg.digitalcz.cz/mmreality/" value="michal.tretina" />
         <entry key="hg.digitalcz.cz/stormm-analytics/" value="michal.tretina" />
         <entry key="hg.digitalcz.cz/stormm-apps/android/statistics/" value="michal.tretina" />
