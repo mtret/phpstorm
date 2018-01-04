@@ -97,6 +97,10 @@
           <option name="url" value="https://hg.digitalcz.cz/stormm-apps/demands/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://hg.digitalcz.cz/stormm-apps/iOS/calendar/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects/" />
