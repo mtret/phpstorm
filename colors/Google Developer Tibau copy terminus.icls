@@ -1,15 +1,15 @@
-<scheme name="Google Developer Tibau copy" version="142" parent_scheme="Default">
+<scheme name="Google Developer Tibau copy terminus" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-12-24T11:37:38</property>
+    <property name="created">2018-01-09T13:44:49</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-01-09T13:43:26</property>
-    <property name="originalScheme">_@user_Google Developer Tibau</property>
+    <property name="ideVersion">2017.3.2.0.0</property>
+    <property name="modified">2018-01-09T13:45:10</property>
+    <property name="originalScheme">Google Developer Tibau copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Terminus (TTF)" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
