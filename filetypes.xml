@@ -4,10 +4,11 @@
     <extensionMap>
       <mapping ext="py" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="apache2-foreground" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="dckr" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="201804040925_MM-4818_backup_offer_table" type="PLAIN_TEXT" />
       <mapping ext="rake" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
