@@ -277,6 +277,7 @@
         <mark key="^" line="17" column="100" />
         <mark key="." line="17" column="100" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/mmreality/application/default/controllers/SurveyController.php" timestamp="1523259546700" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Ownership.php" timestamp="1523249867030">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="32" />
@@ -556,7 +557,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -610,8 +611,8 @@
         <entry>action EditorSelectWord</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
