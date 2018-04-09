@@ -556,7 +556,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -609,9 +609,9 @@
         <entry>bp</entry>
         <entry>action EditorSelectWord</entry>
         <entry>q</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
