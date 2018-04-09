@@ -12,18 +12,13 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513612809461">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-12/201718121531_MM-3760_change_comp_cert_url.php" timestamp="1513620202807">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="28" />
         <mark key="^" line="12" column="46" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1514735874297">
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1523204567959">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3480" column="0" />
         <mark key="]" line="3480" column="0" />
@@ -42,6 +37,12 @@
         <mark key="." line="62" column="23" />
         <mark key="^" line="62" column="23" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_10.sql" timestamp="1513188820344">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="87" />
+        <mark key="." line="3" column="34" />
+      </file>
       <file name="restClient/response5.json" timestamp="1513163188445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1476" />
@@ -58,12 +59,6 @@
         <mark key="]" line="1855" column="59" />
         <mark key="." line="1855" column="59" />
         <mark key="^" line="1855" column="59" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512119877572">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskRepository.php" timestamp="1501845144135">
         <mark key="[" line="18" column="37" />
@@ -83,16 +78,25 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Service/CompetencyAndCertificationService.php" timestamp="1513606330721">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_17.sql" timestamp="1511517051407">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="0" column="70" />
         <mark key="." line="0" column="70" />
         <mark key="^" line="0" column="70" />
+      </file>
+      <file name="/fin_information_materials [@PRODUKCE]" timestamp="1523248480044">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/CompetencyAndCertification/Service/CompetencyAndCertificationService.php" timestamp="1513606330721">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f7dae128-15c3-4c01-8864-f1bbd88bd8b8/console_2.sql" timestamp="1511511185747">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="125" />
+        <mark key="." line="0" column="87" />
+        <mark key="^" line="0" column="123" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RestController.php" timestamp="1511971248365">
         <mark key="[" line="82" column="19" />
@@ -105,12 +109,6 @@
         <mark key="]" line="62" column="21" />
         <mark key="." line="62" column="21" />
         <mark key="^" line="64" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_10.sql" timestamp="1513188820344">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="87" />
-        <mark key="." line="3" column="34" />
       </file>
       <file name="restClient/response18.json" timestamp="1513163431145">
         <mark key="[" line="0" column="0" />
@@ -144,32 +142,26 @@
         <mark key="^" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1500e79f-c868-4642-ae12-89e57759940a/console.sql" timestamp="1513194779877">
-        <mark key="[" line="0" column="47" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_12.sql" timestamp="1514130683671">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console.sql" timestamp="1512140975880">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f7dae128-15c3-4c01-8864-f1bbd88bd8b8/console_2.sql" timestamp="1511511185747">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512119877572">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="125" />
-        <mark key="." line="0" column="87" />
-        <mark key="^" line="0" column="123" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/index/indexTools.php" timestamp="1513599515051">
         <mark key="'" line="49" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_8.sql" timestamp="1513595102074">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="7" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" timestamp="1513082730609">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+        <mark key="^" line="0" column="39" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm-moodle-plugin/completion_cron_task/course_completion_class.php" timestamp="1511521113255">
         <mark key="[" line="3" column="15" />
@@ -210,11 +202,22 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff/Query.php" timestamp="1513620873850">
         <mark key="'" line="10" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_13.sql" timestamp="1514131369352">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/tests/unit/app/models/company/CompanyPositionTest.php" timestamp="1514739100614">
         <mark key="[" line="80" column="5" />
         <mark key="]" line="80" column="15" />
         <mark key="^" line="80" column="15" />
         <mark key="." line="80" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console.sql" timestamp="1513197433545">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/RequirementsReconstructionDao.php" timestamp="1518180997448">
         <mark key="'" line="182" column="49" />
@@ -224,6 +227,12 @@
         <mark key="]" line="64" column="23" />
         <mark key="." line="64" column="23" />
         <mark key="^" line="64" column="23" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff/Role/Module.php" timestamp="1523204875933">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="8" column="10" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" timestamp="1514116458574">
         <mark key="'" line="710" column="45" />
@@ -249,6 +258,12 @@
         <mark key="^" line="77" column="9" />
         <mark key="." line="77" column="9" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Offer/Construction/OfferConstructionModule.php" timestamp="1523204711496">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="49" />
+        <mark key="." line="27" column="49" />
+        <mark key="^" line="27" column="49" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/db/schema_updates/2017/08/201708041252_MM-2472_create_table_requirement_advance_return_assessment_tasks.php" timestamp="1501847755834">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="115" />
@@ -262,11 +277,11 @@
         <mark key="^" line="17" column="100" />
         <mark key="." line="17" column="100" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" timestamp="1513082730609">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-        <mark key="^" line="0" column="39" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Ownership.php" timestamp="1523249867030">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemandListResource.php" timestamp="1514740341460">
         <mark key="'" line="75" column="39" />
@@ -277,7 +292,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1514731029654">
+      <file name="/dummy.sql" timestamp="1523204152954">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -285,7 +300,7 @@
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff/AresSync/AresSyncService.php" timestamp="1518180539748">
         <mark key="'" line="22" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514731752752">
+      <file name="/Dummy.txt" timestamp="1523204583373">
         <mark key="e" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -297,6 +312,11 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513612809461">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV1.php" timestamp="1502442566200">
         <mark key="[" line="150" column="0" />
@@ -310,12 +330,6 @@
         <mark key="^" line="301" column="62" />
         <mark key="." line="301" column="62" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_12.sql" timestamp="1514130683671">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/fragment.php" timestamp="1513617066662">
         <mark key="[" line="0" column="0" />
       </file>
@@ -326,8 +340,20 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="79" column="18" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1500e79f-c868-4642-ae12-89e57759940a/console.sql" timestamp="1513194779877">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="routine:/df4c5413/f7dae128-15c3-4c01-8864-f1bbd88bd8b8/gh208700db.getDistrictRegion" timestamp="1514151730349">
         <mark key="'" line="1" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console.sql" timestamp="1512140975880">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Calendar/Module.php" timestamp="1502088017224">
         <mark key="[" line="14" column="10" />
@@ -347,24 +373,16 @@
         <mark key="^" line="26" column="46" />
         <mark key="." line="26" column="46" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console.sql" timestamp="1513197433545">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/salary/SalaryListAbstract.php" timestamp="1518344514236">
         <mark key="[" line="4" column="48" />
         <mark key="]" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
+      <file name="/mm_offers_cz_temp [testing]" timestamp="1523248481201">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/TestController.php" timestamp="1518180538009">
         <mark key="'" line="96" column="58" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_13.sql" timestamp="1514131369352">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/actionattractions/form.phtml" timestamp="1502094981816">
         <mark key="[" line="26" column="17" />
@@ -378,6 +396,12 @@
         <mark key="]" line="240" column="48" />
         <mark key="." line="240" column="48" />
         <mark key="^" line="240" column="48" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_8.sql" timestamp="1513595102074">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -496,7 +520,7 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>ID_REGIONAL_DIRECTOR</text>
       </register>
       <register name="/" type="4">
         <text>last_update</text>
@@ -505,34 +529,34 @@
         <text encoding="base64">ICAgICAgICAzID0+ICc+JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5kIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IElEX1JFR0lPTkFMX0RJUkVDVE9SID0gMzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7CiAgICBwcml2YXRlICRlcnJvckNvZGU7Cg==</text>
+        <text encoding="base64">aW5kIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7CiAgICBwcml2YXRlICRlcnJvckNvZGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGIgPSAkZGI7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT53aGVyZSgnb19vY19pZCA9IDEwJyk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+d2hlcmUoJ29fYWdyZWVtZW50X3R5cGUgPSAxJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGIgPSAkZGI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdCgnbW1fb2ZmZXJzX2NhdGVnb3JpZXNfY3onLCAnby5vX29jX2lkID0gb2NfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydiJyA9PiAnbW1fYnJhbmNoZXMnXSwgJ28ub19iX2lkID0gYl9pZCcsIFtdKTsKICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdChbJ2NpdHknID0+ICd6b25lX2NpdGllcyddLCAnemNfaWQgPSBvLm9femNfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydjbGllbnQnID0+ICRjbGllbnRdLCAnby5vX2lkID0gY2xpZW50LmNsaWVudF9vZmZlcicsIFtdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT53aGVyZSgnb19vY19pZCA9IDEwJyk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+d2hlcmUoJ29fYWdyZWVtZW50X3R5cGUgPSAxJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ0RhdHVtIHZ5dHZvxZllbsOtIG5hYsOtZGt5JyA9PiAnby5vX2NyZWF0ZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAnSW56ZXJ0bsOtIGthdGVnb3JpZScgPT4gJ21tX29mZmVyc19jYXRlZ29yaWVzX2N6Lm9jX25hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnTmFkdHlwIG5lbW92aXRvc3RpJyA9PiBuZXcgWmVuZF9EYl9FeHByKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJyhTRUxFQ1QgZXRfbmFtZSBGUk9NIG1tX2VzdGF0ZV90eXBlcyBXSEVSRSBldF96bF9pZCA9IDEgJyAuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnQU5EIGV0X2lkID0gKFNFTEVDVCBldF9wYXJlbnQgRlJPTSBtbV9lc3RhdGVfdHlwZXMgV0hFUkUgZXRfemxfaWQgPSAxICcgLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0FORCBldF9pZCA9IG8ub19ldF9pZCkpJyksCiAgICAgICAgICAgICAgICAgICAgICAgICdQb2JvxI1rYScgPT4gJ2IuYl9mdWxsbmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdNYWtsw6nFmSBuYWJyYWwnID0+ICdnZXRGdWxsbmFtZShvX3NhX2lkX2dhdGhlciwgMSwgMSwgMSknLAogICAgICAgICAgICAgICAgICAgICAgICAnT2JlYycgPT4gJ2NpdHkuemNfbmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdPa3JlcycgPT4gJ2dldERpc3RyaWN0TmFtZShvLm9femRfaWQsIDEpJywKICAgICAgICAgICAgICAgICAgICAgICAgJ0NlbGtvdsOhIGNlbmEnID0+ICdvX3RvdGFsX3ByaWNlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ1Byb3ZpemUnID0+ICdvX21hcmdpbicsCiAgICAgICAgICAgICAgICAgICAgICAgICdUeXAgcHJvdml6ZScgPT4gJ29fbWFyZ2luX3R5cGUnLAogICAgICAgICAgICAgICAgICAgICAgICAnUmVnaW9uw6FsbsOtIMWZZWRpdGVsIChha3QuKScgPT4gJ2dldEZ1bGxuYW1lKGdldEJyYW5jaFJlZ2lvbk1hbmFnZXIob19iX2lkLCBOT1coKSksIDEsMSwxKScsCiAgICAgICAgICAgICAgICAgICAgICAgICdEYXR1bSBzbWxvdXZ5IChvZCknID0+ICdvX29mZmVyX2Zyb20nLAogICAgICAgICAgICAgICAgICAgICAgICAnRGF0dW0gc21sb3V2eSAoZG8pJyA9PiAnb19vZmZlcl90bycsCiAgICAgICAgICAgICAgICAgICAgICAgICdLb3BpZSBuYWLDrWRreScgPT4gJ29faWRfcGFyZW50JywKICAgICAgICAgICAgICAgICAgICAgICAgJ0lEIGtsaWVudGEnID0+ICdjbGllbnQuY2xpZW50X2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgJ1R5cCBrbGllbnRhJyA9PiAnY2xpZW50LmNsaWVudF90eXBlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ0ptw6lubyBhIHDFmcOtam1lbsOtIGtsaWVudGEnID0+ICdjbGllbnQuY2xpZW50X25hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnVGVsZWZvbiBrbGllbnRhJyA9PiAnY2xpZW50LmNsaWVudF9waG9uZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdFbWFpbCBrbGllbnRhJyA9PiAnY2xpZW50LmNsaWVudF9lbWFpbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdBZHJlc2Ega2xpZW50YScgPT4gJ2NsaWVudC5jbGllbnRfYWRkcmVzcycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdCgnbW1fb2ZmZXJzX2NhdGVnb3JpZXNfY3onLCAnby5vX29jX2lkID0gb2NfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydiJyA9PiAnbW1fYnJhbmNoZXMnXSwgJ28ub19iX2lkID0gYl9pZCcsIFtdKTsKICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdChbJ2NpdHknID0+ICd6b25lX2NpdGllcyddLCAnemNfaWQgPSBvLm9femNfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydjbGllbnQnID0+ICRjbGllbnRdLCAnby5vX2lkID0gY2xpZW50LmNsaWVudF9vZmZlcicsIFtdKTsK</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ0RhdHVtIHZ5dHZvxZllbsOtIG5hYsOtZGt5JyA9PiAnby5vX2NyZWF0ZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAnSW56ZXJ0bsOtIGthdGVnb3JpZScgPT4gJ21tX29mZmVyc19jYXRlZ29yaWVzX2N6Lm9jX25hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnTmFkdHlwIG5lbW92aXRvc3RpJyA9PiBuZXcgWmVuZF9EYl9FeHByKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJyhTRUxFQ1QgZXRfbmFtZSBGUk9NIG1tX2VzdGF0ZV90eXBlcyBXSEVSRSBldF96bF9pZCA9IDEgJyAuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnQU5EIGV0X2lkID0gKFNFTEVDVCBldF9wYXJlbnQgRlJPTSBtbV9lc3RhdGVfdHlwZXMgV0hFUkUgZXRfemxfaWQgPSAxICcgLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0FORCBldF9pZCA9IG8ub19ldF9pZCkpJyksCiAgICAgICAgICAgICAgICAgICAgICAgICdQb2JvxI1rYScgPT4gJ2IuYl9mdWxsbmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdNYWtsw6nFmSBuYWJyYWwnID0+ICdnZXRGdWxsbmFtZShvX3NhX2lkX2dhdGhlciwgMSwgMSwgMSknLAogICAgICAgICAgICAgICAgICAgICAgICAnT2JlYycgPT4gJ2NpdHkuemNfbmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdPa3JlcycgPT4gJ2dldERpc3RyaWN0TmFtZShvLm9femRfaWQsIDEpJywKICAgICAgICAgICAgICAgICAgICAgICAgJ0NlbGtvdsOhIGNlbmEnID0+ICdvX3RvdGFsX3ByaWNlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ1Byb3ZpemUnID0+ICdvX21hcmdpbicsCiAgICAgICAgICAgICAgICAgICAgICAgICdUeXAgcHJvdml6ZScgPT4gJ29fbWFyZ2luX3R5cGUnLAogICAgICAgICAgICAgICAgICAgICAgICAnUmVnaW9uw6FsbsOtIMWZZWRpdGVsIChha3QuKScgPT4gJ2dldEZ1bGxuYW1lKGdldEJyYW5jaFJlZ2lvbk1hbmFnZXIob19iX2lkLCBOT1coKSksIDEsMSwxKScsCiAgICAgICAgICAgICAgICAgICAgICAgICdEYXR1bSBzbWxvdXZ5IChvZCknID0+ICdvX29mZmVyX2Zyb20nLAogICAgICAgICAgICAgICAgICAgICAgICAnRGF0dW0gc21sb3V2eSAoZG8pJyA9PiAnb19vZmZlcl90bycsCiAgICAgICAgICAgICAgICAgICAgICAgICdLb3BpZSBuYWLDrWRreScgPT4gJ29faWRfcGFyZW50JywKICAgICAgICAgICAgICAgICAgICAgICAgJ0lEIGtsaWVudGEnID0+ICdjbGllbnQuY2xpZW50X2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgJ1R5cCBrbGllbnRhJyA9PiAnY2xpZW50LmNsaWVudF90eXBlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ0ptw6lubyBhIHDFmcOtam1lbsOtIGtsaWVudGEnID0+ICdjbGllbnQuY2xpZW50X25hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnVGVsZWZvbiBrbGllbnRhJyA9PiAnY2xpZW50LmNsaWVudF9waG9uZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdFbWFpbCBrbGllbnRhJyA9PiAnY2xpZW50LmNsaWVudF9lbWFpbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdBZHJlc2Ega2xpZW50YScgPT4gJ2NsaWVudC5jbGllbnRfYWRkcmVzcycsCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICRjbGllbnQgPSBuZXcgWmVuZF9EYl9FeHByKAogICAgICAgICAgICAgICAgICAgICAgICAiCiAgICAgICAgICAgICAgICAgICAgICAgIChTRUxFQ1QgKiBGUk9NICgKICAgICAgICAgICAgICAgICAgICAgICAgKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvc3JfY19pZCBBUyBjbGllbnRfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9zcl9jbGllbnRfbmFtZSBBUyAnY2xpZW50X25hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvc3JfY2xpZW50X2FkZHJlc3MgQVMgJ2NsaWVudF9hZGRyZXNzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3NyX2NsaWVudF9waG9uZSBBUyAnY2xpZW50X3Bob25lJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3NyX2NsaWVudF9lbWFpbCBBUyAnY2xpZW50X2VtYWlsJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1Byb2TDoXZhasOtY8OtJyBBUyAnY2xpZW50X3R5cGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvc3Jfb19pZCBhcyAnY2xpZW50X29mZmVyJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBtbV9vZmZlcl9zZWxsZXJzX2N6IGFzIHVfc2VsbGVycwogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICBVTklPTgogICAgICAgICAgICAgICAgICAgICAgICAgICAgKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY19pZCBBUyBjbGllbnRfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjX2Z1bGxuYW1lX29yX2NvbXBhbnkgQVMgJ2NsaWVudF9uYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENPTkNBVF9XUygnLCAnLCBjX3N0cmVldCwgY196aXAsIGNfY2l0eSkgQVMgJ2NsaWVudF9hZGRyZXNzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNfbW9iaWxlIEFTICdjbGllbnRfcGhvbmUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY19lbWFpbCBBUyAnY2xpZW50X2VtYWlsJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdUaXBhxZknIEFTICdjbGllbnRfdHlwZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwaF9vX2lkIGFzICdjbGllbnRfb2ZmZXInCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBGUk9NIG1tX2NsaWVudF90aXBzdGVyX3RpcHMgYXMgdV90aXBzdGVycwogICAgICAgICAgICAgICAgICAgICAgICAgICAgTEVGVCBKT0lOIG1tX3Bob25pbmdfY3ogb24gY3RpdF9waF9pZCA9IHBoX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMRUZUIEpPSU4gbW1fY2xpZW50c19jeiBvbiBjdGl0X2NfaWQgPSBjX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBwaF9vX2lkIElTIE5PVCBOVUxMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgKSBhcyB1KSIKICAgICAgICAgICAgICAgICAgICApOw==</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -541,7 +565,7 @@
       <last-pattern>last_update</last-pattern>
       <last-replace />
       <last-substitute>last_update</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -568,26 +592,26 @@
         <entry>last_update</entry>
       </history-search>
       <history-cmd>
-        <entry>action $SelectAll</entry>
-        <entry>186</entry>
-        <entry>action OverrideMethods</entry>
-        <entry>W</entry>
-        <entry>sp</entry>
-        <entry>sv</entry>
-        <entry>action ParameterInfo</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR3VpRGVzaWduZXIuUXVpY2tKYXZhZG9j</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
-        <entry>buffers</entry>
         <entry>registers</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
-        <entry>action EditorSelectWord</entry>
         <entry>action RecentFiles</entry>
         <entry>s</entry>
-        <entry>vs</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>buffers</entry>
+        <entry>buffer</entry>
+        <entry>b</entry>
+        <entry>vs</entry>
+        <entry>action Replace</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>bn</entry>
+        <entry>bp</entry>
+        <entry>action EditorSelectWord</entry>
         <entry>q</entry>
+        <entry>action Vcs.UpdateProject</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
