@@ -30,9 +30,6 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="shift ctrl space" />
-  </action>
   <action id="Console.TableResult.NavigateExportedAction">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt #100010d" />
@@ -52,9 +49,6 @@
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl q" />
-  </action>
-  <action id="EditorToggleStickySelection">
-    <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
