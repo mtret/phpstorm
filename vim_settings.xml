@@ -72,6 +72,10 @@
         <mark key="." line="5" column="5" />
         <mark key="^" line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff/Role.php" timestamp="1524135599571">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/db/migrations/2017-10/201710131229_MM-3455_add_competition_ship_cruise_2018.php" timestamp="1507891623375">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -148,6 +152,17 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Advertising/Server/Sreality/Search/Page.php" timestamp="1524135502543">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Advertising/Server/Sreality/Advertisement.php" timestamp="1524135609423">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512119877572">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -192,6 +207,9 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/mm_offer_server [testing]" timestamp="1524134690946">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskMapper.php" timestamp="1501847749952">
         <mark key="[" line="14" column="41" />
@@ -277,7 +295,6 @@
         <mark key="^" line="17" column="100" />
         <mark key="." line="17" column="100" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/mmreality/application/default/controllers/SurveyController.php" timestamp="1523259546700" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Ownership.php" timestamp="1523249867030">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="32" />
@@ -313,12 +330,6 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Model/Indexed/IndexedMapper.php" timestamp="1518180441561">
-        <mark key="a" line="11" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1513612809461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -345,6 +356,9 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="79" column="18" />
+      </file>
+      <file name="/sreality_cities_borough [testing]" timestamp="1524134688894">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1500e79f-c868-4642-ae12-89e57759940a/console.sql" timestamp="1513194779877">
         <mark key="[" line="0" column="47" />
@@ -373,11 +387,11 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1514731636313">
-        <mark key="[" line="26" column="47" />
-        <mark key="]" line="26" column="46" />
-        <mark key="^" line="26" column="46" />
-        <mark key="." line="26" column="46" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/application.ini" timestamp="1524134732264">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/salary/SalaryListAbstract.php" timestamp="1518344514236">
         <mark key="[" line="4" column="48" />
@@ -532,43 +546,43 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>ID_REGIONAL_DIRECTOR</text>
+        <text>getResul</text>
       </register>
       <register name="/" type="4">
         <text>last_update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0hPVyBWQVJJQUJMRVMgTElLRSAiJXZlcnNpb24lIjsK</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxNYXBwaW5nIGFzIE9STTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0hPVyBWQVJJQUJMRVMgTElLRSAiJXZlcnNpb24lIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IElEX1JFR0lPTkFMX0RJUkVDVE9SID0gMzsK</text>
+        <text encoding="base64">U0hPVyBWQVJJQUJMRVMgTElLRSAiJXZlcnNpb24lIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5kIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IElEX1JFR0lPTkFMX0RJUkVDVE9SID0gMzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7CiAgICBwcml2YXRlICRlcnJvckNvZGU7Cg==</text>
+        <text encoding="base64">aW5kIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7CiAgICBwcml2YXRlICRlcnJvckNvZGU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGIgPSAkZGI7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT53aGVyZSgnb19vY19pZCA9IDEwJyk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+d2hlcmUoJ29fYWdyZWVtZW50X3R5cGUgPSAxJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGIgPSAkZGI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdCgnbW1fb2ZmZXJzX2NhdGVnb3JpZXNfY3onLCAnby5vX29jX2lkID0gb2NfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydiJyA9PiAnbW1fYnJhbmNoZXMnXSwgJ28ub19iX2lkID0gYl9pZCcsIFtdKTsKICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdChbJ2NpdHknID0+ICd6b25lX2NpdGllcyddLCAnemNfaWQgPSBvLm9femNfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydjbGllbnQnID0+ICRjbGllbnRdLCAnby5vX2lkID0gY2xpZW50LmNsaWVudF9vZmZlcicsIFtdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT53aGVyZSgnb19vY19pZCA9IDEwJyk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+d2hlcmUoJ29fYWdyZWVtZW50X3R5cGUgPSAxJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ0RhdHVtIHZ5dHZvxZllbsOtIG5hYsOtZGt5JyA9PiAnby5vX2NyZWF0ZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAnSW56ZXJ0bsOtIGthdGVnb3JpZScgPT4gJ21tX29mZmVyc19jYXRlZ29yaWVzX2N6Lm9jX25hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnTmFkdHlwIG5lbW92aXRvc3RpJyA9PiBuZXcgWmVuZF9EYl9FeHByKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJyhTRUxFQ1QgZXRfbmFtZSBGUk9NIG1tX2VzdGF0ZV90eXBlcyBXSEVSRSBldF96bF9pZCA9IDEgJyAuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnQU5EIGV0X2lkID0gKFNFTEVDVCBldF9wYXJlbnQgRlJPTSBtbV9lc3RhdGVfdHlwZXMgV0hFUkUgZXRfemxfaWQgPSAxICcgLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0FORCBldF9pZCA9IG8ub19ldF9pZCkpJyksCiAgICAgICAgICAgICAgICAgICAgICAgICdQb2JvxI1rYScgPT4gJ2IuYl9mdWxsbmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdNYWtsw6nFmSBuYWJyYWwnID0+ICdnZXRGdWxsbmFtZShvX3NhX2lkX2dhdGhlciwgMSwgMSwgMSknLAogICAgICAgICAgICAgICAgICAgICAgICAnT2JlYycgPT4gJ2NpdHkuemNfbmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdPa3JlcycgPT4gJ2dldERpc3RyaWN0TmFtZShvLm9femRfaWQsIDEpJywKICAgICAgICAgICAgICAgICAgICAgICAgJ0NlbGtvdsOhIGNlbmEnID0+ICdvX3RvdGFsX3ByaWNlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ1Byb3ZpemUnID0+ICdvX21hcmdpbicsCiAgICAgICAgICAgICAgICAgICAgICAgICdUeXAgcHJvdml6ZScgPT4gJ29fbWFyZ2luX3R5cGUnLAogICAgICAgICAgICAgICAgICAgICAgICAnUmVnaW9uw6FsbsOtIMWZZWRpdGVsIChha3QuKScgPT4gJ2dldEZ1bGxuYW1lKGdldEJyYW5jaFJlZ2lvbk1hbmFnZXIob19iX2lkLCBOT1coKSksIDEsMSwxKScsCiAgICAgICAgICAgICAgICAgICAgICAgICdEYXR1bSBzbWxvdXZ5IChvZCknID0+ICdvX29mZmVyX2Zyb20nLAogICAgICAgICAgICAgICAgICAgICAgICAnRGF0dW0gc21sb3V2eSAoZG8pJyA9PiAnb19vZmZlcl90bycsCiAgICAgICAgICAgICAgICAgICAgICAgICdLb3BpZSBuYWLDrWRreScgPT4gJ29faWRfcGFyZW50JywKICAgICAgICAgICAgICAgICAgICAgICAgJ0lEIGtsaWVudGEnID0+ICdjbGllbnQuY2xpZW50X2lkJywKICAgICAgICAgICAgICAgICAgICAgICAgJ1R5cCBrbGllbnRhJyA9PiAnY2xpZW50LmNsaWVudF90eXBlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ0ptw6lubyBhIHDFmcOtam1lbsOtIGtsaWVudGEnID0+ICdjbGllbnQuY2xpZW50X25hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnVGVsZWZvbiBrbGllbnRhJyA9PiAnY2xpZW50LmNsaWVudF9waG9uZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdFbWFpbCBrbGllbnRhJyA9PiAnY2xpZW50LmNsaWVudF9lbWFpbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdBZHJlc2Ega2xpZW50YScgPT4gJ2NsaWVudC5jbGllbnRfYWRkcmVzcycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdCgnbW1fb2ZmZXJzX2NhdGVnb3JpZXNfY3onLCAnby5vX29jX2lkID0gb2NfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydiJyA9PiAnbW1fYnJhbmNoZXMnXSwgJ28ub19iX2lkID0gYl9pZCcsIFtdKTsKICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdChbJ2NpdHknID0+ICd6b25lX2NpdGllcyddLCAnemNfaWQgPSBvLm9femNfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydjbGllbnQnID0+ICRjbGllbnRdLCAnby5vX2lkID0gY2xpZW50LmNsaWVudF9vZmZlcicsIFtdKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -608,9 +622,7 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>registers</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
-        <entry>action RecentFiles</entry>
         <entry>s</entry>
-        <entry>w</entry>
         <entry>buffers</entry>
         <entry>buffer</entry>
         <entry>b</entry>
@@ -620,10 +632,12 @@
         <entry>bn</entry>
         <entry>bp</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action RecentFiles</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
