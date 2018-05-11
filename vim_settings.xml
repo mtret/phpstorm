@@ -235,6 +235,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Client/Tipster/RewardType/TipsterRewardType.php" timestamp="1526027501182">
+        <mark key="[" line="15" column="87" />
+        <mark key="]" line="15" column="87" />
+        <mark key="." line="15" column="87" />
+      </file>
       <file name="restClient/response25.json" timestamp="1513163507381">
         <mark key="[" line="64" column="16" />
         <mark key="]" line="64" column="23" />
@@ -304,13 +309,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1523262361626">
-        <mark key="e" line="0" column="19" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="/silvat_versions [STAGING]" timestamp="1526024262738">
         <mark key="[" line="0" column="0" />
@@ -400,7 +398,7 @@
       <file name="/log_errors [STAGING]" timestamp="1526022938728">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/cuzk-wsdp.ini" timestamp="1526023316539" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/cuzk-wsdp.ini" timestamp="1526027275833" />
     </filemarks>
     <jumps>
       <jump line="415" column="64" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
@@ -518,7 +516,7 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>getResul</text>
+        <text>efault&quot;: 0</text>
       </register>
       <register name="/" type="4">
         <text>last_update</text>
@@ -554,7 +552,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdCgnbW1fb2ZmZXJzX2NhdGVnb3JpZXNfY3onLCAnby5vX29jX2lkID0gb2NfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydiJyA9PiAnbW1fYnJhbmNoZXMnXSwgJ28ub19iX2lkID0gYl9pZCcsIFtdKTsKICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdChbJ2NpdHknID0+ICd6b25lX2NpdGllcyddLCAnemNfaWQgPSBvLm9femNfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydjbGllbnQnID0+ICRjbGllbnRdLCAnby5vX2lkID0gY2xpZW50LmNsaWVudF9vZmZlcicsIFtdKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -605,11 +603,11 @@
         <entry>bp</entry>
         <entry>action EditorSelectWord</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
-        <entry>action Vcs.UpdateProject</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RecentFiles</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
