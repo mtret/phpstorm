@@ -18,13 +18,6 @@
         <mark key="^" line="12" column="46" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/OfferController.php" timestamp="1523204567959">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3480" column="0" />
-        <mark key="]" line="3480" column="0" />
-        <mark key="^" line="3480" column="0" />
-        <mark key="." line="3480" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/www_root/app.php" timestamp="1513682956043">
         <mark key="[" line="11" column="60" />
         <mark key="]" line="11" column="60" />
@@ -43,6 +36,9 @@
         <mark key="^" line="3" column="87" />
         <mark key="." line="3" column="34" />
       </file>
+      <file name="/mm_offer_lvs [@PRODUKCE]" timestamp="1526022938389">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="restClient/response5.json" timestamp="1513163188445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1476" />
@@ -59,6 +55,9 @@
         <mark key="]" line="1855" column="59" />
         <mark key="." line="1855" column="59" />
         <mark key="^" line="1855" column="59" />
+      </file>
+      <file name="/mm_offer_lvs [TESTING]" timestamp="1526022935009">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Requirements/AdvanceReturnAssessment/Task/Persistence/ZendDb/RequirementAdvanceReturnAssessmentTaskRepository.php" timestamp="1501845144135">
         <mark key="[" line="18" column="37" />
@@ -125,6 +124,12 @@
         <mark key="^" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
+      <file name="/obec [STAGING]" timestamp="1526022938865">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mm_acquisition_title [@PRODUKCE]" timestamp="1526022938033">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="restClient/response45.json" timestamp="1513165687584">
         <mark key="[" line="64" column="17" />
         <mark key="]" line="64" column="24" />
@@ -136,9 +141,6 @@
         <mark key="]" line="81" column="52" />
         <mark key="^" line="79" column="20" />
         <mark key="." line="79" column="20" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/Moodle/Resource/UserLoginResource.php" timestamp="1513620926681">
-        <mark key="'" line="79" column="48" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/src/AppBundle/EventListener/ApiLogListener.php" timestamp="1511967137098">
         <mark key="[" line="62" column="0" />
@@ -169,8 +171,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/index/indexTools.php" timestamp="1513599515051">
-        <mark key="'" line="49" column="26" />
+      <file name="/mm_external_partners [STAGING]" timestamp="1526022938501">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" timestamp="1513082730609">
         <mark key="[" line="0" column="39" />
@@ -184,12 +186,8 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferTools.php" timestamp="1514673905957">
-        <mark key="'" line="26" column="12" />
-        <mark key="[" line="385" column="8" />
-        <mark key="]" line="385" column="7" />
-        <mark key="^" line="385" column="7" />
-        <mark key="." line="385" column="7" />
+      <file name="/test [STAGING]" timestamp="1526022938955">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Branch/Managers/History/Module.php" timestamp="1511956018254">
         <mark key="[" line="95" column="46" />
@@ -202,6 +200,9 @@
         <mark key="]" line="8" column="38" />
         <mark key="." line="8" column="38" />
         <mark key="^" line="6" column="78" />
+      </file>
+      <file name="/mm_staff_account_sessions [STAGING]" timestamp="1526022938612">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/moodle.ini" timestamp="1513617388065">
         <mark key="[" line="5" column="0" />
@@ -216,9 +217,6 @@
         <mark key="]" line="14" column="44" />
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff/Query.php" timestamp="1513620873850">
-        <mark key="'" line="10" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console_13.sql" timestamp="1514131369352">
         <mark key="[" line="2" column="2" />
@@ -237,9 +235,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/RequirementsReconstructionDao.php" timestamp="1518180997448">
-        <mark key="'" line="182" column="49" />
-      </file>
       <file name="restClient/response25.json" timestamp="1513163507381">
         <mark key="[" line="64" column="16" />
         <mark key="]" line="64" column="23" />
@@ -251,9 +246,6 @@
         <mark key="]" line="8" column="10" />
         <mark key="^" line="34" column="29" />
         <mark key="." line="8" column="10" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/models/reporting/ReportSql.php" timestamp="1514116458574">
-        <mark key="'" line="710" column="45" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/AppKernel.php" timestamp="1513586661925">
         <mark key="[" line="85" column="7" />
@@ -288,21 +280,11 @@
         <mark key="." line="3" column="115" />
         <mark key="^" line="3" column="115" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/twig/templates/index/certifications.twig" timestamp="1513616227620">
-        <mark key="'" line="17" column="91" />
-        <mark key="[" line="17" column="79" />
-        <mark key="]" line="17" column="100" />
-        <mark key="^" line="17" column="100" />
-        <mark key="." line="17" column="100" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Ownership.php" timestamp="1523249867030">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="32" />
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemandListResource.php" timestamp="1514740341460">
-        <mark key="'" line="75" column="39" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/config/security.yml" timestamp="1518344777305">
         <mark key="[" line="7" column="22" />
@@ -319,9 +301,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Staff/AresSync/AresSyncService.php" timestamp="1518180539748">
-        <mark key="'" line="22" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1523262361626">
         <mark key="e" line="0" column="19" />
@@ -350,14 +329,10 @@
       <file name="/fragment.php" timestamp="1513617066662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/src/StormmBundle/Service/StaffCertificationService.php" timestamp="1513607240938">
-        <mark key="'" line="66" column="19" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="79" column="18" />
-      </file>
       <file name="/sreality_cities_borough [testing]" timestamp="1524134688894">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mm_acquisition_title_archive [TESTING]" timestamp="1526022933491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1500e79f-c868-4642-ae12-89e57759940a/console.sql" timestamp="1513194779877">
@@ -365,9 +340,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="routine:/df4c5413/f7dae128-15c3-4c01-8864-f1bbd88bd8b8/gh208700db.getDistrictRegion" timestamp="1514151730349">
-        <mark key="'" line="1" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d4c44922-1ce4-4f17-9080-b21679ea0a70/console.sql" timestamp="1512140975880">
         <mark key="[" line="3" column="0" />
@@ -401,9 +373,6 @@
       <file name="/mm_offers_cz_temp [testing]" timestamp="1523248481201">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/TestController.php" timestamp="1518180538009">
-        <mark key="'" line="96" column="58" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_58.sql" timestamp="1523262302603">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
@@ -416,19 +385,16 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/IndexController.php" timestamp="1513616061556">
-        <mark key="'" line="287" column="0" />
-        <mark key="[" line="240" column="44" />
-        <mark key="]" line="240" column="48" />
-        <mark key="." line="240" column="48" />
-        <mark key="^" line="240" column="48" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_8.sql" timestamp="1513595102074">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="21" />
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
+      <file name="/log_errors [STAGING]" timestamp="1526022938728">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/configs/cuzk-wsdp.ini" timestamp="1526023316539" />
     </filemarks>
     <jumps>
       <jump line="415" column="64" filename="$USER_HOME$/PhpstormProjects/stormm/app/models/offers/OfferSaveOrUpdate.php" />
