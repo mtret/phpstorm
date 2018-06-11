@@ -177,6 +177,7 @@
       <file name="/mm_external_partners [STAGING]" timestamp="1526022938501">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/ClientDocumentCategoryModule.php" timestamp="1528706489568" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" timestamp="1513082730609">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -240,6 +241,7 @@
         <mark key="." line="80" column="15" />
       </file>
       <file name="/201806041519_MM-5174_add_api_stormmbook_module.php" timestamp="1528705107648" />
+      <file name="/TipsterTipStatusChangedNotification.php" timestamp="1528706655007" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console.sql" timestamp="1513197433545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -416,7 +418,7 @@
       <file name="/mm_client_documents [@PRODUKCE]" timestamp="1528704905890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ClientFileResource.php" timestamp="1528704719679" />
+      <file name="/ClientFileResource.php" timestamp="1528706450758" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/actionattractions/form.phtml" timestamp="1502094981816">
         <mark key="[" line="26" column="17" />
         <mark key="]" line="27" column="11" />
