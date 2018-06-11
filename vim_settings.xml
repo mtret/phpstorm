@@ -56,7 +56,6 @@
         <mark key="." line="1855" column="59" />
         <mark key="^" line="1855" column="59" />
       </file>
-      <file name="/201805301548_MM-5174_change_client_document_type_numbers.php" timestamp="1528704811222" />
       <file name="/mm_offer_lvs [TESTING]" timestamp="1526022935009">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,11 +144,11 @@
         <mark key="^" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementsConstructionController.php" timestamp="1528700003169">
-        <mark key="[" line="40" column="21" />
-        <mark key="]" line="40" column="21" />
-        <mark key="." line="40" column="21" />
-        <mark key="^" line="44" column="4" />
+      <file name="$USER_HOME$/PhpstormProjects/stormm/app/controllers/RequirementsConstructionController.php" timestamp="1528707774358">
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="41" column="7" />
+        <mark key="." line="41" column="7" />
+        <mark key="^" line="41" column="7" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Advertising/Server/Sreality/Search/Page.php" timestamp="1524135502543">
         <mark key="[" line="29" column="20" />
@@ -177,7 +176,6 @@
       <file name="/mm_external_partners [STAGING]" timestamp="1526022938501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ClientDocumentCategoryModule.php" timestamp="1528706489568" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_5.sql" timestamp="1513082730609">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -195,6 +193,12 @@
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/ClientFileResource.php" timestamp="1528707519226">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="102" column="11" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="/test [STAGING]" timestamp="1526022938955">
         <mark key="[" line="0" column="0" />
@@ -240,20 +244,18 @@
         <mark key="^" line="80" column="15" />
         <mark key="." line="80" column="15" />
       </file>
-      <file name="/201806041519_MM-5174_add_api_stormmbook_module.php" timestamp="1528705107648" />
-      <file name="/TipsterTipStatusChangedNotification.php" timestamp="1528706655007" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console.sql" timestamp="1513197433545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/MailService.php" timestamp="1528707064180" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/mailbox/virtual.phtml" timestamp="1526028369657">
         <mark key="[" line="1" column="58" />
         <mark key="]" line="1" column="64" />
         <mark key="^" line="1" column="64" />
         <mark key="." line="1" column="64" />
       </file>
-      <file name="/201806041524_MM-5174_add_fin_headquarters_mail_to_configuration.php" timestamp="1528705124174" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Client/Tipster/RewardType/TipsterRewardType.php" timestamp="1526027501182">
         <mark key="[" line="15" column="87" />
         <mark key="]" line="15" column="87" />
@@ -335,13 +337,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526029236255">
-        <mark key="e" line="0" column="19" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
       <file name="/silvat_versions [STAGING]" timestamp="1526024262738">
         <mark key="[" line="0" column="0" />
       </file>
@@ -418,7 +413,6 @@
       <file name="/mm_client_documents [@PRODUKCE]" timestamp="1528704905890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ClientFileResource.php" timestamp="1528706450758" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/actionattractions/form.phtml" timestamp="1502094981816">
         <mark key="[" line="26" column="17" />
         <mark key="]" line="27" column="11" />
@@ -430,6 +424,11 @@
         <mark key="]" line="7" column="21" />
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/stormm/src/AlertCenterBundle/Entity/AbstractNotification.php" timestamp="1528707277325">
+        <mark key="[" line="23" column="151" />
+        <mark key="]" line="23" column="151" />
+        <mark key="." line="23" column="151" />
       </file>
       <file name="/log_errors [STAGING]" timestamp="1526022938728">
         <mark key="[" line="0" column="0" />
@@ -551,7 +550,7 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>cdoc_category_id</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>last_update</text>
@@ -560,34 +559,34 @@
         <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxNYXBwaW5nIGFzIE9STTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsnaWQnID0+ICRlbnRpdHktPmdldElkKCldOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0hPVyBWQVJJQUJMRVMgTElLRSAiJXZlcnNpb24lIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsnaWQnID0+ICRlbnRpdHktPmdldElkKCldOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IElEX1JFR0lPTkFMX0RJUkVDVE9SID0gMzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5kIAo=</text>
+        <text encoding="base64">U0hPVyBWQVJJQUJMRVMgTElLRSAiJXZlcnNpb24lIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7CiAgICBwcml2YXRlICRlcnJvckNvZGU7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IElEX1JFR0lPTkFMX0RJUkVDVE9SID0gMzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7Cg==</text>
+        <text encoding="base64">aW5kIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGIgPSAkZGI7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7CiAgICBwcml2YXRlICRlcnJvckNvZGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT53aGVyZSgnb19vY19pZCA9IDEwJyk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+d2hlcmUoJ29fYWdyZWVtZW50X3R5cGUgPSAxJyk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdCgnbW1fb2ZmZXJzX2NhdGVnb3JpZXNfY3onLCAnby5vX29jX2lkID0gb2NfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydiJyA9PiAnbW1fYnJhbmNoZXMnXSwgJ28ub19iX2lkID0gYl9pZCcsIFtdKTsKICAgICAgICAgICAgICAgICAgICAkc2VsZWN0LT5qb2luTGVmdChbJ2NpdHknID0+ICd6b25lX2NpdGllcyddLCAnemNfaWQgPSBvLm9femNfaWQnLCBbXSk7CiAgICAgICAgICAgICAgICAgICAgJHNlbGVjdC0+am9pbkxlZnQoWydjbGllbnQnID0+ICRjbGllbnRdLCAnby5vX2lkID0gY2xpZW50LmNsaWVudF9vZmZlcicsIFtdKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGIgPSAkZGI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -637,12 +636,12 @@
         <entry>bp</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry>q</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Vcs.UpdateProject</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
