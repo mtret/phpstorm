@@ -329,11 +329,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528713202435">
+      <file name="/Dummy.txt" timestamp="1528721333268">
         <mark key="e" line="0" column="19" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Api/Webservice/StormmBook/Resource/OneShotDemand/OneShotDemandResourceV1.php" timestamp="1502442566200">
@@ -507,7 +507,7 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>[MM-5224][FTR] rework sq</text>
+        <text>MM-5223</text>
       </register>
       <register name="/" type="4">
         <text>last_update</text>
@@ -543,7 +543,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgJGRiOwogICAgcHJpdmF0ZSAkc3RhdGU7CiAgICBwcml2YXRlICRsYW5ndWFnZTsKICAgIHByaXZhdGUgJHRyYW5zbGF0ZTsKICAgIHByaXZhdGUgJHVzZXI7CiAgICBwcml2YXRlICRhY2w7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -596,9 +596,9 @@
         <entry>q</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>w</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
