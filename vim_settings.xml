@@ -56,7 +56,7 @@
         <mark key="." line="1855" column="59" />
         <mark key="^" line="1855" column="59" />
       </file>
-      <file name="/201805301548_MM-5174_change_client_document_type_numbers.php" timestamp="1528703851135" />
+      <file name="/201805301548_MM-5174_change_client_document_type_numbers.php" timestamp="1528704811222" />
       <file name="/mm_offer_lvs [TESTING]" timestamp="1526022935009">
         <mark key="[" line="0" column="0" />
       </file>
@@ -239,6 +239,7 @@
         <mark key="^" line="80" column="15" />
         <mark key="." line="80" column="15" />
       </file>
+      <file name="/201806041519_MM-5174_add_api_stormmbook_module.php" timestamp="1528705107648" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console.sql" timestamp="1513197433545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -250,6 +251,7 @@
         <mark key="^" line="1" column="64" />
         <mark key="." line="1" column="64" />
       </file>
+      <file name="/201806041524_MM-5174_add_fin_headquarters_mail_to_configuration.php" timestamp="1528705124174" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/lib/Stormm/Client/Tipster/RewardType/TipsterRewardType.php" timestamp="1526027501182">
         <mark key="[" line="15" column="87" />
         <mark key="]" line="15" column="87" />
@@ -275,6 +277,12 @@
         <mark key="]" line="85" column="17" />
         <mark key="." line="85" column="7" />
         <mark key="^" line="59" column="82" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d801f9fe-e827-489e-860f-7ac5556a90c3/console_79.sql" timestamp="1528705090908">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="restClient/response1.json" timestamp="1513163013194">
         <mark key="[" line="64" column="16" />
@@ -320,7 +328,7 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1526024263581">
+      <file name="/dummy.sql" timestamp="1528704909396">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -405,6 +413,10 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/mm_client_documents [@PRODUKCE]" timestamp="1528704905890">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ClientFileResource.php" timestamp="1528704719679" />
       <file name="$USER_HOME$/PhpstormProjects/stormm/app/views/scripts/actionattractions/form.phtml" timestamp="1502094981816">
         <mark key="[" line="26" column="17" />
         <mark key="]" line="27" column="11" />
@@ -537,7 +549,7 @@
         <text>jjjkkk</text>
       </register>
       <register name="-" type="4">
-        <text>[&quot;error&quot;] = &quot;Číslo nabídky musí být celé číslo&quot;;</text>
+        <text>cdoc_category_id</text>
       </register>
       <register name="/" type="4">
         <text>last_update</text>
