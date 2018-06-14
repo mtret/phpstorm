@@ -126,8 +126,8 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="ctrl alt decimal" />
   </action>
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="shift f10" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="pause" />
   </action>
   <action id="ShowUsages">
