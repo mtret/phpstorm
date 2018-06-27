@@ -4,7 +4,7 @@
     <property name="created">2017-12-11T07:30:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-06-27T12:47:08</property>
+    <property name="modified">2018-06-27T12:50:48</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -514,7 +514,6 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="b0bec5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -550,7 +549,6 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="b0bec5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -563,14 +561,11 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="b0bec5" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
-      <value>
-        <option name="FOREGROUND" value="b0bec5" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_DOT">
       <value>
@@ -637,7 +632,6 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="b0bec5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2500,7 +2494,7 @@
     </option>
     <option name="PHP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="b0bec5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2514,7 +2508,7 @@
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="b0bec5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
