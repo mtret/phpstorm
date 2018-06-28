@@ -4,10 +4,8 @@
     <option name="selectedTheme" value="LIGHT_CUSTOM" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isMaterialDesign" value="false" />
     <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="00bcd4" />
-    <option name="useMaterialIcons" value="false" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
