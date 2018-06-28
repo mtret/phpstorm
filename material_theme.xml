@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.0.4-2018.1" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="selectedTheme" value="LIGHT_CUSTOM" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isMaterialDesign" value="false" />
@@ -11,7 +11,6 @@
     <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
-    <option name="isMaterialTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="settingsSelectedTab" value="5" />
     <option name="fileStatusColorsEnabled" value="true" />
