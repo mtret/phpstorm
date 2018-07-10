@@ -1,16 +1,16 @@
-<scheme name="Material Theme - Default TERM" version="142" parent_scheme="Default">
+<scheme name="Material Theme - Default TERM copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-12-11T12:05:39</property>
+    <property name="created">2018-07-10T09:59:25</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-07-10T09:57:37</property>
-    <property name="originalScheme">_@user_Material Theme - Default</property>
+    <property name="ideVersion">2018.1.6.0.0</property>
+    <property name="modified">2018-07-10T10:05:19</property>
+    <property name="originalScheme">Material Theme - Default TERM</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Terminus (TTF)" />
-  <option name="CONSOLE_FONT_NAME" value="Terminus (TTF)" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
