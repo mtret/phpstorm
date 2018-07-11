@@ -47,6 +47,8 @@
   <action id="EditorCut">
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
@@ -100,6 +102,10 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift ctrl alt period" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="alt #10000ed" />
   </action>
@@ -109,6 +115,10 @@
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
     <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
