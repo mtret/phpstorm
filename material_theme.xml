@@ -6,11 +6,12 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="00bcd4" />
+    <option name="useMaterialIcons" value="false" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="fileStatusColorsEnabled" value="true" />
     <option name="userId" value="-3b9dab72:163fd5095d0:-7fff" />
     <option name="allowDataCollection" value="true" />
