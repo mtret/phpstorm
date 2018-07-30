@@ -4,12 +4,12 @@
     <property name="created">2018-06-14T09:42:47</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.5.0.0</property>
-    <property name="modified">2018-06-14T09:43:33</property>
+    <property name="modified">2018-07-30T08:08:25</property>
     <property name="originalScheme">Google Developer Tibau copy3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Terminus (TTF)" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Terminus (TTF)" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="80be8f" />
