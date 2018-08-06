@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.7.0" />
+    <option name="version" value="2.7.2" />
     <option name="selectedTheme" value="LIGHT_CUSTOM" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
@@ -14,5 +14,6 @@
     <option name="settingsSelectedTab" value="2" />
     <option name="userId" value="-3b9dab72:163fd5095d0:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
