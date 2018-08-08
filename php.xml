@@ -6,8 +6,8 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/PhpstormProjects/stormm/bin/phpcs" />
       <phpcs_by_interpreter interpreter_id="c64fd4d3-f784-4031-93b1-6b2013c75417" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Symfony2;Zend" tool_path="/root/.composer/vendor/bin/phpcs" />
+      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/PhpstormProjects/stormm/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
