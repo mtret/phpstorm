@@ -4,7 +4,7 @@
     <property name="created">2017-12-13T18:48:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-08-16T13:19:19</property>
+    <property name="modified">2018-08-21T08:20:26</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -17,4 +17,12 @@
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a7700" />
     <option name="FILESTATUS_RENAMED" value="7c7c" />
   </colors>
+  <attributes>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="37474f" />
+        <option name="BACKGROUND" value="fdf6e3" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
