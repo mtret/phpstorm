@@ -4,7 +4,7 @@
     <property name="created">2018-08-23T08:42:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2018-08-23T09:49:19</property>
+    <property name="modified">2018-08-23T09:56:08</property>
     <property name="originalScheme">Google Developer Tibau copy3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -18,7 +18,7 @@
     <option name="BORDER_LINES_COLOR" value="666666" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="cfd6d2" />
-    <option name="DELETED_LINES_COLOR" value="ea6d53" />
+    <option name="DELETED_LINES_COLOR" value="eae203" />
     <option name="GUTTER_BACKGROUND" value="cfd6d2" />
     <option name="HTML_TAG_TREE_LEVEL0" value="86b3" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
@@ -26,6 +26,10 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="SELECTION_BACKGROUND" value="ccccff" />
     <option name="SELECTION_FOREGROUND" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="7ab889" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="ea6d53" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="3b9dcb" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="ea6d53" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3b9dcb" />
   </colors>
   <attributes>
