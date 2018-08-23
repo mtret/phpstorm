@@ -1,12 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.8.2" />
-    <option name="selectedTheme" value="LIGHT_CUSTOM" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="009688" />
-    <option name="useMaterialIcons" value="false" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
