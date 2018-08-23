@@ -3,11 +3,11 @@
     <option name="notificationsColor" value="80cbc4" />
     <option name="treeSelectionColor" value="546e7a" />
     <option name="highlightColor" value="546e7a" />
-    <option name="secondBorderColor" value="d3e1e8" />
+    <option name="secondBorderColor" value="f3f4f5" />
     <option name="tableSelectedColor" value="546e7a" />
-    <option name="contrastColor" value="546e7a" />
-    <option name="disabledColor" value="d2d4d5" />
-    <option name="secondaryBackgroundColor" value="eae8e8" />
+    <option name="contrastColor" value="cfd6d2" />
+    <option name="disabledColor" value="546e7a" />
+    <option name="secondaryBackgroundColor" value="cfd6d2" />
     <option name="buttonColor" value="f3f4f5" />
     <option name="selectionForegroundColor" value="ffffff" />
     <option name="selectionBackgroundColor" value="546e7a" />
